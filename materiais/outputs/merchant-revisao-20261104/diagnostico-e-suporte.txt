@@ -1,0 +1,45 @@
+ABOUT BEER — Produtos em análise no Merchant Center
+Consulta realizada em 04/11/2026 | Conta 5329306689
+
+Os quatro produtos prioritários foram inspecionados individualmente. O motivo visível é Análise pela política. Em todos, Requer atenção informa zero problemas. A conta informa Não há problemas para corrigir.
+
+Produto / ID / última atualização exibida
+Chopeira 5L preta / 7-40 / 02/11/2026 15:04:01
+Chopeira 2L preta / 115-23 / 04/11/2026 01:29:56
+Kit Essencial 5L / 49 / 30/10/2026 10:49:12
+Kit Essencial 2L / 103 / 04/11/2026 01:29:51
+
+Todos constam em estoque e com preferências Mostrar no Google após aprovação e Mostrar nos anúncios marcadas.
+
+A fonte PMax API (Não remover), ID 10679921519, contém 31 produtos. Li os 31 produtos na lista filtrada e todos constam Em análise.
+O catálogo total informa 52 produtos, dos quais 32 Não aparecem no Google. Há produtos aprovados originados de API Content e rastreamento do domínio.
+Esse padrão localiza o bloqueio no conjunto enviado pela fonte PMax API, mas não prova um defeito técnico da integração ou um código específico de política.
+
+Problema confirmado de qualidade dos dados
+As descrições das chopeiras 2L e 5L começam com código CSS literal, como body { background-color ... } e classes de layout.
+Na 2L, o campo também contém narrativa sobre cerveja artesanal, vinho e experiência cervejeira. A descrição deve enfatizar características reais do equipamento e o que está incluído.
+Os kits têm descrições diferentes, sem o mesmo início em CSS, e também estão em análise. Logo, a limpeza de CSS não pode ser apresentada como solução suficiente para os 31 produtos.
+A imagem principal da 5L foi inspecionada visualmente e mostra o equipamento sobre fundo claro. Não foi identificado nesse exame um motivo de reprovação declarado pela plataforma.
+
+O que permanece desconhecido
+O Google não expõe, no detalhe consultado, qual regra motivou a revisão.
+Não foi confirmada classificação atual como bebida alcoólica.
+A última atualização do produto não informa quando a revisão começou.
+Não foi comprovado que o envio recorrente da Tray reinicia o prazo.
+Não há prazo individual de conclusão exibido no detalhe.
+
+Prioridade
+Solicitar ao suporte Google uma investigação da revisão persistente do lote da fonte 10679921519 e informar os quatro IDs prioritários. Pedir o motivo interno, a data de início e a ação necessária para liberação.
+Em paralelo, preparar limpeza das descrições na fonte que envia os dados, preservando informação técnica verdadeira, IDs e consistência com o site.
+Solicitar à Tray a conferência dos logs para verificar se envia atualizações normais ou se remove e recria ofertas. Não concluir que isso ocorre apenas por haver timestamps recentes.
+O Google informa prazo usual de 3 a 5 dias úteis para revisão de anúncios do Shopping. A contagem depende do início efetivo da revisão, que não foi revelado no painel.
+https://support.google.com/merchants/answer/12488713?hl=pt-BR
+
+Mensagem preparada para o suporte Google, sem envio
+Olá. Na conta Merchant Center 5329306689, About Beer, os 31 produtos da fonte PMax API (Não remover), ID 10679921519, constam Em análise. Os produtos prioritários 7-40, 115-23, 49 e 103 exibem Não é possível mostrar este produto durante a Análise pela política. A aba Requer atenção mostra zero problemas nesses itens e a página de políticas da conta informa Não há problemas para corrigir.
+Comercializamos chopeiras térmicas e kits de equipamentos. Solicitamos investigação da revisão desse conjunto, informando a política ou motivo interno, a data de início da análise e a correção exigida para liberação. O status já foi observado em auditoria de 28/10 e persiste em 04/11. As datas de atualização do feed não identificam o começo da revisão.
+Por favor, verifiquem também se existe algum conflito de fontes ou estado de processamento pendente para os itens enviados por esta fonte.
+
+Status da auditoria
+Consulta e documentação concluídas. Não foram feitas alterações ou enviados chamados.
+

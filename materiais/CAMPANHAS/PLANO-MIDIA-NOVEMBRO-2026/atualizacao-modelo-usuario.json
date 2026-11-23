@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-04",
+  "spreadsheetId": "15Ge9gJOhz9jxH-JR8stHg4Aj98anoh8s2gPbYc6RjgY",
+  "url": "https://docs.google.com/spreadsheets/d/15Ge9gJOhz9jxH-JR8stHg4Aj98anoh8s2gPbYc6RjgY/edit?gid=1507353248#gid=1507353248",
+  "sheet": "PLANO DE MÍDIA",
+  "range": "A29:H42",
+  "days": 30,
+  "campaigns": [
+    {
+      "channel": "Meta",
+      "stage": "Topo",
+      "goal": "Tráfego",
+      "name": "Post do Instagram: Veja como é fácil aproveitar a...",
+      "daily": 10,
+      "id": "120251312399970742"
+    },
+    {
+      "channel": "Meta",
+      "stage": "Topo",
+      "goal": "Tráfego",
+      "name": "Post do Instagram: Vocês pensavam que era só pra...",
+      "daily": 40,
+      "id": "120251276716930742"
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [OUTROS PRODUTOS][TESTES]",
+      "daily": 60,
+      "id": "120240817930310742"
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [RMK][CATALOGO]",
+      "daily": 20,
+      "id": "120236399329300742"
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [VALIDADA][CORE BUSSINESS]",
+      "daily": 130,
+      "id": "120233737414010742"
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [RMK][WHATSAPP]",
+      "daily": 20,
+      "id": "120251899426440742"
+    },
+    {
+      "channel": "TRAY",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "FACEBOOK SHOPPING",
+      "daily": 29,
+      "note": "Reserva já presente no modelo do usuário: R$29/dia. Atividade e orçamento na Tray não foram verificados; sem imposto adicional estimado."
+    },
+    {
+      "channel": "Google",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "[PMAX] About Beer",
+      "daily": 40,
+      "id": "22794274983"
+    },
+    {
+      "channel": "Google",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "[PESQUISA] About Beer",
+      "daily": 30,
+      "id": "23451212769"
+    },
+    {
+      "channel": "GPT Ads",
+      "stage": "Meio",
+      "goal": "Tráfego",
+      "name": "[CHATGPT ADS] About Beer | Chopeiras | 10 dias",
+      "daily": 40,
+      "note": "Projeção solicitada: R$40/dia × 30 dias. Campanha anterior com término em 01/11; o planejamento não altera ou reativa a campanha."
+    }
+  ],
+  "totalDaily": 419,
+  "totalMedia": 12570,
+  "metaTax": 1161.75,
+  "totalWithMetaTax": 13731.75,
+  "availableBudget": 13000,
+  "excess": 731.75,
+  "verification": {
+    "formulaErrorsAndValidationViolations": [],
+    "readbackConfirmed": true,
+    "visualReview": "Browser access failed with browser.user unavailable; source formatting and native cell values/validation verified through Sheets connector."
+  },
+  "notes": [
+    "Atualização aplicada no quadro NOVEMBRO criado pelo usuário; nenhuma aba nova criada.",
+    "G30 disponível preservado em R$13.000.",
+    "F33:F42 corrigidos para dividir por G32, o total de novembro.",
+    "Reserva Tray existente preservada a R$29/dia e marcada como não verificada em nota.",
+    "GPT R$40/dia por 30 dias é premissa de planejamento, sem alteração da campanha."
+  ]
+}

@@ -1,0 +1,43 @@
+Data: 04/11/2026
+Canal: https://support.google.com/merchants/gethelp?hl=pt-BR
+Categoria: Avaliação do produto pendente
+Contato selecionado: E-mail
+Resposta para: rogertobace@v4company.com
+Merchant: 5329306689
+Google Ads: 9185273300
+Status confirmado na tela: Seu e-mail foi enviado
+Protocolo: não exibido na confirmação. O caso 26828341168 mostrado no painel de sugestões era antigo, sobre API Google Ads, e não corresponde a esta solicitação.
+
+Solicitação de revisão prioritária — produtos principais em análise antes da Black Friday | Merchant Center 5329306689
+
+Olá, equipe Google!
+
+Precisamos de apoio para revisar e liberar os produtos principais da About Beer (https://www.aboutbeer.com.br), conta Merchant Center 5329306689, Google Ads 918-527-3300, antes da Black Friday de 27/11/2026.
+
+Os 31 produtos da fonte "PMax API (Não remover)", ID 10679921519, estão com status "Em análise". Nos detalhes, aparece "Não é possível mostrar este produto durante a Análise pela política".
+
+Itens prioritários:
+- Chopeira térmica portátil 5L preta — ID 7-40
+- Chopeira térmica portátil 2L preta — ID 115-23
+- Kit About Essencial 5L — ID 49
+- Kit About Essencial 2L — ID 103
+
+Comercializamos chopeiras térmicas portáteis e kits de equipamentos para servir bebidas. Esses produtos não incluem bebidas alcoólicas. Pedimos que a revisão considere a natureza de equipamentos desses itens.
+
+Na verificação de 04/11/2026, os quatro itens constavam em estoque e habilitados para aparecer nos anúncios após aprovação. Entretanto, a aba "Requer atenção" apresenta zero problemas e a página de políticas da conta informa "Não há problemas para corrigir". Não há indicação de política específica nem ação corretiva disponível.
+
+O status já havia sido observado em 28/10 e continua impedindo a divulgação dos produtos principais, comprometendo a preparação das campanhas de Black Friday. A data de início da análise não aparece para nós.
+
+Solicitamos:
+1. Revisão manual prioritária dos quatro produtos e do conjunto enviado pela fonte.
+2. Identificação da política ou motivo específico que mantém os itens em análise.
+3. Orientação objetiva sobre qualquer correção necessária.
+4. Liberação dos produtos que estiverem em conformidade com antecedência para a Black Friday.
+5. Data de início da revisão, previsão de conclusão e número do protocolo.
+
+Observação sobre este formulário: a fonte está identificada no Merchant como API Merchant, por integração automatizada. O campo obrigatório "Método de envio" só ofereceu upload manual, FTP ou Programação. Selecionamos Programação por ser automatizado, mas o método real é API Merchant; não é uma busca programada de arquivo.
+
+Preferimos resposta por e-mail: rogertobace@v4company.com.
+
+Obrigado,
+Roger Tobace

@@ -1,0 +1,743 @@
+out. 28, 2026
+Checkin Semanal - About Beer & V4 - Transcrição
+00:00:11
+
+Roger Tobace: Fala aí, Igor.
+Igor Auler: Beleza.
+Roger Tobace: E aí, vamos demais? comemorou bastante as eleições,
+Igor Auler: Mais eu comemoro a eleição não,
+Roger Tobace: mano.
+Igor Auler: cara. Eu tço pro Flamengo só.
+Roger Tobace: Então você tá bem, né? Não tá bem não, porque o Flamengo caiu também.
+Igor Auler: Pois é.
+Roger Tobace: Eh, deixa eu ver se o Dani vem. Tá vindo, né? Igor, você conseguiu avançar? tá ali na questão de criar PI da TR
+Igor Auler: Já tá tudo pronto, já tá rodando a P da TR, a PI da Via, a PI de tudo, mas não tem como passar acesso. Por quê? Porque a PI da TR, ele é um aplicativo dentro da TR. E quando você instala o aplicativo, você recebe um código e é de uso único, entendeu? Então assim, já tá plugado no meu sistema aqui. O que eu posso fazer é talvez o meu sistema gerar alguma API para você e você consultar dele, porque ele tá online, entendeu?
+Roger Tobace: E aí é de boa de fazer isso?
+
+
+00:01:49
+
+Igor Auler: Eu vou dar uma pesquisada aqui.
+Roger Tobace: Você conectou o Mercado Livre também?
+Igor Auler: Mercado Livre. Sim, já tá. Não, Mercado Livre é fácil. Bling e o Mercado Livre são fáceis.
+Roger Tobace: É porque é só no navegador, né? Então, Igor, vê um jeito,
+Igor Auler: A 20 eu tive que abrir chamado também.
+Roger Tobace: vê um jeito aí de eu ter acesso somente leitura de dados que aí eu construo,
+Igor Auler: O que que você quer ter acesso nos pedidos, valores? quantidade de pedidos, o status, se foi cancelado, se não. É isso,
+Roger Tobace: é todos os dados importantes para pras campanhas, principalmente as UTMs. Aí é bom vir o produto, a região,
+Igor Auler: tá?
+Roger Tobace: valor mensal, tudo. Cara, tá, eu tava tirando relatório aqui na mão, né? E eu tentei, fiquei a manhã inteira aqui analisando dados da Balt, mas se eu tivesse o na inteligência artificial era mais fácil. Fácil. Aí eu vou construir aquele dash lá.
+Igor Auler: M.
+Roger Tobace: Vocês tendo acesso aos dados, é fica mais fácil construir o dash.
+
+
+00:03:00
+
+Roger Tobace: E agora os token tá mais barato também. E aí você acha que é tranquilo?
+Igor Auler: Cara, vou ter que dar uma olhada. Acredito que sim.
+Roger Tobace: Por do computador, ele fica na nuvem ali.
+Igor Auler: Não tá, tá hospedado. Tá tudo hospedado aqui no os site aqui, ó. Ah. Tá vendo aí?
+Roger Tobace: Esse teste você construiu.
+Igor Auler: Tá aparecendo aí isso? Na verdade, esse sistema inteiro aqui, né? Então assim, ó, tudo isso aqui pega via API, né? Então tem todos os produtos, né? Dubling, eu tenho todos os anúncios no Mercado Livre. Eu tô construindo um negócio aqui que vai fazer eh promoção automática dos produtos. Eh, aqui tem todas as vendas, sazonalidade, né, em novembro, dezembro, quando que vende mais cada produto e tudo mais. Eh, eu tenho a parte de financeiro aqui, então eu tenho uma aba aqui que traz tudo da Pay, do Bling, essa tudo do Mercado Livre, essa aqui tudo da trade. E aí eu tenho uma que é consolidado, que cruza tudo com o pedido lá no Bling, né?
+
+
+00:04:37
+
+Igor Auler: E aqui eu tenho o dashboard, né? Então, eu tenho faturamento total que eu já tô dividindo o que que é about be, o que que é about group ti, eh, custos, etc. Eh, aí o que que eu tô trazendo aqui? Venda por canal, né? Então, o que que é tray, o que que é bling, o que que é Mercado Livre, por estado, por sexo, por hora, por dia da semana, por dia da semana e hora, né? Quando pedido é direto no Bling, eu não tenho a hora, por isso tem esse nd aqui não identificado. Então eu sei aqui mais ou menos qual hora que vende mais, tudo mais por dia do mês, né? Eu posso ver tanto por quantidade de pedidos quanto por faturamento esses dados. E tudo que eu clicar aqui é filtrado, né? Então, ah, vou clicar só no dia 7. Ele já automaticamente filtra aqui o dia 7. Me traz só os dados do dia 7. Então eu tô construindo isso aqui e algumas tem várias automações aqui dentro também. Então aqui toda a parte de integração, né?
+
+
+00:05:43
+
+Igor Auler: Então criei um negocinho para integrar com cada coisa e fui batendo os tokens aqui, as integrações com cada coisa, cada coisa. Eu tenho até um chatzinho aqui que eu posso até falar com ele, ó.
+Roger Tobace: É, se for de integral o meta o Google Xfor.
+Igor Auler: Eh, pode ser, mas é, aí eu pego dados de insite, né? É porque aqui, cara, é mais um RP, é mais parte financeira que eu tô olhando. Eu não tô olhando a parte de insite. Eu já integrei o meta no naquele negócio do do WhatsApp, né? Então, o negócio que eu mostrei, né, do robô respondendo tudo lá no Instagram, etc, tudo mais. Então, eu já integrei o meta lá, tanto que ele tá respondendo lá no no Instagram também. Então, aqui tá tudo automatizado, né? E aí assim, qualquer coisa que chega, ele me manda alerta. Se eu tô recebendo alerta, saiu, preciso responder alguém no no Mercado Livre. Eh, tem um cliente esperando contato no WhatsApp, pediu atendimento de alguém também fora do horário, pergunta sem resposta no Mercado Livre, pedido entregue, avaliação, já tá tudo mandando mensagem automática.
+
+
+00:07:04
+
+Igor Auler: Então, o cara compra no Mercado Livre, já manda mensagem para ele agradecendo e pedindo para avaliar. Se ele responde, abre uma janela de 30 dias e aí se o cara assim que recebe eu recebo um alerta e 24 horas depois eu mando um follow up pedindo pro cara avaliar. Toda a venda já chega aqui, ó, com o valor da venda, tudo e a mensagem que foi enviada para ele. Eh, é isso.
+Roger Tobace: Então aí você construiu essa frente de mais para você olhar o financeiro, né? tinha que construir também um pra gente analisar o marketing e aí é só conectar o meta o Google. O meta é muito simples. Google dá um pouquinho mais de trabalho e aí vem tudo do Google, né? Já fora merchan
+Igor Auler: Eu dou uma olhada nisso aqui depois, mas assim, não adianta eu conectar aqui. Eu não vou conseguir dar acesso aqui nessa nesse sistema daqui, entendeu?
+Roger Tobace: é ou criar um sistema novo,
+Igor Auler: O eu posso até criar aqui,
+Roger Tobace: mas é porque você já tá com as APS aí da do Mercado Livre
+
+
+00:08:03
+
+Igor Auler: não é? Aí, cara, tô há meses fazendo isso aqui,
+Roger Tobace: da Agora ficou mais fácil,
+Igor Auler: cara. Eh,
+Roger Tobace: né?
+Igor Auler: eu tô há meses fazendo com I, cara. 100 IA, eu nem conseguiria fazer isso. Isso aqui um sistema que, p****, se fosse desenvolvido na mão ia ser anos fazendo quantidade de coisa que eu integrei, quantidade de cálculo que tem aqui, não é só integração, tem muito cálculo, muita regra de negócio fazendo aqui, né? Então,
+Roger Tobace: Não, dá até para você vender isso aí.
+Igor Auler: ah, mas tá totalmente particularizado pro meu negócio aqui, entendeu?
+Roger Tobace: Ah, mas a galera que tem essas mesmas plataformas,
+Igor Auler: Ah,
+Roger Tobace: por exemplo, Bling, Tray,
+Igor Auler: mas para vender tem que ser um sistema agnóstico.
+Roger Tobace: Mercado Livre, né?
+Igor Auler: Aí o cara não tem bling, o cara tem time, o cara não tem Mercado Livre, o cara vende na Amazon na Shopee. Então, mas enfim, eu posso tentar disponibilizar dados aqui através dele aqui para você também via API. E aí tu faz o seu aí que eu não não tenho ideia, eu tenho muita coisa para mexer aqui ainda, cara.
+
+
+00:09:04
+
+Igor Auler: Eu tô fazendo as minhas automações. Então, toda a parte de conta aqui, cara, são 500 pedidos no Mercado Livre por mês. Eu tenho que todo mês ir lá manualmente, um a um, checar quanto que bateu, qual foi a taxa e da baixa em cada um deles. Então assim, eu tô automatizando os processos que são braçais aqui.
+Roger Tobace: Entendi. Não, legal. vai deixar por por último, então fazer essa parte do marketing, né,
+Igor Auler: Eu nem tinha pensado em olhar isso, cara. Mas assim,
+Roger Tobace: o mais importante, cara,
+Igor Auler: pô, não importante,
+Roger Tobace: é o que vai fazer você vender.
+Igor Auler: cara. Eu pago vocês para isso, cara. p****, senão eu paro de pagar vocês e faço eu aqui, cara. p****,
+Roger Tobace: Ah, eu sei.
+Igor Auler: é,
+Roger Tobace: É porque é essa questão,
+Igor Auler: pô.
+Roger Tobace: é é porque você tá com os acessos da API, né? Eu, a minha intenção é construir isso.
+Igor Auler: Então, mas eu posso te o que eu tô te falando, eu posso através daqui te liberar um acesso dos dados que você precisa.
+
+
+00:10:02
+
+Roger Tobace: E essa reviravolta tecnológica que a gente teve é muito recente, né? É como você falou, se tá mesmo construindo, eu se dois, três meses atrás nunca conseguiria também fazer esse tipo de integração e análise, mas tendos dados ali,
+Igor Auler: Isso. Mas assim,
+Roger Tobace: aí a gente consegue construir.
+Igor Auler: isso isso aonde a gente tá com o Cloud, etc. que eu consigo fazer isso. Já tô desde o início do ano que isso já tá possibilitado, né? Porque assim, eu sou um cara de dados, eu sou um cara de TI, mas eu não sou desenvolvedor, não saberia desenvolver isso aqui, não. Não teria skill para desenvolver isso aqui. Então foi tudo com ajuda de inteligência artificial.
+Roger Tobace: Sim, sim. Ô Igor, não sei o que aconteceu com o Dani.
+Igor Auler: Aham.
+Roger Tobace: Vamos lá. Eu vou te dar uma visão minha aqui das campanhas. Eu passei, como te falei, tava analisando dados assim, mas o que que eu sinto? Que eu não chego em resposta, sabe? Fico analisando, ver se tem correlação, que a gente pode fazer para melhorar.
+
+
+00:10:57
+
+Roger Tobace: Então, não preparei uma apresentação aqui. Vou responder aquelas perguntas que você me fez semana passada, que é sobre os melhores criativos da Black do Natal, e te mostrar alguns ensai que que eu cheguei aqui sobre sobre os dados que eu analisei, tá?
+Igor Auler: Bom
+Roger Tobace: Ah, falando sobre Natal aqui, vamos black Natal, né? criativo. A conclusão que eu chego aqui pegar para analisar novembro, por exemplo, das campanhas. O computador fica bem lento, não acho que precisa comprar computador não. Eh, tá novembro aqui, 2025. Beleza? Que a gente tem fazer um filtro resultado. Primeiramente aqui, tá? A gente não faturou tanto no Metaedads. Se a gente pegar aqui o total investido, por quanto faturou,
+Igor Auler: Que que você tá orando? Dezu, novembro. Tá.
+Roger Tobace: Black Friday,
+Igor Auler: É.
+Roger Tobace: tá?
+Igor Auler: Tá bom. Угуm.
+Roger Tobace: Tá, vamos falar dos criativos primeiro. Eh, criativos que mais venderam aqui na Black. Vamos pegar a campanha principal que é que a gente roda até hoje, né?
+
+
+00:12:45
+
+Roger Tobace: Vamos ver. Não são esses dois.
+Igor Auler: Tá ali. É o de baixo ali.
+Daniel Santos: Opa, fala time.
+Igor Auler: Tá.
+Daniel Santos: Cara,
+Roger Tobace: Yeah.
+Daniel Santos: fiquei não tô aqui olhando pra tela.
+Igor Auler: Oi.
+Daniel Santos: Não, não, eu que eu tava sem internet, Gão.
+Igor Auler: Ah,
+Daniel Santos: Desculpa entrando aqui,
+Igor Auler: tá,
+Daniel Santos: cara. Fiquei olhando pra tela, esperando conectar. Meu PC ele não tem um chavinho de Wi-Fi.
+Igor Auler: cara. Ordena ali para isso. Resultado aí, ó.
+Roger Tobace: Que que a gente tem que mais vendeu lá em novembro, né? O criativo clássico, que era o que mais vendia. Curso por compra R$ 60. A gente tá com curso por compra muito próximo disso aqui esse mês. Inclusive tá com outros criativos. E criativo mesmo da Black, cadê? Ah, não é nesse grupo, tá?
+Igor Auler: É, deve ser outro grupo.
+Roger Tobace: Mas nesse grupo que teve 34 foram foram esses, né? E esse aqui,
+Igor Auler: Aham.
+
+
+00:13:39
+
+Roger Tobace: Chopeiras estilosas. Você viio da praia é o cara chutando isopor, né? Então são os criativos clássicos,
+Igor Auler: Uhum.
+Roger Tobace: tá,
+Igor Auler: Tá bom.
+Roger Tobace: que performaram lá.
+Igor Auler: Tá. E por que que esses dois estão desativados agora nesse momento? Esses aí eu entendi que eles ficavam ativados sempre, né? Porque são os grandes,
+Roger Tobace: O o da praia tá tá
+Igor Auler: os dois estavam desativados ali.
+Roger Tobace: aqui que ela também tá em outro conjunto. E os específicos de black são criativos muito parecidos com o que a gente faz, tá?
+Igor Auler: Uhum.
+Roger Tobace: É a questão apelando pro desconto aí, tá vendo?
+Igor Auler: Sì.
+Roger Tobace: Então não tem assim, ah, pô, pega um insite lá com os criativos que a gente rodou. Tem grandes insites para tirar. São criativos que a gente já vem fazendo já.
+Igor Auler: Tá bom.
+Roger Tobace: Inclusive não tá var.
+Igor Auler: Que que é o Bota o segundo ali. Eu gostei dos criativos que o cara fez lá.
+
+
+00:14:42
+
+Igor Auler: É, tudo bem. Então não vamos ativar nenhum desses não. Mas a gente tem que ativar os dois campeões de venda lá, cara. Não pode ficar desativado.
+Roger Tobace: อ
+Igor Auler: Volta lá nele. Tu falou, eles estão desativados. Então,
+Roger Tobace: É porque aquele grupo que vendeu vem desse aqui, por isso que tá desativado.
+Igor Auler: tá, entendi.
+Roger Tobace: Mas esse do chute do isopor, se eu não me engano, não tá ativado não.
+Igor Auler: A gente pode tentar voltar ele.
+Roger Tobace: Sim, sim.
+Igor Auler: Eu eu vocês conhecem a Turbo Partners?
+Roger Tobace: Não.
+Daniel Santos: De de qual de qual plataforma?
+Roger Tobace: He.
+Daniel Santos: Do meta mesmo.
+Igor Auler: Não, é o eh ele se propõe a criar vídeos com o G6, né? Então eu contratei eles.
+Daniel Santos: Ah, dá uma olhada.
+Igor Auler: Eh, eu contratei eles e comprei, sei lá, 20 e poucos vídeos e eles vão botar três ou quatro G6.
+Daniel Santos: Legal.
+Igor Auler: Cada um vai fazer seis vídeos, eu acho, alguma coisa assim, e com dois roteiros em cada um, alguma coisa assim.
+
+
+00:16:03
+
+Igor Auler: E o que vai? E aí, ou seja, vão, cada vídeo vai ter duas ou três versões a AC. E aí que eu vou mandar? Eu vou mandar para uns, para todos, eu vou mandar chopeira de cinco. Eu eu retorno esses produtos depois, tá?
+Roger Tobace: Ah, GC de verdade,
+Igor Auler: Para todos.
+Roger Tobace: não é? Ea, né?
+Igor Auler: Não, o GC mesmo. Isso.
+Roger Tobace: Ah, legal.
+Igor Auler: Eu vou mandar para todos a chopeira de 5 L e a de 2 L.
+Daniel Santos: Legal.
+Igor Auler: E aí para um deles eu mando café, para outro eu mando água com gás e para outro eu mando a mochila que chegou agora eh com a taça. E aí eu vou tentar dividir esses criativos e aí fazer o criativo mais humanizado e tudo mais. Aí vamos ver se funciona.
+Daniel Santos: Pô, legal. Sensacional, na verdade.
+Roger Tobace: E aí,
+Igor Auler: Eu tenho reunião com eles amanhã.
+Roger Tobace: Igor?
+Igor Auler: que é o onboarding lá e entender como é que eles vão fazer lá a COP e e vão achar os Ah, eu acho que deve ter algumas dinâmicas lá para eu eu já preenchi aqui um briefing e tudo, mas deve ter alguma dinâmica para achar.
+
+
+00:17:07
+
+Igor Auler: Eles tem um uma base lá gigantesca de G6. E aí, de acordo com que eu coloquei lá, eles vão tentar achar pessoas parecidas e a gente vai chegar
+Daniel Santos: Ja.
+Igor Auler: num num denominador comum lá de quem são os G6 que a gente vai testar.
+Roger Tobace: Qual que é minha recomendação? A minha não, né? O que que o o Meta recomenda atualmente?
+Igor Auler: Угу.
+Roger Tobace: Tá até dando esse insight aqui pra gente. Já trago isso há algum tempo, mas até para você pegar, deixa e levar lá para eles, pra reunião, pro Dani também na hora de fazer os criativos. Que que o Meta pede? Tá, atualmente aqui. Antigamente a gente descobriu o criativo campeão, pausava os outros, potencializava o orçamento lá naquele criativo campeão e deixava o pautorado até saturar, né? E a gente chegou nesse modelo de pegar os criativos utilizando muito essa questão do apelo do desconto
+Igor Auler: Угу.
+Roger Tobace: ali.
+Daniel Santos: Pronto.
+Roger Tobace: Então, ah, é desconto, é brind, tudo mais. E a gente acabou só fazendo criativos assim, né?
+
+
+00:18:02
+
+Roger Tobace: Se a gente pegar tudo os últimos criativos que a gente vem, a gente só trabalha esse tipo de comunicação. E aí o insite que eu trago é: "Pô, vamos, isso aqui é um viés criativo que a gente pode utilizar, né, que é a questão do cupom e dos brindes, mas a gente tem que explorar, dar vários ângulos pro pros criativos da Balt. Por exemplo, um ângulo que a gente pode dar para um criativo é a comparação chopeira cooler. Isso já seria um outro ângulo. Outro ângulo que a gente dá proativo, pô, vamos explorar a questão tecnológica usando a cápsula de CO2, que é bem interessante, gera engajamento, a pessoa acha legal. Agora vamos falar só das características. Tá, agora é o vácuo, é a cápsula, é isso, é isso, isso. Pô, vamos colocar agora a chopeira num ambiente de churrasco, de festa, de fanqueira, ostentação, outro ângulo. Então, a gente tem que trazer nessa variedade, até na hora de você escolher os UGCs ali, dá preferência para escolher diferentes tipos de UGC. Pô, pega a mina gata,
+
+
+00:18:59
+
+Igor Auler: Sim.
+Roger Tobace: pega o gordinho do churrasco, pega o cara fanqueiro da festa da ostetação, pega o cara que vai pescar e leva. Se a gente for colocando diferentes ângulos ou meta vai identificando cada tipo de pessoa e vai mostrando esses criativos pro pro perfil ideal. Então a gente não fica refém,
+Igor Auler: Legal.
+Roger Tobace: tá, de um modelo só de criativo, que é o que a gente tem vem desenvolvendo. A gente precisa trazer essas variações, inclusive modelos diferentes,
+Igor Auler: Uhum.
+Roger Tobace: né? Então tem lá, vamos fazer um com só com estático. Até fiz um motion aqui, depois vou te mostrar, né? Coloca motion também. Então tá, traga a partir de agora, né? Vamos pensar mais nesse viés do meta, tá? E a gente vai testando isso, fazendo blocos de três ou cinco criativos para ver quais estão funcionando melhores. É assim que a gente vai validar, não validar só um, porque não é assim que o meta eh ele converte atualmente, tá?
+Igor Auler: Beleza, beleza. Concordo, cara.
+
+
+00:19:51
+
+Igor Auler: Se puder até dar um resumo disso ali no WhatsApp até para eu mandar para eles também, entendeu?
+Roger Tobace: Tá,
+Igor Auler: esses ângulos que você falou e tudo mais.
+Roger Tobace: vou pegar a transcrição, eu mando lá pra gente. Então, sobre criativo, Igor, é isso, tá?
+Daniel Santos: He.
+Roger Tobace: Acho que não tem muito o que analisar do que foi feito. A gente tá fazendo a mesma coisa e pros próximos criativos é o que eu acabei de falar.
+Igor Auler: Tá bom. Mas eh você chegou a analisar o de Natal também para ver se tem algum ali. Então, por exemplo, a gente achou aí que dá para talvez recuperar esse chuteu e isopor, né? Eh, talvez ali no do Natal vê se tem alguma coisa já para recuperar também, alguma coisa que não seja referente ao Natal, entendeu?
+Roger Tobace: Tá.
+Igor Auler: Porque aí do Natal a gente vê na sequência.
+Roger Tobace: Vou
+Igor Auler: E mas me mostra aí o atual do mês, como é que tá.
+Roger Tobace: aproveitar embalo já. Boa. Beleza.
+
+
+00:20:58
+
+Roger Tobace: Ó, a gente tá com um custo bem legal aqui por conversão, R$ 82 aqui na nossa principal campanha, tá? Então pode ter sido os novos criativos da October, aqueles criativos também starts que eu coloquei. Então é a campanha que vem performando bem, até porque eu te mostrei aqui do novembro do ano passado, esse custava R$ 70, era R$ 10 abaixo. A gente tá com esse custo por compra aqui abaixo dos R$ 100,
+Igor Auler: Угу.
+Roger Tobace: significa que o método tá tá performando bem. Eh, vamos dar uma olhada aqui nos criativos. Então, na principal campanha que a gente tem rodando a validada,
+Igor Auler: Угуm.
+Roger Tobace: a gente tem que colocar aqui esse tipo de criativo que você falou, né? O perene que é da cerveja quente. Aí eu até vou vou escrever aqui para ativar o do isopor. Então, que tem inteligência sempre performou bem. Tem o do lame, né, cara? O lame, a gente não pode tirar da nossa conta, tem que deixar ele sempre rodando. É um rosto conhecido, traz engajamento.
+
+
+00:21:57
+
+Roger Tobace: Esse criativo aqui foi o segundo que mais converteu atrás do lame, converteu até mais barato, né? Esse cara aqui é famoso.
+Daniel Santos: p****,
+Roger Tobace: É muito famoso.
+Igor Auler: É, acho que é até mais que o Lam. Eu acho que ele tem menos seguidor,
+Daniel Santos: Tato Costa de
+Igor Auler: mas eu acho que ele é mais famoso que o Lam.
+Daniel Santos: engajamento. É isso que eu ia falar, ão. Não sei se por por seguidor, número assim, ele é muito grande, mas, pô, vira e mexe você vê alguma coisa dele de comida, mano. Churrasco, o cara tá em todas.
+Roger Tobace: Então esse aqui é o validado, é o conjunto de criativos que a gente sabe que tá performando bem, tá? Aí a gente vem pr como é que a gente vai subir o G Blackfrid, por exemplo, vai subir no teste aqui.
+Igor Auler: Uhum.
+Roger Tobace: Aí vai deixar o meta entender qual o público que ele vai mostrar esses criativos. Se ele mostra um da validada antes, ele já mostra o da black primeiro,
+Igor Auler: Uhum.
+
+
+00:22:41
+
+Roger Tobace: ele vai achar essa ordem, tá? E o performou melhor foi da primeira aqui.
+Igor Auler: Então, mas você vê que os outros não gastou um centavo, né? Ou gastou. Cadê a coluna de de custo?
+Roger Tobace: Não gastou. Não gastou. Ele focou nesse aqui mesmo.
+Igor Auler: Mas é não, aí é só custo por resultado. Cadê a coluna de custo? Eu acho que tá minimizada ali. É a primeira. Ah, a primeira só tá tá aonde?
+Daniel Santos: Valor gasto ali, ó. Aí saiu, carregou agora, ó.
+Igor Auler: Ah,
+Daniel Santos: R$ 20.
+Igor Auler: tá. É,
+Daniel Santos: Até soltou,
+Igor Auler: não, até teve uma de 113.
+Daniel Santos: mas Uhum.
+Igor Auler: Ele gastou bem.
+Roger Tobace: É, é. E nisso aqui, né, na teoria, o Meta falou, gastou 20 contas, ele já entendeu que os outros eram melhores, sabe?
+Igor Auler: Uhum.
+Roger Tobace: Isso aqui foi o suficiente para ele entender que os outros geravam mais resultados, tá? E a gente tem um estático aqui, por exemplo, tem uma veda no estático que a gente faria antigamente, falh, vão pausar que tá ruim, mas não é assim, porque ele vai misturando, ele vai mostrar o vídeo, ele vai mostrar o estático e pode converter uma vez o estático, mas ele tá mostrando pro cara e tá gerando valor também, tá?
+
+
+00:23:50
+
+Igor Auler: É, mas pô,
+Roger Tobace: Então é,
+Igor Auler: tá alto para caraco o custo dela ali, né?
+Roger Tobace: mas a gente tem que analisar,
+Igor Auler: e acaba gastando um monte dinheiro nela.
+Roger Tobace: é assim, é o meta que tô falando, né, Igor? A gente tem que analisar por conjunto. Entendeu?
+Igor Auler: Entendi.
+Roger Tobace: Isso aqui com esse grupo de criativos tá gerando 11 a 81, por mais que os estáticos lá tenham gerado só uma conversão a 200.
+Igor Auler: Aqui não é isso, né? Porque aí pega os cancelados,
+Roger Tobace: Como assim?
+Daniel Santos: É, puxa,
+Igor Auler: não é?
+Daniel Santos: puxa. Aí ele não cancela.
+Igor Auler: Aí puxa os cancelados.
+Daniel Santos: Isso, isso também pode ter aconte Ele.
+Roger Tobace: É,
+Daniel Santos: Pux.
+Roger Tobace: aqui aqui nunca é certo, tá? Se a gente for pegar a métrica certa,
+Igor Auler: Isso.
+Roger Tobace: é lá pegando o TM da TR para saber que realmente virou compra validada.
+Igor Auler: Tá bom.
+Roger Tobace: Mas aqui é um bom indicador que tá que tá convertendo, né?
+
+
+00:24:28
+
+Roger Tobace: Tem que basear por aqui também, né? Não dá para ficar puxando toda vez 100% lá das UTMs. Essa é uma campanha que eu vou dar mais atenção, tá Igor? que é o o catálogo. O objetivo aqui é baixar esse curso por por conversão no remarketing. Eh, tá um pouco alto, então vou dar uma revisada nesses dois públicos aqui. Isso aqui é o público de vídeo, eh, se eu não me engano, 75% dos vídeos, tá? E esse aqui é o visitante, já que a gente roda muita visita, 45 dias. Então vou fazer um teste aqui de diminuir, talvez 30 dias, talvez menos pra gente visualizasse melhor essa campanha, porque o custo tá um pouquinho acima do que a gente espera aqui, né? Tá passando R$ 100. Os outros produtos aqui a gente tem um gap de produção de criativos, né? A gente sempre vem rodando os mesmos criativos, sempre com o mesmo viés. Então para talvez diminuir esse custo aqui por compra. É mais uma questão de criativo mesmo. E aqui a gente separa por produto, não tem teste com público, né?
+
+
+00:25:38
+
+Roger Tobace: A gente coloca um produto em cada conjunto de anúncio aqui. E o que mais tá vendendo, tá mais barato, é o cold brill da garrafa. Inclusive é o que puxa o preto para baixo, né? Os outros tão tão bem caros.
+Igor Auler: Mm. É, tem que fazer mais criativo. Esses aí não tem criativo. É o que eu vou tentar agora.
+Roger Tobace: E a campanha de WhatsApp até a última análise que eu fiz, eu até consigo pesquisar aqui enquanto o Dani segue a apresentação dele. Tinha vendido uma, né? Vou vou dar sequência aqui no CPTS também vendeu um, tá? Mas não confirmou a compra, gastou uns 200 e pouco, gerou uma venda. É tá uma métrica boa, né? Se gastar 200, gerar uma venda lá. Mas aí teve a questão, esbarrou ali no cancelamento e não concluiu. Você que eu acompanho lá também, tá? Ele chequinho, posso trazer até uma apresentação aqui pra gente sobre o GPTS do
+Igor Auler: do quê? Não entendi, desculpa.
+
+
+00:26:36
+
+Roger Tobace: GPTs.
+Igor Auler: Ah, tá.
+Roger Tobace: Tá,
+Igor Auler: Beleza.
+Roger Tobace: tá ativando,
+Igor Auler: Que que acontece?
+Roger Tobace: tá rodando.
+Igor Auler: Tá ativado, mas fala o quê? Não, não deu nenhuma métrica.
+Roger Tobace: Não,
+Igor Auler: É isso.
+Roger Tobace: gerou uma venda.
+Igor Auler: Ah,
+Roger Tobace: Gerou, então vendeu,
+Igor Auler: tá.
+Roger Tobace: gastou uns R$ 260 ali, vendeu,
+Igor Auler: Tá bom.
+Roger Tobace: mas eh a venda não foi concluída, não teve a questão de ser cancelada.
+Igor Auler: Ah, entendi.
+Roger Tobace: Tá.
+Igor Auler: Tá bom.
+Daniel Santos: nesses nesses vídeos, igual que você vai mandar para pessoa. pessoal lá vai entrar do café. É, você falou que vai entrar do café, mas vai ter variância também ou foco vai ser mais chopeira?
+Igor Auler: Para todos eles, todos vão fazer da chopeira, mas além da chopeira,
+Daniel Santos: Legal,
+Igor Auler: cada um vai fazer de um produto diferente.
+Daniel Santos: legal, legal, legal. Deu, deu algum retorno, aqueles caras lá que eu te mandei? Pessoal chegou a mandar preço para você?
+Igor Auler: Que você responder o e-mail aqui, cara.
+
+
+00:27:22
+
+Igor Auler: Realmente meu caixa meio tá cheia aqui.
+Daniel Santos: Não, fica tranquilo.
+Igor Auler: Vou ver aqui agora.
+Daniel Santos: Era mais para saber.
+Igor Auler: Não vou ver agora. Tinha tex lembrava disso.
+Daniel Santos: Pô, da minha parte, para falar a verdade, é que a gente ia ficar falando sobre os criativos, só que passou, dessa vez passou assim alteração. Eh,
+Igor Auler: Tá de boa.
+Daniel Santos: só que o o já tá com o design,
+Igor Auler: Mas e eu tá fazendo já os outros lá. Ô,
+Daniel Santos: já tá com o design aí.
+Igor Auler: tá.
+Daniel Santos: É o que eu queria ver. Bom que já já tá o Roger aqui. Eh,
+Roger Tobace: Dan,
+Daniel Santos: eu eu queria entender.
+Roger Tobace: deixa eu só terminar só aqui.
+Daniel Santos: Claro, meu guerreiro. Eu também vou falar sobre criativo também. A gente já engloba tudo junto,
+Roger Tobace: Não é só para trazer a visão pro Igor.
+Daniel Santos: já fecha.
+Igor Auler: É, ninguém me respondeu, cara. Mandei o e-mail para eles me mandaram e-mail.
+
+
+00:28:15
+
+Igor Auler: Ah, manda o e-mail paraa assessoria. Aí mandei aqui drchurras@gmail. Mandei. Cagou. Cadê o outro?
+Daniel Santos: Caraca, velho.
+Igor Auler: Mandei pro Barbecue King cagou. Tem seis dias já que eu mandei.
+Daniel Santos: Aí, Negro não quer fazer dinheiro ou tá fazendo
+Igor Auler: Tá fazendo muito, né?
+Daniel Santos: muito. Ó, ponto de não responder parceria. O cara vive disso, pô. Vai lá, R. Fica à vontade, amor.
+Roger Tobace: É que o tava vendo o e-mail aí,
+Daniel Santos: Ah, tá.
+Igor Auler: É,
+Daniel Santos: Não, de boa,
+Igor Auler: é,
+Daniel Santos: de boa.
+Igor Auler: pode ir.
+Roger Tobace: mas eh aqui que eu fiz, eu peguei a análise do Google do Meta, né? Pedi para ele, ele tem a API ali para consultar os dados e pedi para ele separar também a do GeFOR, tá? Então eu tô compartilhando essa planilha ali com vocês na WhatsApp, tá lá na na pasta da Balde também.
+Igor Auler: Ка.
+Roger Tobace: Então tem aqui a relação mês a mês de tudo que aconteceu separado por 2025, 2026, até porque eu queria entender, né, que que aconteceu lá em novembro de do ano passado e dezembro do ano passado pra gente ter aquele faturamento bem maior.
+
+
+00:29:29
+
+Roger Tobace: Eh, que que eu tirei de insite que mais valioso, pegando assim ao TM da TR mes de compra efetiva, cara, o Google, ele já vem o tempo já, a gente já vem com essa ideia que ele performa muito melhor que o Meta, tá? O o rost do Google é mais ou menos seis vezes o que a gente investe e o meta é de três. Então o meta até tem que fazer o cálculo certinho. A gente tem muita questão da divulgação por parte do meta, mas realmente no Rose ali uma plataforma é bem superior à outra. Não seria até se a gente fosse fazer um teste aumento.
+Igor Auler: A gente já fez, a gente mudou de 40 para 80 na P max e não gastou.
+Roger Tobace: É verdade, tem isso,
+Igor Auler: A gente já botou YouTube,
+Roger Tobace: tá?
+Igor Auler: não vendeu. Não sei.
+Roger Tobace: O YouTube não tava voltado paraa compra.
+Igor Auler: Não sei se vai botar no search outra estratégia aí.
+Roger Tobace: Eu vou ter como plano de ação, eu vou dar uma otimizada boa lá no Google, criar um novo conjunto de anúncio Topmax, eh subarte ali também relacionada a Black Friday.
+
+
+00:30:28
+
+Roger Tobace: Então, a gente já vai entrar em outubro esse mês aí e vou trazer essas otimizações, ver se tem margem para aumentar, tá? Caso caso você queira aumentar aí pro mês de outubro, eu recomendo colocar maior parte do orçamento no cubo. E aí eu queria trazer esse gráfico até para entender que que aconteceu o ano passado que venderam, que a gente vendeu muito em novembro e dezembro, né? Se a gente traz aqui,
+Igor Auler: Black Friday.
+Roger Tobace: por exemplo,
+Igor Auler: Natal.
+Roger Tobace: não, mas é por plataforma,
+Igor Auler: Se você pegar o dia da Black Friday,
+Roger Tobace: por exemplo. Sim,
+Igor Auler: eu acho que só no dia da Black Friday eu vendi 40.000,
+Roger Tobace: sim.
+Igor Auler: sei lá, no outro dia 30. Outro 30 também.
+Roger Tobace: Não sei se você já analisou o estado aqui, por exemplo, em novembro, ó, que a gente tem a trem vendeu 119,
+Igor Auler: Uhum.
+Roger Tobace: vendeu acima, né, em novembro. em dezembro não vendeu tanto acima, mas vendeu 89, que é até eh compras que a gente bate aqui nos meses desse ano, né?
+
+
+00:31:20
+
+Roger Tobace: Os melhores meses chegam até passar dezembro do ano passado.
+Igor Auler: Cara, então eu acho que tem muito a ver com prazo.
+Roger Tobace: Só que
+Igor Auler: O Black Friday, o cara quer pegar preço no Natal, o cara quer que chegue a tempo do Natal e aí o Mercado Livre entrega muito mais rápido.
+Roger Tobace: então cara,
+Daniel Santos: Ah.
+Roger Tobace: o que vendeu mesmo,
+Igor Auler: Olha aí,
+Roger Tobace: que puxou lá em cima.
+Igor Auler: olha ali, clica ali. Mercado Livre Full Filmet. Isso é só o full. O full é o meu produto que tá lá, que entregue em um dia, cara. Eu tenho Mercado Livre e eu tenho Mercado Livre full film. Tem duas lojas, lojas virtu loja virtual ML, que é aquela azulzinha ali, ó, lá na esquerda. Então, essa azulzinha aí, loja virtual ML. Essa loja é quando eu envio e a Full Film é quando eles
+Daniel Santos: Ah.
+Igor Auler: enviam. Então, assim, eh, entrega muito mais rápido, entendeu? Entrega em um dia, dois dias. Eu tenho chopeiro espalhada pelo Brasil todo.
+
+
+00:32:14
+
+Igor Auler: Eu mandei 25 agora lá para eles. Eles espalham lá no nos negócios. Vou mandar já programei para daqui a duas semanas mandar mais 20.
+Roger Tobace: É, então até pra gente definir metas aqui para novembro, dezembro, né? Que que puxa teu orçamento lá na PQT em dezembro aqui foram o Mercado Livre, cara. Dá mais atenção pro pro filme, manter os estoques lá preparado.
+Igor Auler: Então, mas é o que eu falo, cara. Não necessariamente foi o Ads do Mercado Livre que fez o cara comprar. O cara pode ter visto no Instagram, jogou no Google, viu que no Mercado Livre entrega mais rápido e comprou no Mercado Livre. Cara, eu já fiz esse teste 10 vezes, já fodi minha conta 10 vezes. Eu não vou fazer mais. Tem que investir dos dois lados e ponto. Eu não sei qual que ele joga para um lado, mas quando eu diminuo em uma quando eu diminuo na outra, para de vender do mesmo jeito. Então assim, é um mix que tem que ser trabalhado.
+
+
+00:33:05
+
+Roger Tobace: Não. Sim, sim.
+Igor Auler: Tanto que mês passado foi isso,
+Roger Tobace: 100%.
+Igor Auler: eu diminuí o orçamento lá no Mercado Livre e fodeu.
+Daniel Santos: M.
+Roger Tobace: E a gente tem aqui caindo, tem alguma explicação, Igor? Por exemplo, o Fente foi bem ruim setembro e outubro,
+Igor Auler: Pode ser que não tenha produto lá. Eu não tenho enviado o produto.
+Roger Tobace: né?
+Igor Auler: Isso.
+Roger Tobace: É uma e o Mas o ML normal tá tava bom.
+Igor Auler: Eu tava com pouco produto. Isso. Porque como eu não tinha produto aí o cara não tem opção de comprar pelo Full. Às vezes fica sem estoque lá no Full. Às vezes eu não consigo mandar. Às vezes eu tô com pouco estoque, aí eu não vou mandar muito pro Full entre uma importação e outra. Por exemplo, eu tô com eu tô com pouco, quase nada de choperas de 2 L. Então eu tô mandando de três em três. A P de 5 L tem muito, eu mandei 25, vou mandar mais 25. Então depende o full depende do de ter estoque lá, entendeu?
+
+
+00:33:59
+
+Igor Auler: Eu enviar
+Roger Tobace: Bom, é isso. ponto de atenção aí do Mercado Livre, porque é o que vai realmente, né, que você falou, em dezembro tem o F, é o que vai vender mais porque o cara tem pressa e na black é preço, fazer esses criativos dois voltados a preço mesmo.
+Igor Auler: isso.
+Daniel Santos: Legal.
+Igor Auler: E aí na Black eu tenho brinde para caraca no site. Você vê que vendeu mais, entendeu? Mas talvez eu não tivesse também com tanto produto no Full. Eu não vou lembrar, mas enfim. Mas tem isso. Na black eu acho que o cara procura mais preço e no Natal o cara tá c****** para preço. Ele quer que chegue.
+Roger Tobace: Boa,
+Igor Auler: A gente já pode até pensar no Natal. No Natal, acho que assim, é um cuponzinho de R$ 50 mesmo. Ô,
+Daniel Santos: Deixa eu anotar aqui já.
+Igor Auler: ô,
+Daniel Santos: Pera aí.
+Igor Auler: ô, Daniel. E talvez duas taças para brindar em família o ano novo,
+Daniel Santos: Hum. Ah,
+
+
+00:35:07
+
+Igor Auler: entendeu?
+Daniel Santos: é oferta do Natal a gente não tem mesmo, igão. Então, a gente volta pro cupom genérico,
+Igor Auler: A gente deixa os 10 CO2 sempre,
+Daniel Santos: né? Tá.
+Igor Auler: deixa o Tep handle e bota duas taças.
+Daniel Santos: Dois mais tap handle mais duas taças brind em família.
+Igor Auler: Isso, tá?
+Daniel Santos: Legal essa comunicação e tá
+Igor Auler: E aí eu não sei se o cupom de 50 ou 75 a gente pensa,
+Daniel Santos: beleza.
+Igor Auler: mas eu acho que de 50 tá bom.
+Daniel Santos: Vou deixar aqui 50 e 75, aí a gente confirma nos próximos dias.
+Roger Tobace: A gente pode fazer uma campanha de tráfego pro link direto do Mercado Livre. full e um criativo falando que a pessoa consegue receber e até 24
+Igor Auler: Podemos fazer uma.
+Roger Tobace: horas.
+Igor Auler: Podemos fazer uma.
+Daniel Santos: É,
+Roger Tobace: Só para a gente vai ter como metrificar,
+Daniel Santos: Oh.
+Igor Auler: Isso.
+Roger Tobace: né?
+Igor Auler: E a gente pode gastar mais esse dinheiro chegando mais próximo depois do dia 15,
+
+
+00:35:58
+
+Roger Tobace: M.
+Igor Auler: por exemplo, que putz, já começa a ferrar o prazo.
+Daniel Santos: É,
+Igor Auler: Gastar um dinheiro nessa
+Daniel Santos: é, eu ia até perguntar se já tinha rodado alguma coisa assim, Igão, de algum tráfego direto pro link do Mercado Livre com a comunicação falando, cara, compra hoje, chega amanhã na tua casa,
+Igor Auler: pode ser,
+Daniel Santos: entendeu?
+Roger Tobace: A gente vai ter como metrificar,
+Igor Auler: pode fazer,
+Roger Tobace: mas como a gente analisou aqui,
+Igor Auler: mas não vai, não pode botar o link do Mercado Livre.
+Roger Tobace: faz total sentido.
+Igor Auler: Pode. Tu falou que não podia ou pode? Pode, né?
+Daniel Santos: Pode, até onde eu sei, pode.
+Roger Tobace: Pode é ué, você tá rodando compra,
+Igor Auler: Tá bom.
+Roger Tobace: tem como dar golpe mandando a pessoa comprar para outra pessoa, né?
+Daniel Santos: Aí, se quiser bater a meta também, nós sabe um black no nordeste ali, chopeira trêzentão, só que nunca vai chegar. Ai, não, brincadeiras à parte. Mas, pô, tô tô de olho também no faturamento, tá? Baseado nos dias, a gente fecha com 200.000 esse mês.
+
+
+00:36:55
+
+Daniel Santos: Não era o que eu queria, né? A meta ali, pelo menos que a gente tem conversário, é 250 para sobrar um fluxo melhor. Mas, cara, caiu as vendas, não só da B, tá? Todos os projetos que a gente tá, pelo menos que eu tô aqui na base, tanto de marketing agora na até na questão comercial que eu tô ajudando ali na frente, as vendas caíram. Eh, isso mais resultado pro Mercado Livre, tá? Não falo nem de e-commerce e afins, nem prestação de serviço. Eh, mas é manter o pace. O que eu tava pensando também já bom de alinhar aqui com o Roger, assim, eh, até ver, Roger, o quanto você acha que o ticket do nosso produto influencia na questão da quantidade de criativos que são utilizados nas campanhas, porque assim, mano, mudou muito meta, né? Na época que eu que eu que eu escalei aquele e-commerce, mano, era criativo, mano. Mas por quê? porque o ticket é mais baixo, certo? Então assim, até que x número de criativo será que a gente consegue rodar por teste de uma forma que não vai prejudicar o desempenho das campanhas?
+
+
+00:38:00
+
+Daniel Santos: Entendeu? Eu até cheguei numa contagem, mano, mas não sei se isso de fato é porque eu não sei se validou ou não, porque assim, mano, o que que eu tô tirando de base, né? Antiga que a gente tá rodando CBO, né?
+Roger Tobace: Certo.
+Daniel Santos: As campanhas. É. E aí, mano? No na outra conta que eu Isso é pro conjunto de anúncio, correto? CBO ou tá ou tá orçamento por campanha?
+Roger Tobace: Não é por eh isso aí é CBO, é por campanha.
+Daniel Santos: CBO é por campanha, tá rodando CBO,
+Roger Tobace: É CBO.
+Daniel Santos: né? Legal.
+Roger Tobace: É sim.
+Daniel Santos: Perfeito. Eh, aí no caso desse desse meu cliente, mano, a gente rodava por conjunto de anúncio, tá? Porque daí não necessariamente ele e aí a gente criava conjuntos de anúncios diversificados de forma geral, entendeu? Aí o próprio Meta já identificava qual seria o conjunto de anúncio melhor. E dentro desses conjuntos de anúncio, mano, era tiro de criativo, entendeu? E aí entra isso que você falou também, estático, carrossel, motion, vídeo e aí deixa o pautorar.
+
+
+00:38:58
+
+Daniel Santos: Yeah. Só que mandar eram muitos criativos com uma frequência de troca relativamente alta, mas isso em período de black agora falando esse período de black, não necessariamente perpétua. Eh, a minha dúvida de forma geral é, se a gente tiver uma flexibilidade grande de criativos de 8 a 10 criativos rodando ali a cada 15 dias, isso vai prejudicar as campanhas.
+Roger Tobace: Então, Dani, não é o ideal, tá?
+Daniel Santos: É porque atualizou o meta,
+Roger Tobace: Porque antigamente era esse tráfego de achar o criativo campeão,
+Daniel Santos: por isso que eu tô perguntando.
+Roger Tobace: de fazer recorte na campanha, segmenta região, idade, gênero e aí fica o gestor de tráfego tentando achar o público perfeito, criativo perfeito para ganhar escala. Tá? E hoje eu não tenho esse controle. O que o Meta recomenda é você primeiro dá liberdade para ele escolher. Então não vou segmentar por que eu deixo o CBO na campanha, porque eu quero que ele escolha o público ali,
+Daniel Santos: Sim, sim.
+Roger Tobace: tá?
+Daniel Santos: Perfecto.
+Roger Tobace: E aí dentro desse público eu não vou nem ter um teste de público segmentando alguma coisa, vou ter teste de blocos de criativos.
+
+
+00:39:55
+
+Roger Tobace: Então meu primeiro, meu primeiro público ali é só criativo validado antigo. Meu segundo público só criativo de Black Friday. no terceiro público, pô, vou testar estático com motion, com outra coisa. Então, por isso que eu falei, foca em fazer esses criativos com ângulos diferentes de apresentar a chopeira,
+Daniel Santos: Legal.
+Roger Tobace: porque a gente só vem fazendo, isso daqui não é culpa sua, tá? que é um alinhamento que a gente vem e a gente tem que se adaptar que o Metapad. Só vem fazendo criativo falando sobre benefício, cupom e desconto. Então, pô, vamos mudar um pouco o ângulo, vamos falar da tecnologia, vamos falar agora porque eh que ela pode ser usada em pesca, porque ela vai mostrar pro tipo de pessoa certa, ela sabe identificar.
+Daniel Santos: Legal.
+Roger Tobace: a gente precisa variar os ângulos, pelo menos uns quatro, cinco ângulos diferentes, colocar num num público, num conjunto de anúncio e descobrir se aquele conjunto vai dar certo ou não.
+Daniel Santos: Legal.
+Roger Tobace: Independente se os criativos registram um baixo custo conversão. Pode ser que só um criativo esteja registrando esse baixo custo conversão, mas ele tá gastando dinheiro nos outros também.
+
+
+00:40:53
+
+Daniel Santos: Legal. Perfeito, perfeito, perfeito. É porque eu vi umas atualizações do meta e eu só queria confirmar mesmo.
+Roger Tobace: Cara, é isso que o Meta pede,
+Daniel Santos: Talvez acabe.
+Roger Tobace: tá? E aí que que eu venho fazendo?
+Daniel Santos: É.
+Roger Tobace: Eu venho colocando, por exemplo, a gente sempre usa o vídeo aqui, aí eu vou criei um grupo e joguei uns estáticos lá dentro. A gente viu que o meta tá gastando dinheiro nos estáticos. Quem só tem estático, eu vou lá, jogo um motion, jogo um vídeo para trazer essa variação de ângulo. E vem, vem funcionando, cara. Vem, vem baixando o curso conversão.
+Daniel Santos: Perfeito. Ah, não. Baixou o curso por conversão. Baixou. Tô acompanhando. Quando a gente entrou, principalmente a do as validades, tava mais caro, tava 142. Abaixou bem, mano. Tô 82 agora. Eh, não era só mais uma dúvida mesmo, porque assim, o criativo a gente tem agora, por exemplo, se a gente mudar a comunicação dos criativos validados da Black, botar eles para rodar ali em conjunto também, eles entrariam na campanha do core validado, certo?
+
+
+00:41:52
+
+Roger Tobace: Abrir aqui,
+Daniel Santos: porque eles foram validados no na black do ano passado.
+Roger Tobace: Ja.
+Daniel Santos: Só que daí agora é mais uma dúvida que eu tenho contigo, tem um validado lá que a gente viu na na Black do ano passado que é daquele vídeo do das chopeiras que tá no eh no ensaio fotográfico, sabe? Que é aquele mais gourmet.
+Igor Auler: S
+Daniel Santos: Então, e cara, acredito que faz uns dois dois meses já que a gente não tem focado muito nele. Ele aparece só em alguns cortes eh bem reduzidos, vamos falar assim,
+Igor Auler: não tem problema não.
+Daniel Santos: mais pro meio do vídeo. Eu tô pensando em rodar eles de novo, tá?
+Igor Auler: Não,
+Daniel Santos: Só trocar o lettering.
+Igor Auler: cara, é o que a gente parou de qual que você tá falando? Não, cara, é o que eu pedi para parar de ficar exibindo sem parar.
+Daniel Santos: O da Black não, não é um da Black do ano passado. Só era um eu peguei o bem no quando o Roger tava mostrando ele.
+
+
+00:42:42
+
+Igor Auler: Então, mas os da Black ali, cara, eu acho que os desse ano tão melhor, cara. Não teve nada que foi,
+Daniel Santos: Tá.
+Igor Auler: ele já mostrou aqui, eu acho que você não tinha entrado ainda. Não tem nenhum ali que é bizarro, campeão de venda.
+Daniel Santos: Ah,
+Igor Auler: O que a gente viu ali é o que tinha o negócio do chutei isopor que a gente pode voltar a
+Daniel Santos: tá.
+Igor Auler: testar.
+Daniel Santos: Ah, não. Beleza, beleza, beleza, beleza, beleza.
+Roger Tobace: E é melhor fazer uns criativos mais modernos também. Aqueles criativos tá com muita pegada de antigo,
+Igor Auler: Isso tá bem usado.
+Roger Tobace: velho.
+Daniel Santos: Tá, tá legal, legal, legal, legal, legal. Deixa eu confirmar aqui. Tô vendo aqui se não ficou pronto do notebook, quer dizer, chega para mim na fila.
+Roger Tobace: Mas aqui, Dan, só para responder o que você tinha me perguntado, a gente tem aqui a campanha validada,
+Daniel Santos: Aham.
+Roger Tobace: certo?
+Daniel Santos: Certo.
+Roger Tobace: E esse orçamento aqui de 130 tá a nível de campanha.
+
+
+00:43:39
+
+Roger Tobace: Como é que a gente vai anunciar a Black aqui? Eu também tenho os criativos são validados que são lá dos influencers. Então essa aqui eu vou deixar rodando, tá? E eu vou colocar os criativos aqui no grupo teste que hoje tá o October,
+Daniel Santos: Legal.
+Roger Tobace: mas a gente vai colocar aqui Black Friday, vai colocar aqui e aí eu vou deixar o meta escolher onde que ele vai gastar,
+Daniel Santos: Ah, legal.
+Roger Tobace: se é no primeiro conjunto ou no segundo,
+Daniel Santos: Não faz sentido. Faz sentido. Faz sentido, pô. Faz sentido.
+Roger Tobace: tá?
+Daniel Santos: Aham. Não,
+Roger Tobace: E a gente seguiria essa loja aqui,
+Daniel Santos: certinho.
+Roger Tobace: pô, vamos abrir outro teste porque tem mais criativos ainda. Vamos deixar três conjunto aqui com vários blocos de cinco criativos cada um. É mais nessa pegada atualmente que o que o Meta pede pra gente anunciar.
+Daniel Santos: Legal. E aí, já puxando esse gancho também que você falou dos influencers, Gão, tô tentando trabalhar naquele vídeo lá que a gente comentou, lembra, no começo desse mês, eh, questão dos influencers em conjunto.
+
+
+00:44:30
+
+Daniel Santos: Sabe o que que tá quebrando na na construção dele? Quando a gente mescla os áudios? Porque vamos, digamos que cada áudio além da voz da pessoa tem um áudio de fundo e não dá
+Igor Auler: Uhum.
+Daniel Santos: necessariamente para extrair só a voz da pessoa.
+Igor Auler: Entendi.
+Daniel Santos: Então eu tô vendo com o designer certinho para que a gente consiga um tom ali onde eu coloco uma música de fundo em comum com todos os áudios e não dê atrito na fala, mas eu queria que isso rodasse para Black. Então eu vou trabalhar nesse vídeo nos próximos dias. F. dos note, tá? Só pra gente ter ele ali. E aí, se ele rodar bem na black, a gente tira a comunicação e encaixa ele como perpétuo e aí já coloca ele no na campanha do cor validado.
+Igor Auler: do cor validado. Não, não tá validado ainda.
+Daniel Santos: Isso não,
+Igor Auler: For validado,
+Daniel Santos: não.
+Igor Auler: é coisa que foi validada.
+Daniel Santos: Se Exato, se ela validar e se ela vender bem na Black,
+
+
+00:45:19
+
+Igor Auler: Isso. E isso.
+Daniel Santos: eu consigo mudar a comunicação dela e deixar para que vire perpétua, tá?
+Igor Auler: Beleza.
+Daniel Santos: É porque assim, particularmente olhando o vídeo assim, ele fica bom. O problema mesmo é o áudio, entendeu?
+Igor Auler: Uhum.
+Daniel Santos: O visual é muito legal. Os cortes trocam ali. Ele mostrou para mim dentro da ferramenta lá.
+Igor Auler: Então, cara, presta atenção. Tem um tem um vídeo no Instagram.
+Daniel Santos: Um.
+Igor Auler: Eu vou mandar o link que é esse aqui,
+Daniel Santos: Tá.
+Igor Auler: ó. É o primeiro vídeo que aparece. Fica uma música porque fica aparecendo várias fotos, tá? Deixa eu ver se eu consigo compartilhar. Como é que compartilho com áudio aqui?
+Daniel Santos: Eh, quando você for compartilhar, tem uma opção ali no cantinho, ó, partilhar com o áudio do separador.
+Igor Auler: Tô vendo. Tô vendo. Você tá vendo aí? Tá.
+Daniel Santos: Tô vendo. positivo.
+Igor Auler: Tá beleza.
+Daniel Santos: Ah, legal.
+Igor Auler's Presentation: É dia de quê?
+
+
+00:46:25
+
+Igor Auler's Presentation: Be
+Igor Auler: Você viu que eu não sei se vai ter outro lugar que fala. Eu acho que tem, ó.
+Igor Auler's Presentation: aqui, ó. Cervejite marota da Bald Bear, né? Valeu, About Beer é a melhor chopeira do mundo. No.
+Igor Auler: Então assim, você vê que tem um áudio ali no fundo, mas nos momentos que a pessoa vai falar diminui, entendeu?
+Daniel Santos: Sim, sim. Legal. Eu vou usar esse daí de base que já ajuda ele ter um direcionamento, pelo menos de como mesclar os áudios.
+Igor Auler: Vou mandar lá no WhatsApp.
+Daniel Santos: Beleza, beleza, beleza, beleza.
+Igor Auler: Mando.
+Daniel Santos: Não, mais falar na verdade era isso mesmo. Vou esperar fechar o mês para trazer uma análise certinho e aí no chequinho da da semana que vem eu te trago page viw. Aí eu vou trazer certinho. Agora eu consegui organizar a ferramenta, não conectei ela direto, né, mas consegui puxar ali exportando as planilhas. Então agora tá com os dados reais, vamos falar assim, não não necessariamente fictício ali da imaginação.
+
+
+00:47:44
+
+Daniel Santos: Eh, e aí eu trago tudo datado para você.
+Igor Auler: Beleza, fechado.
+Daniel Santos: Fechou?
+Igor Auler: Valeu, pessoal.
+Daniel Santos: Beleza, meu querido. Pô,
+Igor Auler: Eh,
+Daniel Santos: muito obrigado,
+Igor Auler: me cobra aí,
+Daniel Santos: Vigão.
+Igor Auler: Roger.
+Daniel Santos: Desculpa trazinho aí.
+Igor Auler: Tá no mudo. Não tá saindo tua voz não, mas me cobra um lance do da P aí que eu vou tentar ver aqui como é que libera.
+Roger Tobace: Eh, Ne. a gente construir a frente de marketing também, de análise ali, dashboard e tudo mais, é bem importante.
+Igor Auler: Tá bom.
+Daniel Santos: Ah,
+Roger Tobace: Ч.
+Daniel Santos: é. E o último último ponto também, Gão, que eu lembrei aqui agora,
+Igor Auler: Hum.
+Daniel Santos: depois v com o Júlio, se você quer que a gente vai produzir também aquele do da compra dos notebooks que você falou que era interessante
+Igor Auler: É, cara. Então, tô cobrando ele.
+Daniel Santos: ter,
+Igor Auler: Tá f*** ele gravar isso, cara.
+Daniel Santos: tá?
+Igor Auler: Amanhã eu vou almoçar com ele e vou tentar cobrar ele de novo aqui.
+Daniel Santos: Beleza.
+Igor Auler: Mas eu vou ver se também se forem quatro influencers,
+Daniel Santos: Só para deixar isso no p da produção.
+Igor Auler: se eu não mando o notebook para um,
+Daniel Santos: Legal,
+Igor Auler: entendeu?
+Daniel Santos: legal, legal, legal.
+Igor Auler: Influencer não,
+Daniel Santos: Beleza.
+Igor Auler: né? O GC.
+Daniel Santos: É, daí se porventura acredito que não vai precisar porque a empresa deles é focada nisso, mas se precisar de roteiro, você dá um grito aqui pra gente, a gente monta. Beleza,
+Igor Auler: Tá bom. Beleza.
+Daniel Santos: fechou?
+Igor Auler: Valeu, pessoal. Falou.
+Daniel Santos: Valeu, meu querido.
+Igor Auler: Ciao. Ciao.
+Daniel Santos: Tchau.
+Roger Tobace: А
+
+
+A transcrição foi encerrada após 00:48:42
+
+Esta transcrição editável foi gerada por computador e pode conter erros. As pessoas também podem alterar o texto depois que ele for criado.

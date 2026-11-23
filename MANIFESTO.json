@@ -1,0 +1,471 @@
+{
+  "prepared_at": "2026-11-23",
+  "repository": "tobaceroger-source/aboutbeer",
+  "privacy": "private",
+  "scope": {
+    "chats": 24,
+    "turns": 384,
+    "messages": 1412,
+    "archived": 8,
+    "outside_scope_chats": 6,
+    "selected_materials": 35
+  },
+  "attachments": "Referências textuais; binários não incluídos.",
+  "connection_transfer": "Exige autorização própria do novo gestor. MCP Tray é de testes; Jarvis é API REST de produção no histórico.",
+  "checks_passed": [
+    "Todos os 24 chats de usuário do projeto local presentes",
+    "23 exportados via API paginada; um via JSONL local Zstandard por limite do aplicativo",
+    "Nenhuma mensagem da API no limite de caracteres e nenhuma paginação pendente",
+    "Exemplos JSON e TOML válidos; servidores desativados no exemplo Codex",
+    "Links relativos dos guias e índice encontrados",
+    "Credenciais conhecidas e parâmetros secretos não encontrados nos arquivos finais, exceto placeholders",
+    "Código MCP idêntico à cópia que passou nos 9 testes, build e validação de artefato"
+  ],
+  "redactions": {
+    "temporary_oauth_link": 1,
+    "url_secret": 8,
+    "bearer": 0,
+    "credential_assignment": 0,
+    "provider_token": 1,
+    "jwt": 0,
+    "webhook": 0,
+    "image_data": 0
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 174,
+      "sha256": "a6448e00e1c55c0193a96d65c00213106b14e558f8a23b6230db0d989c228d68"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2961,
+      "sha256": "c2f7b5aabe4b3801a85a1c7aade375fd8e2a7c34763627ce729b055de35bacc7"
+    },
+    {
+      "path": "COMECAR-AQUI.md",
+      "bytes": 2697,
+      "sha256": "a4119968ad09f0fece0525f677266e716b54a61dc45575b3e626d90468792658"
+    },
+    {
+      "path": "conversas/analisar-dados--01a0f298-223b-7403-805e-d2ca54cfe35e.md",
+      "bytes": 122184,
+      "sha256": "8a9dccbdf7b973ca74cc4186a836f1ddb6a0acdcc9131e6438e48b792b1239c8"
+    },
+    {
+      "path": "conversas/anexos-fora-do-escopo/ajustar-pontuacao-e-maiusculas--01a0f777-e6dd-71a3-ba9c-a9bd34d323bf.md",
+      "bytes": 3005,
+      "sha256": "515a9e8af50d9369cfd05c77e7d75eb58b8007fb0ecffe8e054f809760ddf167"
+    },
+    {
+      "path": "conversas/anexos-fora-do-escopo/confirmar-proposta-de-lideranca--01a1eb7e-be1d-7b32-9957-327e2efc3d4f.md",
+      "bytes": 1610,
+      "sha256": "f2758fe425e57a46ab76ae127f99f91e1783e76b4138378f6507f799dccf1a58"
+    },
+    {
+      "path": "conversas/anexos-fora-do-escopo/listar-contas-da-mcc-roger--01a1a7fa-1645-7811-8c96-7659206a451d.md",
+      "bytes": 1880,
+      "sha256": "af29699be522c77f2fe8cf3893d1cc4768690f804222b3103ae1fa6678a31913"
+    },
+    {
+      "path": "conversas/anexos-fora-do-escopo/localizar-the-book-of-elon--01a1eacb-ca5b-7d81-b6f3-4165a483ef43.md",
+      "bytes": 15917,
+      "sha256": "2f7e7be292b09b463ab887eb7e194422f6bdd570d2dbb2037fc64368f583e7f0"
+    },
+    {
+      "path": "conversas/anexos-fora-do-escopo/resumir-saz-para-passagem-de-gestao--01a1f4df-3490-7231-910c-c55500a5df44.md",
+      "bytes": 7451,
+      "sha256": "a1e778abd7e8cb5d2c9cbd9fa4805c67a4742c437f63c25012867dfe75c719e3"
+    },
+    {
+      "path": "conversas/anexos-fora-do-escopo/verificar-confiabilidade-do-iphone-17e--01a1e3ac-4332-73c3-b5c3-587566cf91dc.md",
+      "bytes": 8869,
+      "sha256": "d838aaf7c125bf4489ff18a8452701cee3956d152041c167bc07ac4482792eb1"
+    },
+    {
+      "path": "conversas/api-da-tray--01a121e5-6394-72f2-a000-6bc3e0362285.md",
+      "bytes": 25543,
+      "sha256": "c573ba9a546b49a26f77d4014867c75462e6c5d4199d553f38bbe78ca0e81c4c"
+    },
+    {
+      "path": "conversas/campanhas--01a0c9a4-333c-7802-9671-39bf4f20f6cb.md",
+      "bytes": 404234,
+      "sha256": "0f3688223ff332c225aacafeb6fec1f44b3dcff477aa45da5a4bd35301dc1583"
+    },
+    {
+      "path": "conversas/comparar-ferramentas-de-email--01a0e91c-ba36-7741-a5b3-7f79d1d4780f.md",
+      "bytes": 3045,
+      "sha256": "c657ca5cbc023011e20d1dc51aa1b9bbb3fa2acaa90a9386e79b261520679e43"
+    },
+    {
+      "path": "conversas/conectar-ao-mcp-do-bling--01a13aad-1696-7162-959b-2148390a36e4.md",
+      "bytes": 3116,
+      "sha256": "2ec2f8816538efac95e3d9e75221dcd3fc7dc36bf7898e82c4bcc8b438bb2879"
+    },
+    {
+      "path": "conversas/consultar-pedidos-da-tray--01a1cb09-1833-7a23-b561-3f9acfb1dc02.md",
+      "bytes": 19329,
+      "sha256": "ebfcc828aa3efcc9a05e1f72c31054e207ed1ba7b71bff4d47a6c6ea5bcebb01"
+    },
+    {
+      "path": "conversas/criar-3-criativos-para-about-beer--01a11233-c3e6-7720-a70d-cbdf26af1a42.md",
+      "bytes": 34550,
+      "sha256": "137fd8561a6934b283381aae9fc33e4f1a41c24c4f98dface126d540fc0e2ce8"
+    },
+    {
+      "path": "conversas/criar-descricao-de-criativo--01a0f8d2-637f-7800-8351-1e4099c08243.md",
+      "bytes": 6558,
+      "sha256": "ac6ffe21d9ed93ea524f28e1aebbedecd7c3f28c63ef2047bc4a2a9d5ea619f0"
+    },
+    {
+      "path": "conversas/criar-textos-de-black-friday--01a1a71d-e4b5-71e0-9eac-8c05455d001c.md",
+      "bytes": 19881,
+      "sha256": "be766f2c4fe4c6b9bf666ace977858f75a0ab588fad58a2c9097c60a3785ec90"
+    },
+    {
+      "path": "conversas/criar-titulo-e-descricao-para-shorts--01a1e9c2-f06f-7741-9a0f-2e8e3ca2dd1d.md",
+      "bytes": 7552,
+      "sha256": "dcc3ce7bbd40f27d4cccad4f4d72c44e292c3880412b864d673c4d451f6144a0"
+    },
+    {
+      "path": "conversas/entender-por-que-gpt-ads-e-bom--01a0f7fd-be3e-7783-8813-f4af4e2f06cf.md",
+      "bytes": 4479,
+      "sha256": "ce979a589ab17cfb10f9d353b944a30c49efc1ffe3a019608b44cea335692fd9"
+    },
+    {
+      "path": "conversas/explicar-campanha-gmv-no-tiktok--01a1c0ca-1974-7c50-bc7f-4212f4cfb381.md",
+      "bytes": 24992,
+      "sha256": "b29d3232ebbe358b52aae3500ad67fc913eaeb54a0f8cf24c16edaa4cfd9f1ec"
+    },
+    {
+      "path": "conversas/formatar-lista-para-meta-ads--01a0f4d6-ae06-7193-bbe6-f2b326512d73.md",
+      "bytes": 3366,
+      "sha256": "fdded04fbf1701aef945bb1c41c921ee6dc4c80fe518e1bbb03155591b97a5f9"
+    },
+    {
+      "path": "conversas/gpt-ads--01a11ca1-59fa-7873-b50e-2e548aec834c.md",
+      "bytes": 70246,
+      "sha256": "2fa5fe07c2a3a08cf2ff838e4e5cd8285c602c5914353696f1869d86c98fb7fb"
+    },
+    {
+      "path": "conversas/identificar-modo-de-visualizacao--01a11d0f-3e3f-7313-9431-c8a3702a280c.md",
+      "bytes": 1732,
+      "sha256": "b4d54ba1333dfc81dc4707bfd514d71dff2faa36fce9dd152e2aab6b43f2979c"
+    },
+    {
+      "path": "conversas/identificar-o-que-e-isso--01a0f792-7cdb-7de2-9f85-f3e40be8cdfc.md",
+      "bytes": 1911,
+      "sha256": "ea5c65ca6560100e21f038b95e7c877ed4ba785bc5e196cdec29100c764bfd8d"
+    },
+    {
+      "path": "conversas/INDICE.md",
+      "bytes": 3753,
+      "sha256": "c96d0677eebdb610ae59f638ab38690a98c5e78330d6ce0dbe29aa2ad9901d10"
+    },
+    {
+      "path": "conversas/localizar-mercado-ads--01a182e1-2939-7fb1-ab1d-0b5dff5cd4fb.md",
+      "bytes": 38950,
+      "sha256": "6299c650aa56e2080036583284ee345b8eceb9c9b0187fb82d21fbd171d0908a"
+    },
+    {
+      "path": "conversas/manifesto.json",
+      "bytes": 15792,
+      "sha256": "dca90e6c65abeee49493777df6401a0ac8bc8b26ac5841d2077088ac687f4755"
+    },
+    {
+      "path": "conversas/planejar-automacao-de-transcricoes--01a0c4be-d191-7f11-883f-35d87bcf8ba5.md",
+      "bytes": 9098,
+      "sha256": "7abfde675e63c876d0ca8d1efe52c65ebb65ad4070ba6f7e21663e12493ddf12"
+    },
+    {
+      "path": "CRITERIOS-DE-MENSURACAO.md",
+      "bytes": 5279,
+      "sha256": "e00558124ba54f83d5e3630ed8339b0cbe4c74d8ee33171e9091e0ce2ea4ac5a"
+    },
+    {
+      "path": "materiais/CAMPANHAS/2026-09-22_historico_otimizacoes.md",
+      "bytes": 8648,
+      "sha256": "b455d9a65aa76950ea5dfe1e1ba82d36eb7fb69f7f0eca4d35404209ff6731bb"
+    },
+    {
+      "path": "materiais/CAMPANHAS/GPT-ADS-ATIVACAO-2026-10-22/checagem-2026-10-23-anuncios-ax.txt",
+      "bytes": 8843,
+      "sha256": "73efbc260dcb59c231b27d3350a341d10534acbf122eb7c4901c4c960606e10a"
+    },
+    {
+      "path": "materiais/CAMPANHAS/GPT-ADS-ATIVACAO-2026-10-22/checagem-2026-10-23-campanha-ax.txt",
+      "bytes": 6181,
+      "sha256": "955818e55b227929f6e77bcf84414368b51fb181d310a0c62c48e84c29bfe6ef"
+    },
+    {
+      "path": "materiais/CAMPANHAS/GPT-ADS-ATIVACAO-2026-10-22/RESULTADO.md",
+      "bytes": 4218,
+      "sha256": "ece0f9a2ea6f6bfde49f9d0e1968b78ad79149ec092e0acafecefe7dc1b37d87"
+    },
+    {
+      "path": "materiais/CAMPANHAS/PLANO-MIDIA-NOVEMBRO-2026/atualizacao-modelo-usuario.json",
+      "bytes": 3303,
+      "sha256": "ba38d5f1fc9ee7629f000bd4e7b47e6384993aafd483cc6bc0ed875b54d7eb65"
+    },
+    {
+      "path": "materiais/CAMPANHAS/PLANO-MIDIA-NOVEMBRO-2026/atualizacao-planilha.json",
+      "bytes": 3872,
+      "sha256": "618d13d2502dd1bac00b42c235b2b9b64fa6ff69697db7bbb0e7ca0a9580c383"
+    },
+    {
+      "path": "materiais/CAMPANHAS/TRACKING-AUDIT-2026-10-08/diagnostico-tracking.txt",
+      "bytes": 6009,
+      "sha256": "cc467dec4509ff321856db9a7ae8a213828d94fee57478b3afebb77c00acd966"
+    },
+    {
+      "path": "materiais/CAMPANHAS/TRACKING-GTM-2026-10-22/RESULTADO.md",
+      "bytes": 7107,
+      "sha256": "7635ba5d4c06abf6b3fffcd3a941d2dd922589df778ee8d04a33b8cf142585c2"
+    },
+    {
+      "path": "materiais/CAMPANHAS/TRACKING-SIMPLES-2026-10-08/LEIA-ME.txt",
+      "bytes": 3097,
+      "sha256": "4739160983569bb06dd7eab70f92ed4e70412a49412a953051a2162506d03fc0"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-08-28 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 71326,
+      "sha256": "9831ac8ee45c2efd53c538265801d93f4943e53dc075e176ca151f6819dbd3d5"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-09-02 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 38858,
+      "sha256": "956c2f3fdba7d1de069e3fa0230276b50132b6d64495f093480d6953bf77f19b"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-09-08 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 34442,
+      "sha256": "d1fa5877bfbf545df0dbf0c168a33a93b85b12bfcabb8811fb5fe3c7fd2009ae"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-09-15 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 1011,
+      "sha256": "f187f30f36d0a4a056067720c560c55ada7d4a03c900334ae3d337c163fb8493"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-09-23 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 61061,
+      "sha256": "77de79932c63f9fb823405dd81919691e6f314dbe57b0d0c8da1a32f10e92502"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-09-30 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 7704,
+      "sha256": "13018976b15e74f3b24041375c2a2ed71410545eaef7f05361bb02781212d271"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-10-07 - Checkin Semanal - About Beer e V4 - 13h01 - Transcricao.txt",
+      "bytes": 52797,
+      "sha256": "c228044fb4ee86caa66426f5a4f158231201cc00c08c9be2ee8e6b6b65b66416"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-10-14 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 50195,
+      "sha256": "2af651f3962eed587859e24812d6a2a7137a6f6e27709a1608c4096649660f87"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-10-21 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 254,
+      "sha256": "6db91f2185022fd316b6af975df6577e5e652381ce3f7f181f6cadb1b5d8090d"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-10-28 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 52030,
+      "sha256": "da56c4f2f835c06287713d0a1a7cbfc7ffc2d082050ef06b0efe5913cfe1eebf"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-11-04 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 253,
+      "sha256": "9ba1b8a13ab494adfa6bcafb9027f0682bd36f74127df79c4dbde735692f618a"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-11-11 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 34776,
+      "sha256": "e63424d3efa1e35cdf500f10a61e33d182d1961edf0ab92e60feba80d854c3c1"
+    },
+    {
+      "path": "materiais/CHECK-IN/2026-11-17 - Checkin Semanal - About Beer e V4 - Transcricao.txt",
+      "bytes": 57532,
+      "sha256": "0b1b7bf9484e65a6bcfdfb7a99c74b8abc544526203ecf764ad2475f5bc5139b"
+    },
+    {
+      "path": "materiais/CHECK-IN/AGENTS.md",
+      "bytes": 526,
+      "sha256": "67b77ea76477be4ed100fa775e12eac016c0e4d00858d0f1d2d555e7d29ac7f4"
+    },
+    {
+      "path": "materiais/CHECK-IN/CONTEXTO-RETOMADA.md",
+      "bytes": 3266,
+      "sha256": "4e2e560dddfd13d5468f36a5140950bf2bd8593638761379790af764c85e9469"
+    },
+    {
+      "path": "materiais/CHECK-IN/SKILL.md",
+      "bytes": 5912,
+      "sha256": "9d42ec33264f49da54e3816a5f3c90bab455d3742d48436afa6e3c042ec72b01"
+    },
+    {
+      "path": "materiais/CONTEXTO/tray-mcp-conexao-2026-10-13.md",
+      "bytes": 2396,
+      "sha256": "cea246da4668a65279128c509eb8336f5bbbe4a495bd425aaec9915827a82710"
+    },
+    {
+      "path": "materiais/manifesto.json",
+      "bytes": 6098,
+      "sha256": "fff5662304669f575e524ffb4913beba8a2cf7eff8da24b70408803dd3bc8367"
+    },
+    {
+      "path": "materiais/outputs/auditoria-google-merchant-20261028/diagnostico.txt",
+      "bytes": 7715,
+      "sha256": "9f55b7b930f6f696ab46f63eeb41f93c139a754d04c29dda0320f667eb45073e"
+    },
+    {
+      "path": "materiais/outputs/merchant-revisao-20261104/diagnostico-e-suporte.txt",
+      "bytes": 4140,
+      "sha256": "ed9d4a62e22e241bd2c9e131788e1b0c10bd790b8da4e4f9d9e11314b3c0c3fc"
+    },
+    {
+      "path": "materiais/outputs/merchant-revisao-20261104/solicitacao-enviada-suporte.txt",
+      "bytes": 2848,
+      "sha256": "3205aa8b628444a8654d1d3697b7137c75d5aa166f99bb436a829e0dd9733ea3"
+    },
+    {
+      "path": "materiais/outputs/negativas-google-20261028/analise-negativas.txt",
+      "bytes": 9221,
+      "sha256": "14dae5c9cb971bb6f100d429f980a73632a35b3488cc121ef6711f0ab8e22cdf"
+    },
+    {
+      "path": "materiais/outputs/negativas-google-20261028/negativas-exatas-recomendadas.txt",
+      "bytes": 839,
+      "sha256": "b2fc71cf4a9b68a0e3af39a317db9f72aa4749883a626066fd9cc08ed19c3a18"
+    },
+    {
+      "path": "materiais/outputs/pmax-bf-20261104/analise-e-plano-bf.txt",
+      "bytes": 15686,
+      "sha256": "913a70ce2c5cad1e40917c4b8e872e1604ef5798216a63a3e3c32a919cae58b7"
+    },
+    {
+      "path": "materiais/outputs/recuperacao-origens-20261021/alteracao-referencias-ga4-20261021.md",
+      "bytes": 2625,
+      "sha256": "a50692b28b23ba430622bfabefa03e8ef446f531020bc03e4b6670a7c1c6eaa3"
+    },
+    {
+      "path": "materiais/outputs/recuperacao-origens-20261021/diagnostico-ga4-3912-3914.md",
+      "bytes": 5250,
+      "sha256": "97a16e6362693caf893f81c77ef94b0bf64982c4158a07b19927824ad0525d29"
+    },
+    {
+      "path": "materiais/outputs/recuperacao-origens-20261021/testes-rastreamento-tray.md",
+      "bytes": 4787,
+      "sha256": "2154fe72d91ac45521ba8e1b429014347950df344db0d2f4e4af53b5efa74c5d"
+    },
+    {
+      "path": "mcp/catalogo-tray-ga4.json",
+      "bytes": 55939,
+      "sha256": "99f2c8728aed2024807bd9424749c126a708b6eb6dc8afe2a8e6ad88e04a3297"
+    },
+    {
+      "path": "mcp/CONECTAR-MCPS.md",
+      "bytes": 7137,
+      "sha256": "6579dbab9b601d6d3206f75819d757a80eb2d70686e17952b3da8c7f5e0eb3c0"
+    },
+    {
+      "path": "mcp/config.codex.example.toml",
+      "bytes": 1449,
+      "sha256": "81a44e0203898d51b05310299e250a68c02aa60f6920d10ea90487fa17e4da29"
+    },
+    {
+      "path": "mcp/JARVIS-API-PRODUCAO.md",
+      "bytes": 3586,
+      "sha256": "ea0e3468edfad2412f1f9168b5b1966ed6324a0f1d2958fb20f2d806581b0033"
+    },
+    {
+      "path": "mcp/mcp-http.example.json",
+      "bytes": 389,
+      "sha256": "429cda03a4926ddb45337fc6bd2d1e79cfd79b3495fcb07edbc4694b4f6346eb"
+    },
+    {
+      "path": "mcp/tray-servidor/.gitignore",
+      "bytes": 33,
+      "sha256": "e10fd4d10ac97e5435d857995a060af4d358a7efa05292a3b0bb2bd3c1ad1b08"
+    },
+    {
+      "path": "mcp/tray-servidor/.openai/hosting.json",
+      "bytes": 118,
+      "sha256": "26e59b553fce0c9dfe7b83a5a6c03833dc20b1be4348bc880d3653854fdc9c9a"
+    },
+    {
+      "path": "mcp/tray-servidor/drizzle/0000_tray_tokens.sql",
+      "bytes": 135,
+      "sha256": "47a9ad08196cef4c44799601d3daac669c0187853e82e2598e531f28bafcf525"
+    },
+    {
+      "path": "mcp/tray-servidor/drizzle/meta/_journal.json",
+      "bytes": 136,
+      "sha256": "3f32a6f226c6565487fbe3f804e2679d21b088f22e0f124a28792b8b954de14c"
+    },
+    {
+      "path": "mcp/tray-servidor/ORIGEM-DO-PACOTE.md",
+      "bytes": 681,
+      "sha256": "398215c66a19cf5d82dcbcf36d68f7586a9ae5414a360c49a77a80241d7ba9ea"
+    },
+    {
+      "path": "mcp/tray-servidor/package.json",
+      "bytes": 241,
+      "sha256": "6f5ee592f79703149e3e410ee99778ab5cb61f34a61f6a88211d71fc60a1f44e"
+    },
+    {
+      "path": "mcp/tray-servidor/README.md",
+      "bytes": 962,
+      "sha256": "912dcfe32b303d8349bf53a3bda4ec701eb02254710c17d9d02bd5e0fabae4c6"
+    },
+    {
+      "path": "mcp/tray-servidor/scripts/build.mjs",
+      "bytes": 375,
+      "sha256": "c8dde3b80a510853110589fa14a15d924284c9e6f5b6bc1f4b71a09d73a95fb9"
+    },
+    {
+      "path": "mcp/tray-servidor/scripts/build.sh",
+      "bytes": 366,
+      "sha256": "76bddebeb2accb38b37de0673778d7bf3119bc7da7ed5ae4c1d4c9884969848f"
+    },
+    {
+      "path": "mcp/tray-servidor/scripts/validate-artifact.mjs",
+      "bytes": 953,
+      "sha256": "39d9df53ac2461962466d5965c5f4d06f08024ceca40605952d8b753b88d41fd"
+    },
+    {
+      "path": "mcp/tray-servidor/tests/worker.test.mjs",
+      "bytes": 6505,
+      "sha256": "0881d4de573e67d93d8e9b644bacf387bae987846f30bb02126998ef5542ffd8"
+    },
+    {
+      "path": "mcp/tray-servidor/worker/index.js",
+      "bytes": 14352,
+      "sha256": "36b920a5e367e2f504a6e2ec6f9f968d362679d05e6805696eeb55b911748a6d"
+    },
+    {
+      "path": "mcp/validacao-2026-11-23.json",
+      "bytes": 2300,
+      "sha256": "b731ee98ee05b984d3591c3ad4449c3412a53716f3b9e49f94a47c637a88eb56"
+    },
+    {
+      "path": "PASSAGEM-DE-BASTAO.md",
+      "bytes": 8901,
+      "sha256": "ca5e17aefd04a9cf3fea6c6a253ddb74384ac378429d7e15478118efa31fc003"
+    },
+    {
+      "path": "PROMPT-DE-RETOMADA.md",
+      "bytes": 1787,
+      "sha256": "d4c3fa9310ea81e1825a5caba8019854c943164b6364faa1d14f6a3f478c6cb4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3264,
+      "sha256": "7284ba966e62a34248a9527fef8464e4c6b4e732e79356d55c96c865fe01166b"
+    }
+  ]
+}

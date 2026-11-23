@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "google-ads-canovas-mendes": {
+      "type": "http",
+      "url": "https://google-ads-mcp-866821228285.us-central1.run.app/mcp"
+    },
+    "bling": {
+      "type": "http",
+      "url": "https://mcp.bling.com.br/mcp"
+    },
+    "aboutbeer-tray-testes": {
+      "type": "http",
+      "url": "https://aboutbeer-tray-analytics.rogertobace.chatgpt.site/mcp"
+    }
+  }
+}

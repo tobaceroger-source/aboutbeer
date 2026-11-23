@@ -1,0 +1,168 @@
+Browser tab: 1, Title: "OpenAI Ads Manager", URL: "https://ads.openai.com/manage/campaigns?act=adacct_6ac7a1b9420881a390d34750547ee89f".
+1 AXWebArea OpenAI Ads Manager, URL: ads.openai.com/manage/campaigns?act=adacct_6ac7a1b9420881a390d34750547ee89f
+	2 container
+		3 container Beta da Plataforma de Anúncios
+		4 button (expanded) Description: Fechar barra lateral, Secondary Actions: Collapse
+		5 container
+			6 link Description: Visão geral, Value: ads.openai.com/overview?act=adacct_6ac7a1b9420881a390d34750547ee89f
+			7 link Description: Campanhas, Value: ads.openai.com/manage/campaigns?act=adacct_6ac7a1b9420881a390d34750547ee89f
+			8 link Description: Conversões, Value: ads.openai.com/settings/conversions?act=adacct_6ac7a1b9420881a390d34750547ee89f
+			9 button (collapsed) Ferramentas, Secondary Actions: Expand
+				10 image
+				11 text Ferramentas
+				12 image
+			13 button (collapsed) Faturamento, Secondary Actions: Expand
+				14 image
+				15 text Faturamento
+				16 image
+			17 button (collapsed) Configurações, Secondary Actions: Expand
+				18 image
+				19 text Configurações
+				20 image
+		21 pop up button (collapsed) About Group LTDA, ID: radix-_r_3_, Secondary Actions: Expand
+		22 text Conclua a verificação da empresa para manter os anúncios em exibição
+		23 text Seus anúncios podem começar a ser veiculados antes da conclusão. Conclua a verificação agora para evitar interrupções depois.
+		24 button Continuar a verificação
+		25 button Fechar banner de verificação do anunciante
+			26 image
+		27 container
+			28 text Campanhas
+			29 button Pesquisar
+				30 image
+			31 pop up button (collapsed) Criar, ID: radix-_r_9_, Secondary Actions: Expand
+				32 image
+				33 text Criar
+				34 image
+				35 image
+			36 tab group Recursos do Gerenciador de Anúncios
+				37 tab (selected, settable, boolean) Campanhas, Value: 1
+				38 tab (selectable, settable, boolean) Grupos de anúncios, Value: 0
+				39 tab (selectable, settable, boolean) Anúncios, Value: 0
+			40 pop up button (collapsed) Description: Filtrar, ID: radix-_r_c_, Secondary Actions: Expand
+				41 image
+			42 button Editar colunas
+				43 image
+			44 pop up button (collapsed) Description: Ações da tabela, ID: radix-_r_j_, Secondary Actions: Expand
+				45 image
+			46 pop up button (collapsed) 22/10/26-23/10/26, Secondary Actions: Expand
+				47 image
+				48 text 22/10/26
+				49 text -
+				50 text 23/10/26
+			127 table
+				128 row
+					129 cell Selecionar todas as linhas
+						130 checkbox 0
+					131 cell
+						132 text Ativo
+						133 button Redimensionar coluna Ativo
+					134 cell
+						135 text Nome
+						136 button Redimensionar coluna Nome
+					137 cell
+						138 text Status
+						139 button Redimensionar coluna Status
+					140 cell
+						141 text Tipo
+						142 button Redimensionar coluna Tipo
+					143 cell
+						144 text Ações
+						145 button Redimensionar coluna Ações
+					146 cell
+						147 button Ordenar campanhas por impressions
+							148 text Impressões
+							149 image
+						150 button Redimensionar coluna Impressões
+					151 cell
+						152 button Ordenar campanhas por clicks
+							153 text Cliques
+							154 image
+						155 button Redimensionar coluna Cliques
+					156 cell
+						157 pop up button (collapsed) Conversões, Secondary Actions: Expand
+						158 button Redimensionar coluna Conversões
+					159 cell
+						160 button Ordenar campanhas por spend
+							161 text Gasto
+							162 image
+						163 button Redimensionar coluna Gasto
+					164 cell
+						165 button Ordenar campanhas por ctr
+							166 text CTR
+							167 image
+						168 button Redimensionar coluna CTR
+					169 cell
+						170 button Ordenar campanhas por cpc
+							171 text CPC méd.
+							172 image
+						173 button Redimensionar coluna CPC méd.
+					174 cell
+						175 button Ordenar campanhas por cpm
+							176 text CPM méd.
+							177 image
+						178 button Redimensionar coluna CPM méd.
+					179 cell
+						180 text Orçamento
+						181 button Redimensionar coluna Orçamento
+					182 cell
+						183 button Ordenar campanhas por start_time
+							184 text Data de início
+							185 image
+						186 button Redimensionar coluna Data de início
+					187 cell
+						188 button Ordenar campanhas por end_time
+							189 text Data de término
+							190 image
+						191 button Redimensionar coluna Data de término
+				192 row
+					193 cell
+						194 checkbox 0
+					195 cell
+						196 switch Description: Pausar item, Value: 1
+					197 cell
+						198 button [CHATGPT ADS] About Beer | Chopeiras | 10 dias
+						199 pop up button (collapsed) Description: Ações, ID: radix-_r_2v_, Secondary Actions: Expand
+							200 image
+					201 cell
+						202 text Em operação
+					203 cell
+						204 text Cliques
+					205 cell
+						206 text 2834
+					207 cell
+						208 text 30
+					209 cell
+						210 pop up button (collapsed) Description: Mostrar detalhamento da atribuição para 21 conversões, Secondary Actions: Expand
+						211 pop up button (collapsed) Description: Os dados de conversão recentes podem estar incompletos., Secondary Actions: Expand
+					212 cell
+						213 text R$60.35
+					214 cell
+						215 text 1.06%
+					216 cell
+						217 text R$3.02
+					218 cell
+						219 text R$24.46
+					220 cell
+						221 pop up button (collapsed) R$40.00/dia, Secondary Actions: Expand
+							222 text R$40.00/dia
+							223 image
+					224 cell
+						225 text 22 de out. de 2026
+					226 cell
+						227 text 01 de nov. de 2026
+			228 container
+				229 button Mostrar totais
+					230 text Mostrar totais
+					231 image
+				232 pop up button (collapsed) Fuso horário: Horário Padrão de Brasília, ID: radix-_r_37_, Secondary Actions: Expand
+				233 text O faturamento usa UTC Dados preliminares de 23 de out.
+				234 button Dados preliminares de 23 de out.
+				235 text 1-1 de 1
+				236 button (disabled) Página anterior
+					237 image
+				238 button (disabled) Próxima página
+					239 image
+		125 container Notifications alt+T
+		126 link Description: Central de Ajuda, Value: help.openai.com/collections/20001223
+
+The focused UI element is 1 AXWebArea OpenAI Ads Manager, URL: ads.openai.com/manage/campaigns?act=adacct_6ac7a1b9420881a390d34750547ee89f

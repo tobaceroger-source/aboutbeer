@@ -1,0 +1,423 @@
+{
+  "exported_at": "2026-11-23",
+  "scope": "Todos os 24 chats de usuário encontrados no projeto local About Beer, inclusive arquivados. Não inclui threads técnicas de revisão automática ou subagentes.",
+  "chats": [
+    {
+      "id": "01a0c4be-d191-7f11-883f-35d87bcf8ba5",
+      "title": "Planejar automação de transcrições",
+      "path": "conversas/planejar-automacao-de-transcricoes--01a0c4be-d191-7f11-883f-35d87bcf8ba5.md",
+      "turns": 6,
+      "messages": 18,
+      "complete": true,
+      "archived": true,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "title": "CAMPANHAS",
+      "path": "conversas/campanhas--01a0c9a4-333c-7802-9671-39bf4f20f6cb.md",
+      "turns": 153,
+      "messages": 553,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0e91c-ba36-7741-a5b3-7f79d1d4780f",
+      "title": "Comparar ferramentas de email",
+      "path": "conversas/comparar-ferramentas-de-email--01a0e91c-ba36-7741-a5b3-7f79d1d4780f.md",
+      "turns": 1,
+      "messages": 3,
+      "complete": true,
+      "archived": true,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0f298-223b-7403-805e-d2ca54cfe35e",
+      "title": "Analisar dados",
+      "path": "conversas/analisar-dados--01a0f298-223b-7403-805e-d2ca54cfe35e.md",
+      "turns": 54,
+      "messages": 179,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0f4d6-ae06-7193-bbe6-f2b326512d73",
+      "title": "Formatar lista para Meta Ads",
+      "path": "conversas/formatar-lista-para-meta-ads--01a0f4d6-ae06-7193-bbe6-f2b326512d73.md",
+      "turns": 2,
+      "messages": 9,
+      "complete": true,
+      "archived": true,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0f777-e6dd-71a3-ba9c-a9bd34d323bf",
+      "title": "Ajustar pontuação e maiúsculas",
+      "path": "conversas/anexos-fora-do-escopo/ajustar-pontuacao-e-maiusculas--01a0f777-e6dd-71a3-ba9c-a9bd34d323bf.md",
+      "turns": 2,
+      "messages": 4,
+      "complete": true,
+      "archived": true,
+      "outside_scope": true,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0f792-7cdb-7de2-9f85-f3e40be8cdfc",
+      "title": "Identificar o que é isso",
+      "path": "conversas/identificar-o-que-e-isso--01a0f792-7cdb-7de2-9f85-f3e40be8cdfc.md",
+      "turns": 1,
+      "messages": 3,
+      "complete": true,
+      "archived": true,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0f7fd-be3e-7783-8813-f4af4e2f06cf",
+      "title": "Entender por que GPT Ads é bom",
+      "path": "conversas/entender-por-que-gpt-ads-e-bom--01a0f7fd-be3e-7783-8813-f4af4e2f06cf.md",
+      "turns": 4,
+      "messages": 8,
+      "complete": true,
+      "archived": true,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a0f8d2-637f-7800-8351-1e4099c08243",
+      "title": "Criar descrição de criativo",
+      "path": "conversas/criar-descricao-de-criativo--01a0f8d2-637f-7800-8351-1e4099c08243.md",
+      "turns": 3,
+      "messages": 9,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a11233-c3e6-7720-a70d-cbdf26af1a42",
+      "title": "Criar 3 criativos para About Beer",
+      "path": "conversas/criar-3-criativos-para-about-beer--01a11233-c3e6-7720-a70d-cbdf26af1a42.md",
+      "turns": 19,
+      "messages": 93,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Arquivo local JSONL compactado com Zstandard. A API do aplicativo recusou até um único turno por tamanho excessivo. Somente mensagens de usuário e assistente extraídas; raciocínio e ferramentas excluídos."
+    },
+    {
+      "id": "01a11ca1-59fa-7873-b50e-2e548aec834c",
+      "title": "GPT ADS",
+      "path": "conversas/gpt-ads--01a11ca1-59fa-7873-b50e-2e548aec834c.md",
+      "turns": 33,
+      "messages": 143,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a11d0f-3e3f-7313-9431-c8a3702a280c",
+      "title": "Identificar modo de visualização",
+      "path": "conversas/identificar-modo-de-visualizacao--01a11d0f-3e3f-7313-9431-c8a3702a280c.md",
+      "turns": 1,
+      "messages": 3,
+      "complete": true,
+      "archived": true,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a121e5-6394-72f2-a000-6bc3e0362285",
+      "title": "API da Tray",
+      "path": "conversas/api-da-tray--01a121e5-6394-72f2-a000-6bc3e0362285.md",
+      "turns": 20,
+      "messages": 89,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a13aad-1696-7162-959b-2148390a36e4",
+      "title": "Conectar ao MCP do Bling",
+      "path": "conversas/conectar-ao-mcp-do-bling--01a13aad-1696-7162-959b-2148390a36e4.md",
+      "turns": 4,
+      "messages": 12,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a182e1-2939-7fb1-ab1d-0b5dff5cd4fb",
+      "title": "Localizar Mercado Ads",
+      "path": "conversas/localizar-mercado-ads--01a182e1-2939-7fb1-ab1d-0b5dff5cd4fb.md",
+      "turns": 21,
+      "messages": 96,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1a71d-e4b5-71e0-9eac-8c05455d001c",
+      "title": "Criar textos de Black Friday",
+      "path": "conversas/criar-textos-de-black-friday--01a1a71d-e4b5-71e0-9eac-8c05455d001c.md",
+      "turns": 6,
+      "messages": 16,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1a7fa-1645-7811-8c96-7659206a451d",
+      "title": "Listar contas da MCC Roger",
+      "path": "conversas/anexos-fora-do-escopo/listar-contas-da-mcc-roger--01a1a7fa-1645-7811-8c96-7659206a451d.md",
+      "turns": 1,
+      "messages": 3,
+      "complete": true,
+      "archived": true,
+      "outside_scope": true,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1c0ca-1974-7c50-bc7f-4212f4cfb381",
+      "title": "Explicar campanha GMV no TikTok",
+      "path": "conversas/explicar-campanha-gmv-no-tiktok--01a1c0ca-1974-7c50-bc7f-4212f4cfb381.md",
+      "turns": 10,
+      "messages": 28,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1cb09-1833-7a23-b561-3f9acfb1dc02",
+      "title": "Consultar pedidos da Tray",
+      "path": "conversas/consultar-pedidos-da-tray--01a1cb09-1833-7a23-b561-3f9acfb1dc02.md",
+      "turns": 15,
+      "messages": 42,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1e3ac-4332-73c3-b5c3-587566cf91dc",
+      "title": "Verificar confiabilidade do iPhone 17e",
+      "path": "conversas/anexos-fora-do-escopo/verificar-confiabilidade-do-iphone-17e--01a1e3ac-4332-73c3-b5c3-587566cf91dc.md",
+      "turns": 5,
+      "messages": 18,
+      "complete": true,
+      "archived": false,
+      "outside_scope": true,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1e9c2-f06f-7741-9a0f-2e8e3ca2dd1d",
+      "title": "Criar título e descrição para Shorts",
+      "path": "conversas/criar-titulo-e-descricao-para-shorts--01a1e9c2-f06f-7741-9a0f-2e8e3ca2dd1d.md",
+      "turns": 5,
+      "messages": 22,
+      "complete": true,
+      "archived": false,
+      "outside_scope": false,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1eacb-ca5b-7d81-b6f3-4165a483ef43",
+      "title": "Localizar The Book of Elon",
+      "path": "conversas/anexos-fora-do-escopo/localizar-the-book-of-elon--01a1eacb-ca5b-7d81-b6f3-4165a483ef43.md",
+      "turns": 15,
+      "messages": 52,
+      "complete": true,
+      "archived": false,
+      "outside_scope": true,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1eb7e-be1d-7b32-9957-327e2efc3d4f",
+      "title": "Confirmar proposta de liderança",
+      "path": "conversas/anexos-fora-do-escopo/confirmar-proposta-de-lideranca--01a1eb7e-be1d-7b32-9957-327e2efc3d4f.md",
+      "turns": 2,
+      "messages": 4,
+      "complete": true,
+      "archived": false,
+      "outside_scope": true,
+      "source": "Codex read_thread; paginação completa"
+    },
+    {
+      "id": "01a1f4df-3490-7231-910c-c55500a5df44",
+      "title": "Resumir SAZ para passagem de gestão",
+      "path": "conversas/anexos-fora-do-escopo/resumir-saz-para-passagem-de-gestao--01a1f4df-3490-7231-910c-c55500a5df44.md",
+      "turns": 1,
+      "messages": 5,
+      "complete": true,
+      "archived": false,
+      "outside_scope": true,
+      "source": "Codex read_thread; paginação completa"
+    }
+  ],
+  "attachments": [
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-55e7d655-6161-4637-8327-42359b6488ed.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-7601abf3-c7a2-481c-b6b7-46ccc00c3fe3.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-477dee11-dd11-483f-8fad-70b65eaa25fb.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-dd550cbd-b033-4e24-9703-87a6dc27eca9.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-0546f537-e2ea-489a-b85d-8f850166cc9d.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-422df8a1-4ac9-4d27-b0b2-7dae845ede3b.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-5ffe28ed-22c3-48ba-9b79-867a1ce97b9a.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-c0b7fb2d-9674-4fc4-a717-fbebda755550.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-aaeea6bc-aa2e-43bd-a2f2-6ca208ecc797.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-42ab4791-f8fe-45a6-a7f9-d6b2aa4df6a4.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-e4515625-659e-4fbf-afd8-0caadcd658e2.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0c9a4-333c-7802-9671-39bf4f20f6cb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-5460f61f-9ca1-413e-b169-fa910f097793.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f298-223b-7403-805e-d2ca54cfe35e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-ba828440-4fb4-4263-8fc7-b9e346e43169.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f298-223b-7403-805e-d2ca54cfe35e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-f4bf153f-d38f-4dc5-b901-795579d7f8d6.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f298-223b-7403-805e-d2ca54cfe35e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-cd6a17c4-c99e-4e67-ac86-aad48fc655de.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f792-7cdb-7de2-9f85-f3e40be8cdfc",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-d66e8324-62d2-4163-96e3-4d56ffb60aee.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f7fd-be3e-7783-8813-f4af4e2f06cf",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-ccb6f745-51dc-4bbe-a56a-efcb093eae12.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a11ca1-59fa-7873-b50e-2e548aec834c",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-6050075e-0148-44cb-a9d9-234bc21f6ff7.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a11ca1-59fa-7873-b50e-2e548aec834c",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-9fe796fb-bedf-4a87-a47b-b44624e1a72d.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a11d0f-3e3f-7313-9431-c8a3702a280c",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-0d8ac7bf-1023-405b-8118-b38bd40f2812.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a182e1-2939-7fb1-ab1d-0b5dff5cd4fb",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-ffdb693b-64df-4c0e-8fd9-4b2e6415e184.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1c0ca-1974-7c50-bc7f-4212f4cfb381",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-66ea0791-370a-4556-871d-86652402c064.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1cb09-1833-7a23-b561-3f9acfb1dc02",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-c3124d41-a8c8-4357-b07c-b417cbf428b1.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1cb09-1833-7a23-b561-3f9acfb1dc02",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-36a131fb-368d-4c25-89a8-80257610d569.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1eacb-ca5b-7d81-b6f3-4165a483ef43",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-72ab9a9b-d7f8-4e21-8f20-9ad5fc49212c.png",
+      "included": false
+    }
+  ],
+  "api_size_limit_flags": []
+}

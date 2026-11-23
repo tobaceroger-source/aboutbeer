@@ -1,0 +1,134 @@
+ABOUT BEER — Revisão de termos de pesquisa e negativas
+Consulta em 28/10/2026 | Período: 01/08/2026 a 27/10/2026.
+Google Ads 9185273300 | BRL | America/Sao_Paulo | Fonte: MCP Canovas Mendes.
+Recomendação preparada. Nenhuma alteração aplicada.
+
+PRIMEIRO LOTE RECOMENDADO
+34 termos exatos; R$ 341,96 em gasto histórico; 67 cliques; nenhuma compra atribuída nas consultas selecionadas.
+Aplicação proposta no nível das campanhas [PESQUISA] About Beer e [PMAX] About Beer. Não usar a lista global da conta para este teste.
+Critério: incompatibilidade ou baixa especificidade da intenção em relação à oferta. A ausência de conversões, sozinha, não justifica excluir termos comerciais relevantes.
+Usar correspondência EXATA para preservar buscas mais longas por acessórios, comparação e compatibilidade. Não transformar beer, cerveja, chopp ou elétrica em negativas amplas.
+
+GASTO HISTÓRICO DOS TERMOS SELECIONADOS POR MÊS
+2026-08 | Pesquisa R$ 47,65 | PMax R$ 7,45 | Total R$ 55,10 | 17 cliques | 0 compras atribuídas
+2026-09 | Pesquisa R$ 101,87 | PMax R$ 19,87 | Total R$ 121,74 | 21 cliques | 0 compras atribuídas
+2026-10 | Pesquisa R$ 101,00 | PMax R$ 64,12 | Total R$ 165,12 | 29 cliques | 0 compras atribuídas
+
+GASTO POR INTENÇÃO
+Chopeiras elétricas e variações específicas: R$ 192,74; 45 cliques; 18 consultas.
+Bebidas e consultas genéricas sobre cerveja: R$ 97,59; 12 cliques; 10 consultas.
+Refrigeração elétrica: R$ 29,11; 8 cliques; 5 consultas.
+Isopor para garrafa: R$ 22,52; 2 cliques; 1 consultas.
+
+LISTA COMPLETA — CORRESPONDÊNCIA EXATA
+[chopeira eletrica]
+[chopeira elétrica]
+[chopeira eletrica completa]
+[chopeiras eletrica]
+[chopeiras eletricas]
+[chopeira eletrica personalizada]
+[chopeira elétrica completa 50 litros]
+[chopeira portátil elétrica]
+[chopeira eletrica portatil]
+[chopeira portatil eletrica]
+[chopeira elétrica 5 litros]
+[chopeira 5 litros elétrica]
+[chopeira elétrica residencial]
+[chopeira elétrica portátil]
+[chopeira eletrica no paraguai]
+[barril de chopp eletrico]
+[chopeira portatil elétrica]
+[chopeira elétrica larken]
+[beer]
+[cerveja]
+[beer chopp]
+[chopp brahma]
+[chopp de 5 litros]
+[chopp 5 litros]
+[pack cerveja]
+[barril de heineken 50 litros]
+[barril chopp ipa]
+[barril chopp heineken 5 litros]
+[kegerator]
+[kegerator kegland]
+[refrigerador de barril de chopp]
+[cooler eletrico]
+[maquina de gelar chopp]
+[isopor para garrafa de cerveja]
+
+DESEMPENHO POR TERMO E CAMPANHA
+Pesquisa | [chopeira eletrica] | R$ 73,20 | 7 cliques | 0 compras atribuídas
+PMax | [chopeira eletrica] | R$ 4,98 | 7 cliques | 0 compras atribuídas
+Pesquisa | [chopeira elétrica] | R$ 41,04 | 5 cliques | 0 compras atribuídas
+PMax | [chopeira elétrica] | R$ 4,06 | 4 cliques | 0 compras atribuídas
+Pesquisa | [chopeira eletrica completa] | R$ 16,80 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopeiras eletrica] | R$ 15,36 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopeiras eletricas] | R$ 5,59 | 1 cliques | 0 compras atribuídas
+PMax | [chopeiras eletricas] | R$ 0,35 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopeira eletrica personalizada] | R$ 4,43 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira elétrica completa 50 litros] | R$ 3,35 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira portátil elétrica] | R$ 3,34 | 2 cliques | 0 compras atribuídas
+Pesquisa | [chopeira eletrica portatil] | R$ 3,23 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira eletrica portatil] | R$ 0,75 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopeira portatil eletrica] | R$ 2,99 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira elétrica 5 litros] | R$ 2,41 | 2 cliques | 0 compras atribuídas
+Pesquisa | [chopeira elétrica 5 litros] | R$ 1,36 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira 5 litros elétrica] | R$ 2,28 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopeira elétrica residencial] | R$ 1,95 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira elétrica portátil] | R$ 1,72 | 2 cliques | 0 compras atribuídas
+Pesquisa | [chopeira eletrica no paraguai] | R$ 1,07 | 1 cliques | 0 compras atribuídas
+Pesquisa | [barril de chopp eletrico] | R$ 1,03 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopeira portatil elétrica] | R$ 0,92 | 1 cliques | 0 compras atribuídas
+PMax | [chopeira elétrica larken] | R$ 0,53 | 1 cliques | 0 compras atribuídas
+Pesquisa | [beer] | R$ 19,51 | 1 cliques | 0 compras atribuídas
+PMax | [beer] | R$ 5,03 | 1 cliques | 0 compras atribuídas
+Pesquisa | [cerveja] | R$ 17,33 | 1 cliques | 0 compras atribuídas
+Pesquisa | [beer chopp] | R$ 12,99 | 2 cliques | 0 compras atribuídas
+PMax | [chopp brahma] | R$ 13,87 | 1 cliques | 0 compras atribuídas
+Pesquisa | [chopp de 5 litros] | R$ 12,27 | 1 cliques | 0 compras atribuídas
+PMax | [chopp 5 litros] | R$ 5,34 | 1 cliques | 0 compras atribuídas
+Pesquisa | [pack cerveja] | R$ 2,94 | 1 cliques | 0 compras atribuídas
+Pesquisa | [barril de heineken 50 litros] | R$ 3,22 | 1 cliques | 0 compras atribuídas
+PMax | [barril chopp ipa] | R$ 2,82 | 1 cliques | 0 compras atribuídas
+PMax | [barril chopp heineken 5 litros] | R$ 2,27 | 1 cliques | 0 compras atribuídas
+PMax | [kegerator] | R$ 9,31 | 3 cliques | 0 compras atribuídas
+Pesquisa | [kegerator kegland] | R$ 7,12 | 2 cliques | 0 compras atribuídas
+Pesquisa | [refrigerador de barril de chopp] | R$ 6,17 | 1 cliques | 0 compras atribuídas
+PMax | [cooler eletrico] | R$ 4,28 | 1 cliques | 0 compras atribuídas
+PMax | [maquina de gelar chopp] | R$ 2,23 | 1 cliques | 0 compras atribuídas
+PMax | [isopor para garrafa de cerveja] | R$ 22,52 | 2 cliques | 0 compras atribuídas
+
+NEGATIVAS ATUAIS QUE MERECEM REVISÃO
+A conta já contém 62 negativas globais. Entre elas:
+refil (ampla), torneira (ampla), peças (ampla), manometro (frase), tap handle (frase), barril vazio (ampla).
+Essas exclusões podem impedir buscas por produtos vendidos no catálogo. Recomendo retirar esses bloqueios genéricos da lista global e controlar o investimento em acessórios por campanha/produto, conforme margem e objetivo. Validar antes de aplicar.
+Também revisar manual, manutenção, artesanal, review e avaliação, pois podem bloquear intenções comerciais ou de consideração. Não remover automaticamente toda a lista.
+Aluguel já está negativado como frase na conta. Existe, ao mesmo tempo, a palavra-chave positiva ativa 'aluguel de chopeira portátil' no grupo 02 - Chopeira Portátil. Se a oferta é apenas venda, pausar essa positiva e manter a negativa de aluguel; não é necessário adicionar novamente.
+
+O QUE PRESERVAR
+Não negativar de forma ampla: chopeira, chopeira portátil, About Beer, beer, cerveja, chopp, barril de chopp, CO2, peças, torneira, Electrolux ou iKeg.
+Chopeira portátil na PMax: 1 compra atribuída; ROAS 11,13x.
+Chopeira portátil 5 litros: ROAS 41,67x em Pesquisa e 20,09x na PMax, em pequenas amostras.
+Barril de chopp registrou conversão na PMax. A loja vende barris e kit de upgrade compatível com Electrolux.
+Variações 'chopeira ikeg 5l' e 'ikeg cheers' registraram conversões fracionárias; não excluir toda a marca por extensão.
+Termo exato 'chopeira': R$ 185,55 e 15 cliques em Pesquisa; R$ 105,31 e 44 cliques na PMax, sem conversão. Revisar eficiência e intenção; não é incompatibilidade comprovada.
+Termo exato 'ikeg': R$ 94,76 e 58 cliques no total, sem conversão. Candidato a teste exato separado por desempenho, não incluído no lote de incompatibilidade.
+
+SEGUNDA RODADA OPCIONAL
+Modelos completos de equipamentos Philco, Krups, Perfect Draft e EOS: 12 consultas, R$ 72,96 e 20 cliques, sem conversão. Avaliar separadamente, sem negativar amplamente marcas que possam gerar venda de acessórios.
+
+COBERTURA E LIMITES
+Termos disponibilizados cobrem R$ 2.322,95 de R$ 4.430,17 da PMax (52,43%) e R$ 1.641,66 de R$ 2.817,49 de Pesquisa (58,27%). A cobertura PMax também é menor por incluir outras redes no gasto total.
+Foram retornadas 877 linhas de termos/mês/campanha com gasto, agregadas em 665 combinações de termo/campanha. Consultas sem gasto com conversão foram verificadas e não retornaram registros.
+Compras e receita são atribuídas pelo Google Ads, não pedidos pagos conciliados. Os dados recentes podem receber conversões adicionais. Não classificar o gasto sem termos como irrelevante.
+O gasto histórico de R$ 341,96 não é economia mensal prevista: o orçamento poderá ser redirecionado a outras buscas. É aproximadamente 4,72% do gasto combinado das duas campanhas no período.
+A configuração atual das negativas não comprova quando cada bloqueio começou a valer.
+
+VERIFICAÇÃO APÓS EVENTUAL APLICAÇÃO
+Confirmar campanhas e correspondência, registrar data e lista aplicada. Revisar termos e ROAS de pedidos pagos após 7 e 14 dias, respeitando o atraso real de conversão. Manter produtos/consultas comerciais protegidos e reavaliar bloqueios se surgir evidência de perda de demanda qualificada.
+
+FONTES DE CONTEXTO
+https://www.aboutbeer.com.br/acessorios/pecas-reposicao
+https://www.aboutbeer.com.br/acessorios/upgrade-home-bar-electrolux
+https://support.google.com/google-ads/answer/2453972?hl=pt-BR
+https://support.google.com/google-ads/answer/13607727

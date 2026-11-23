@@ -1,0 +1,42 @@
+TRACKING SIMPLES — ABOUT BEER / CHATGPT ADS
+Configurado em 08/10/2026.
+
+O QUE FOI FEITO
+UTMs salvas no campo de parâmetros de rastreamento da campanha:
+utm_source=chatgpt&utm_medium=cpc&utm_campaign=aboutbeer_chopeiras_10dias&utm_id={campaign_id}&utm_content={ad_id}
+
+O grupo e os três anúncios não possuem parâmetros que sobrescrevam esses valores. As UTMs foram confirmadas após reabrir o rascunho.
+Campanha permanece em rascunho. Objetivo Cliques, R$ 40/dia, datas 08 a 18/10/2026.
+
+COMO MEDIR
+Usar o GA4 About Beer - Tray, propriedade 426045164, domínio www.aboutbeer.com.br.
+Filtro de sessão: origem chatgpt; mídia cpc; campanha aboutbeer_chopeiras_10dias.
+Etapas: page_view, view_item, add_to_cart, view_cart, begin_checkout e purchase.
+Métrica principal: totalUsers por etapa. eventCount é quantidade de ocorrências e pode repetir para a mesma pessoa.
+Não somar usuários de etapas diferentes. Esses totais mostram alcance de cada etapa; não são uma sequência obrigatória percorrida por todos os mesmos usuários.
+A comparação ajuda a avaliar interesse, avanço e pedidos registrados da campanha. O utm_content contém o ID do anúncio para separar criativos nos relatórios apropriados.
+
+VALIDAÇÃO
+O GA4 conectado confirmou todos esses eventos no domínio da loja entre 01 e 08/10/2026, incluindo 29 ocorrências de purchase e 25 usuários com purchase.
+Esses números são de toda a loja no período, não da campanha ChatGPT.
+A consulta filtrada da nova campanha já foi executada sem erro e retornou zero linhas; não há resultados processados nesse recorte no momento.
+Não foi realizado pedido de teste e não foi comprovada atribuição de um clique real da campanha, que ainda é rascunho.
+
+LIMITES ACEITOS NESTA VERSÃO
+purchase será apresentado como pedido registrado, sem garantir pagamento aprovado.
+Nenhuma tag nova instalada. Não é necessário importar JSON no GTM para esta versão, pois os eventos nativos já chegam ao GA4.
+Não envia conversões ao Ads Manager da OpenAI. O funil será consultado no GA4/conector.
+Não altera agora preços, deduplicação, Meta, PMax ou rastreamento de pagamento confirmado.
+Dados coletados são agregados; não identificam pessoalmente cada cliente.
+Consentimento, bloqueadores e troca de dispositivo/sessão podem limitar a cobertura. Nenhum mecanismo de consentimento foi alterado.
+
+COMO CONSULTAR DEPOIS
+No GA4, filtrar sessões por origem/mídia chatgpt / cpc e campanha aboutbeer_chopeiras_10dias e comparar os eventos acima.
+O arquivo consulta-campanha-ga4.json guarda uma consulta de leitura já testada para uso com o conector. Não é um container importável no GTM.
+Basta pedir nesta conversa: "Consulte o funil da campanha ChatGPT da About Beer de [data inicial] a [data final]". A consulta usa a integração atual e depende de ela permanecer conectada.
+Relatórios não são acompanhamento automático agendado; nenhuma automação foi criada.
+
+Referências:
+https://support.google.com/analytics/answer/10917952?hl=pt-BR
+https://developers.openai.com/ads/campaign-management#tracking-parameters
+

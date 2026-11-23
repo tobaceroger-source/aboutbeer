@@ -1,0 +1,228 @@
+Browser tab: 1, Title: "OpenAI Ads Manager", URL: "https://ads.openai.com/manage/ads?act=adacct_6ac7a1b9420881a390d34750547ee89f".
+1 AXWebArea OpenAI Ads Manager, URL: ads.openai.com/manage/ads?act=adacct_6ac7a1b9420881a390d34750547ee89f
+	2 container
+		3 container Beta da Plataforma de Anúncios
+		4 button (expanded) Description: Fechar barra lateral, Secondary Actions: Collapse
+			5 image
+		6 container
+			7 link Description: Visão geral, Value: ads.openai.com/overview?act=adacct_6ac7a1b9420881a390d34750547ee89f
+			8 link Description: Campanhas, Value: ads.openai.com/manage/campaigns?act=adacct_6ac7a1b9420881a390d34750547ee89f
+			9 link Description: Conversões, Value: ads.openai.com/settings/conversions?act=adacct_6ac7a1b9420881a390d34750547ee89f
+			10 button (collapsed) Ferramentas, Secondary Actions: Expand
+				11 image
+				12 text Ferramentas
+				13 image
+			14 button (collapsed) Faturamento, Secondary Actions: Expand
+				15 image
+				16 text Faturamento
+				17 image
+			18 button (collapsed) Configurações, Secondary Actions: Expand
+				19 image
+				20 text Configurações
+				21 image
+		22 pop up button (collapsed) About Group LTDA, ID: radix-_r_4c_, Secondary Actions: Expand
+		23 text Conclua a verificação da empresa para manter os anúncios em exibição Seus anúncios podem começar a ser veiculados antes da conclusão. Conclua a verificação agora para evitar interrupções depois.
+		24 button Continuar a verificação
+		25 button Fechar banner de verificação do anunciante
+			26 image
+		27 container
+			28 text Campanhas
+			29 button Pesquisar
+				30 image
+			31 pop up button (collapsed) Criar, ID: radix-_r_4i_, Secondary Actions: Expand
+				32 image
+				33 text Criar
+				34 image
+				35 image
+		36 tab group Recursos do Gerenciador de Anúncios
+			37 tab (selectable, settable, boolean) Campanhas, Value: 0
+			38 tab (selectable, settable, boolean) Grupos de anúncios, Value: 0
+			39 tab (selected, settable, boolean) Anúncios, Value: 1
+		40 pop up button (collapsed) Description: Filtrar, ID: radix-_r_4l_, Secondary Actions: Expand
+			41 image
+		42 button Editar colunas
+			43 image
+		44 pop up button (collapsed) Description: Ações da tabela, ID: radix-_r_4s_, Secondary Actions: Expand
+			45 image
+		46 pop up button (collapsed) 10/10/26-23/10/26, Secondary Actions: Expand
+			47 image
+			48 text 10/10/26
+			49 text -
+			50 text 23/10/26
+		51 container
+			52 table
+				53 row
+					54 cell Selecionar todas as linhas
+						55 checkbox 0
+					56 cell
+						57 text Ativo
+						58 button Redimensionar coluna Ativo
+					59 cell
+						60 text Anúncio
+						61 button Redimensionar coluna Anúncio
+					62 cell
+						63 text Status
+						64 button Redimensionar coluna Status
+					65 cell
+						66 text Ações
+						67 button Redimensionar coluna Ações
+					68 cell
+						69 button Ordenar anúncios por impressions
+							70 text Impressões
+							71 image
+						72 button Redimensionar coluna Impressões
+					73 cell
+						74 button Ordenar anúncios por clicks
+							75 text Cliques
+							76 image
+						77 button Redimensionar coluna Cliques
+					78 cell
+						79 pop up button (collapsed) Conversões, Secondary Actions: Expand
+						80 button Redimensionar coluna Conversões
+					81 cell
+						82 button Ordenar anúncios por spend
+							83 text Gasto
+							84 image
+						85 button Redimensionar coluna Gasto
+					86 cell
+						87 button Ordenar anúncios por ctr
+							88 text CTR
+							89 image
+						90 button Redimensionar coluna CTR
+					91 cell
+						92 button Ordenar anúncios por cpc
+							93 text CPC médio
+							94 image
+						95 button Redimensionar coluna CPC médio
+					96 cell
+						97 button Ordenar anúncios por cpm
+							98 text CPM médio
+							99 image
+						100 button Redimensionar coluna CPM médio
+					101 cell
+						102 text URL
+						103 button Redimensionar coluna URL
+					104 cell
+						105 text Nome da campanha
+						106 button Redimensionar coluna Nome da campanha
+					107 cell
+						108 text Grupo de anúncios
+						109 button Redimensionar coluna Grupo de anúncios
+				110 row
+					111 cell
+						112 checkbox 0
+					113 cell
+						114 switch Description: Pausar item, Value: 1
+					115 cell
+						116 container
+							117 image Chopeira térmica portátil About Beer 5L
+							118 text Chopeira térmica portátil About Beer 5L Capacidade de 5 litros, montagem simples e fácil limpeza. Conheça a chopeira portátil About Beer.
+						119 text 01 | Chopeira 5L | Praticidade
+						120 pop up button (collapsed) Description: Ações para 01 | Chopeira 5L | Praticidade, ID: radix-_r_70_, Secondary Actions: Expand
+							121 image
+					122 cell
+						123 text Em operação
+					124 cell
+						125 text 1721
+					126 cell
+						127 text 22
+					128 cell
+						129 pop up button (collapsed) Description: Mostrar detalhamento da atribuição para 19 conversões, Secondary Actions: Expand
+						130 pop up button (collapsed) Description: Os dados de conversão recentes podem estar incompletos., Secondary Actions: Expand
+					131 cell
+						132 text R$39.11
+					133 cell
+						134 text 1.28%
+					135 cell
+						136 text R$3.01
+					137 cell
+						138 text R$26.11
+					139 cell
+						140 link Description: https://www.aboutbeer.com.br/chopeiras/chopeira-portatil-about-beer-05-litros, Value: aboutbeer.com.br/chopeiras/chopeira-portatil-about-beer-05-litros
+					141 cell
+						142 text [CHATGPT ADS] About Beer | Chopeiras | 10 dias
+					143 cell
+						144 text Chopeira 5L | Portabilidade e praticidade
+				145 row
+					146 cell
+						147 checkbox 0
+					148 cell
+						149 switch Description: Pausar item, Value: 1
+					150 cell
+						151 container
+							152 image Sua chopeira portátil de 5 litros
+							153 text Sua chopeira portátil de 5 litros Leve sua About Beer com praticidade. Confira capacidade, funcionamento e acessórios no site.
+						154 text 02 | Chopeira 5L | Portabilidade
+						155 pop up button (collapsed) Description: Ações para 02 | Chopeira 5L | Portabilidade, ID: radix-_r_7a_, Secondary Actions: Expand
+							156 image
+					157 cell
+						158 text Em operação
+					159 cell
+						160 text 538
+					161 cell
+						162 text 3
+					163 cell
+						164 pop up button (collapsed) Description: Mostrar detalhamento da atribuição para 2 conversões, Secondary Actions: Expand
+						165 pop up button (collapsed) Description: Os dados de conversão recentes podem estar incompletos., Secondary Actions: Expand
+					166 cell
+						167 text R$6.01
+					168 cell
+						169 text 0.56%
+					170 cell
+						171 text R$3.01
+					172 cell
+						173 text R$12.53
+					174 cell
+						175 link Description: https://www.aboutbeer.com.br/chopeiras/chopeira-portatil-about-beer-05-litros, Value: aboutbeer.com.br/chopeiras/chopeira-portatil-about-beer-05-litros
+					176 cell
+						177 text [CHATGPT ADS] About Beer | Chopeiras | 10 dias
+					178 cell
+						179 text Chopeira 5L | Portabilidade e praticidade
+				180 row
+					181 cell
+						182 checkbox 0
+					183 cell
+						184 switch Description: Pausar item, Value: 1
+					185 cell
+						186 container
+							187 image Conheça a chopeira About Beer 5L
+							188 text Conheça a chopeira About Beer 5L Compare cores e acessórios da chopeira térmica portátil de 5 litros. Veja os detalhes no site.
+						189 text 03 | Chopeira 5L | Modelos e acessórios
+						190 pop up button (collapsed) Description: Ações para 03 | Chopeira 5L | Modelos e acessórios, ID: radix-_r_7k_, Secondary Actions: Expand
+							191 image
+					192 cell
+						193 text Em operação
+					194 cell
+						195 text 575
+					196 cell
+						197 text 5
+					198 cell
+						199 pop up button (collapsed) Description: Mostrar detalhamento da atribuição para 0 conversão, Secondary Actions: Expand
+						200 pop up button (collapsed) Description: Os dados de conversão recentes podem estar incompletos., Secondary Actions: Expand
+					201 cell
+						202 text R$15.23
+					203 cell
+						204 text 0.87%
+					205 cell
+						206 text R$3.05
+					207 cell
+						208 text R$31.15
+					209 cell
+						210 link Description: https://www.aboutbeer.com.br/chopeiras/chopeira-portatil-about-beer-05-litros, Value: aboutbeer.com.br/chopeiras/chopeira-portatil-about-beer-05-litros
+					211 cell
+						212 text [CHATGPT ADS] About Beer | Chopeiras | 10 dias
+					213 cell
+						214 text Chopeira 5L | Portabilidade e praticidade
+			215 button Mostrar totais
+				216 text Mostrar totais
+				217 image
+			218 text Dados preliminares de 23 de out.
+			219 button Dados preliminares de 23 de out.
+			220 text 1-3 de 3
+			221 button (disabled) Página anterior
+				222 image
+			223 button (disabled) Próxima página
+				224 image
+		225 container Notifications alt+T
+
+The focused UI element is 1 AXWebArea OpenAI Ads Manager, URL: ads.openai.com/manage/ads?act=adacct_6ac7a1b9420881a390d34750547ee89f

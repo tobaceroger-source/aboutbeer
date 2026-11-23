@@ -1,0 +1,1609 @@
+📖 Transcrição
+ago. 28, 2026
+Checkin Semanal - About Beer & V4 - Transcrição
+00:05:31
+
+
+Daniel Santos: Olha o Rogerzão.
+Roger Tobace: E aí, pai? Gastou teus tokens?
+Daniel Santos: Mas tem nada, irmão. Já te falei, mano. Eu tenho segredo, velho.
+Roger Tobace: Você tá de hack,
+Daniel Santos: Mano,
+Roger Tobace: velho.
+Daniel Santos: eu criei um sistema ontem de prospecção ativa com ligação de inteligência artificial e não gastei token, cara,
+Roger Tobace: Mas você criou por onde?
+Daniel Santos: pelo chat PT. Tak.
+Roger Tobace: E ele fazia o quê?
+Daniel Santos: No caso, ele só me dava os comandos, por isso que eu não gastei dessa vez. Eu tava fazendo manual.
+Roger Tobace: Bom, tá
+Daniel Santos: Então, não, mas é que assim,
+Roger Tobace: vendo?
+Daniel Santos: mano, eh, eu vou usar ele agora, tá ligado? Que o que o robô ficou pica, tá ligado? Tipo assim, que agora vai entrar umas integração, uns bagulho doido,
+Roger Tobace: Eas ligação você vai testar com quem?
+Daniel Santos: mano. Não sei. Vou vou vou terminar de construir ela porque ela tá bem crua ainda.
+Roger Tobace: fazer um chat antes de fazer a ligação, né, pra gente já colocar os
+Daniel Santos: Então é que, mano, o de chat, irmão, tem toda essa parada de API,
+
+
+
+
+00:06:49
+
+
+Roger Tobace: caras
+Daniel Santos: tá ligado? Eu não sei como é que é para você criar um aplicativo novo, eh, e conseguir conectar a API do meta nesse teu aplicativo novo, entendeu?
+Roger Tobace: chat todo mundo já fala. Já,
+Daniel Santos: Então não,
+Roger Tobace: velho.
+Daniel Santos: a ideia é que tenha chat, irmão, que seja um WhatsApp, tipo, seja uma ferramenta de comunicação, tá ligado?
+Roger Tobace: A tua é de prospecção,
+Daniel Santos: É. E aí vai ter controle também de conversas porque vai ter o o no o Vipe,
+Roger Tobace: né?
+Daniel Santos: tá ligado?
+Roger Tobace: Que que o faz? grava a
+Daniel Santos: Irmão, ele grava a ligação e abre um teclado para você usar como telefone
+Roger Tobace: direção.
+Daniel Santos: também. Eu já até custeei quanto vai ficar. É baratinho, mas os planos, irmão, vão começar a partir de 499, mano.
+Roger Tobace: você
+Daniel Santos: Acho que é tipo, vai ter o plano gratuito,
+Roger Tobace: fazer.
+Daniel Santos: né, que a pessoa pode usar e aí vai ter o plano médio 499 e o plano pro que é 1200 que eu vou cobrar.
+Roger Tobace: Mas isso aí é o que você vai cobrar ou que custa?
+Daniel Santos: A pessoa pode usar gratuito lá, ela só paga se ela quiser, entendeu?
+
+
+
+
+00:08:12
+
+
+Daniel Santos: Se ela quiser mais coisa, tudo e afins, mas a ferramenta vai ser bem funcional no plano gratuito. Так.
+Roger Tobace: esqueceu de nós mesmo.
+Daniel Santos: Então, será que ele tá viajando ainda? Vend 242.000, Meu, mano? Tá bom demais, velho.
+Roger Tobace: vendeu Right. o ano passado, pelo
+Daniel Santos: Tá
+Roger Tobace: menos,
+Daniel Santos: ótimo.
+Roger Tobace: mano. Tentei fazer o mapeamento lá dos botão que ele quer. Bagulho maior treta, velho.
+Daniel Santos: O bagulho é maior treta que ele quer, velho.
+Roger Tobace: Tá,
+Daniel Santos: Cara, quer metrificar a campanha de tráfego, tá ligado? Pô, v***********, tá ligado?
+Roger Tobace: mano.
+Daniel Santos: Abre o e-commerce logo,
+Roger Tobace: É que é com a IA meio que você ganha super poder,
+Daniel Santos: velho.
+Roger Tobace: né? E aí chegou a hora que eu falei assim:"Ah, mano,
+Daniel Santos: Sim.
+Roger Tobace: pega o navegador aí e faz você". Aí eu fui clicando dentro de foro. Falei:"Ah, boa, fica aí fazendo, vou fazer outra coisa".
+Daniel Santos: Ah, irmão,
+Roger Tobace: Eu acho que ela fez,
+
+
+
+
+00:09:42
+
+
+Daniel Santos: agora que eu que eu criei o esqueleto do bagulho lá,
+Roger Tobace: mas eu
+Daniel Santos: manual, irmão, eu fiquei, viado, sem brincadeira,
+Roger Tobace: não
+Daniel Santos: umas 4 horas, mano, fazendo manual. E eu só consegui criar login conectado com o Google. Então você consegue entrar na ferramenta fazendo criar criação de login e você consegue entrar com o Google também agora.
+Roger Tobace: se o o login
+Daniel Santos: Aham. Fiz o login ontem, mano. Nossa, demorou, hein, velho?
+Roger Tobace: Eu
+Daniel Santos: p*** que pariu, como demorou, mano.
+Roger Tobace: geralmente eu paro de trabalhar quando acaba tudo e aí não demora muito. Você
+Daniel Santos: fazer disparo de meu marx, mano. conseguir acertar a ferramenta pelo hubot
+Roger Tobace: vai fazer por onde?
+Daniel Santos: mesmo, igualzinho RD.
+Roger Tobace: Preciso jogar os vídeos lá dentro.
+Daniel Santos: Eu
+Roger Tobace: E aí, já fez o template do e-mail? Só mandar
+Daniel Santos: já fiz template de email, mano. É só mandar.
+Roger Tobace: ô dar bom, hein?
+Daniel Santos: Ah, tomara que dê,
+Roger Tobace: Você soltou também os
+Daniel Santos: mano.
+Roger Tobace: criativos mais difícil de ir ali de
+Daniel Santos: O de franquia.
+Roger Tobace: manhum de franquia, né?
+
+
+
+
+00:11:56
+
+
+Roger Tobace: da dono da FR. Branquinha matriz. Você tem que achar o Denner
+Daniel Santos: É ele mesmo que nós quer buscar,
+Roger Tobace: Liperd.
+Daniel Santos: mano. É o que o de mobiliária, mano. Esse ficou pronto primeiro que o de imobiliária, mano. Tá ligado? Eu pedi os dois. Os caras fez de franquia
+Roger Tobace: E e ele falou de consórcio.
+Daniel Santos: primeiro.
+Roger Tobace: Por que que não você fez esses aí mais loucão, velho?
+Daniel Santos: Não sei. Eu alinhei com ele na reunião. Ele falou que gostou.
+Roger Tobace: É que ele tinha falado que o produto dele que ele já tinha trabalhado era consórcio, né?
+Daniel Santos: Olha isso,
+Roger Tobace: consórcio seguro, alguma coisa
+Daniel Santos: mano. Eles mandaram agora o de transportadora,
+Roger Tobace: sentitransportador
+Daniel Santos: mano, e não mandaram de imobiliária, velho.
+Roger Tobace: é bom que caso comer outro cliente lá a gente consegue fazer um disparo de email, mano. A gente passa a lista de e-mail,
+Daniel Santos: O vídeo ficou bom.
+Roger Tobace: você faz o template. A gente poderia fazer até de WhatsApp. Como eu migrar um público de uma pé para outra?
+
+
+
+
+00:13:19
+
+
+Roger Tobace: Vou usar o fogo do produtor lá. Vai ser sucesso, viu, mano?
+Daniel Santos: Aí, mano, o cara manda L pe de franquia,
+Roger Tobace: Você
+Daniel Santos: tá ligado? Sem o criativo da
+Roger Tobace: de franquia é o mais osso,
+Daniel Santos: franquia.
+Roger Tobace: mano. Tá louco. O dono da da matriz da franquia é f***. Gastou R$ 100 já no noite.
+Daniel Santos: Nossa.
+Roger Tobace: Vamos ver quanto CPM dessa campanha que tem que achar o dono da Ó CPM que baratinho. R$ 194.
+Daniel Santos: Baratinha.
+Roger Tobace: R$ 200. absurdo.
+Daniel Santos: Aland de mobiliária ficou pronto, mano. Cadê o criativo de mobiliária, Veli?
+Roger Tobace: Ô, na moral, a gente precisa dar um um curso de prosigner, velho. Não sei o que que os caras têm que fazer lá, mas ô, é lente peonta no dia, né?
+Daniel Santos: Mano, não dá para demorar 9 dias para fazer uma landin page,
+Roger Tobace: Ficar pronto, ficar melhor as land os criativos também.
+Daniel Santos: velho.
+Roger Tobace: Os cara parece que não usei velho, eles tá fazendo tudo no
+Daniel Santos: Mano, eu tenho certeza que os cara não mudou aí,
+
+
+
+
+00:14:39
+
+
+Roger Tobace: po.
+Daniel Santos: ó.
+Roger Tobace: Pagaras ferramentas, falar pros caras usar, tem que colocar dinheiro dele, senão não vai andar pra frente não. M. Deixa eu ver essa lente PG aí. Abre aí.
+Daniel Santos: Cadê? Ficou boa, mano. Ô, ficou maneirinha. Podem não ter criativo para rodar.
+Roger Tobace: Imobili a tempos do processo manuais. Desce aí tom fala dos cara. Olha aí.
+Daniel Santos: Mas você não usou aí possível,
+Roger Tobace: Toma parece uma espada saindo da
+Daniel Santos: tá ligado?
+Roger Tobace: bainha.
+Daniel Santos: É isso aí que perde
+Roger Tobace: Deixa eu ver o MQL ali.
+Daniel Santos: tempo.
+Roger Tobace: c******, não tem, né? Mele é eh nome e e-mail. Vai, desce aí, desce aí, desce
+Daniel Santos: MQL foi pro
+Roger Tobace: aí.
+Daniel Santos: c******.
+Roger Tobace: Eu só eu sinto falta aí de falar a as paradas relacionadas à planilha, né? Tipo, porque os caras usa planilha para c******.
+Daniel Santos: Então,
+Roger Tobace: Eu acho que devia ser até o foco da L page ou umas focos de planilha, tá ligado? Não use planilha,
+
+
+
+
+00:16:48
+
+
+Daniel Santos: ahamigão
+Roger Tobace: saia disso aqui.
+Daniel Santos: tá entrando aí.
+Roger Tobace: Sair um pouco da comunicação genérica também, falar o que que resolve, o que que faz.
+Daniel Santos: Beleza. É, faz sentido. Ah, não tem criativo, então dá para mandar refazer.
+Roger Tobace: Coisa provou
+Daniel Santos: Mandei agora no grupo. A Tá dizendo que não tem homem. Realmente não
+Roger Tobace: Cadê o Igor?
+Daniel Santos: falou que tava entrando, né? Vamos ver aí.
+Roger Tobace: Aí o traping por que que trap, velho.
+Igor Auler: E aí,
+Daniel Santos: Fala galão.
+Roger Tobace: Ô Igor,
+Daniel Santos: Tranquilo,
+Igor Auler: beleza?
+Daniel Santos: meu
+Roger Tobace: por que que tá teu nome no WhatsApp? Tá
+Daniel Santos: querido?
+Roger Tobace: trepinha.
+Igor Auler: Hã? Ah, porque é meu apelido, cara. Era apelido do meu pai que jogava a bola.
+Daniel Santos: Pode crer. E aí, tudo certo na viagem?
+Igor Auler: Tu certo não, né, cara?
+Daniel Santos: É que eu vi que cancelou o voo,
+Igor Auler: Tu não viu não, cara?
+Daniel Santos: né? Vi agora.
+Igor Auler: Não,
+
+
+
+
+00:20:13
+
+
+Daniel Santos: Vi agora.
+Igor Auler: mas vocês não viram não que teve acidente no Santos do Mon.
+Daniel Santos: Não vi, cara. Não vi
+Igor Auler: Teve acidente no Santos do Mom ontem e cancelaram 60 voos ontem
+Daniel Santos: nada.
+Igor Auler: de São Paulo.
+Daniel Santos: Nossa,
+Igor Auler: Só de São Paulo foi um jatinho.
+Daniel Santos: mas dentro de avião pousando, cara.
+Igor Auler: Sei o que aconteceu
+Daniel Santos: Não vi.
+Igor Auler: não.
+Daniel Santos: Olha isso. Não,
+Igor Auler: Eh,
+Daniel Santos: só Santos do M impactou até outros aeroportos. Cara, que doideira. Chega a reembolsarão nessas situações assim que eu vejo vários vídeos no Instagram de não sei o que que os caras cancelar seu
+Igor Auler: não me não me E pagaram o
+Daniel Santos: voo.
+Igor Auler: hotel, os táxis e reagendaram meu vô para hoje de manhã.
+Daniel Santos: Ah.
+Igor Auler: p****,
+Daniel Santos: Não é o que você quer,
+Igor Auler: 3 horas no aeroporto,
+Daniel Santos: né?
+Igor Auler: mala para um lado,
+Daniel Santos: É,
+Igor Auler: pro outro, vai, volta.
+Daniel Santos: tá f***, mano.
+Igor Auler: Perdi um monte de reunião hoje de
+Daniel Santos: f***. Bom,
+Igor Auler: manhã.
+Daniel Santos: vamos lá bater um papinho, dar uma organizada.
+
+
+
+
+00:21:13
+
+
+Daniel Santos: Eh, bom, meu querido, estamos no pace, tá? Deixa eu botar para gravar aqui. Estamos no pace, estamos aí no dia 28 com 242.000 1000 de faturamento. Tá, tá separado do do about TI, né?
+Igor Auler: Cara, tava viajando uns dois, três dias. Vou dar uma olhada aqui.
+Daniel Santos: Tá, pode ser que tenha misturado, você acha?
+Igor Auler: Pode ter, pode ter misturado alguma coisa,
+Daniel Santos: Beleza,
+Igor Auler: mas eu dei uma olhada esses dias pelo celular.
+Daniel Santos: beleza.
+Igor Auler: Uhum. Vai, vai, vai seguindo aí enquanto eu vejo, cara. Vou ter que bater 100 aqui. Deslogou
+Daniel Santos: Beleza, tranquilo. O que eu queria falar, Igão, é que, bom,
+Igor Auler: tudo.
+Daniel Santos: da minha parte em relação aos criativos ficam, o designer tá trabalhando neles já desde, acho que, se eu não me engano, terça-feira ele já pegou para fazer tanto os que vai entrar agora no dia do cliente, quanto os do K Café.
+Igor Auler: Não pegou para fazer dia 28. O bagulho é para entrar dia na
+Daniel Santos: Não, não, ele já tava fazendo já desde o começo da semana.
+
+
+
+
+00:22:20
+
+
+Igor Auler: segunda.
+Daniel Santos: Passei para ele na semana passada que a gente alinou na reunião,
+Igor Auler: Ah, mas tipo, hoje é sexta,
+Daniel Santos: ele já começou a fazer da sexta-feira.
+Igor Auler: né? tinha que enviar no máximo hoje para aprovar ou não,
+Daniel Santos: Isso, isso,
+Igor Auler: porque o negócio vai subir no na terça,
+Daniel Santos: isso, isso, isso. Se eu não me engano, hoje fica pronto já. É,
+Igor Auler: tá?
+Daniel Santos: era essa conclusão porque ele já veio até me perguntar se tinha alguma alteração de cópia, de briefing, estava aprovado tudo. Eu falei:"Cara, não, só finaliza para mim". Se eu não me engano, já tem dois prontos. Eu pedi para ele me mandar o link,
+Igor Auler: Угу.
+Daniel Santos: tá? Se eu não me engano, dois criativos prontos já tem. Eu pedi quatro, quatro vídeos aí pra gente testar pra semana do cliente. E aí pra semana que vem, eh, entrou os do K Café, tá? que nem eu te falei, ele até perguntou, chegou para mim, falou:"Cara, você mandou umas tarefas para mim durante a semana também de de outros produtos, é para dar preferência, não é?" Falei:
+
+
+
+
+00:23:04
+
+
+Daniel Santos: "Não, pelo amor de Deus, me entrega os criativos aí do do mês que vem que eu preciso disso.
+Igor Auler: Ah,
+Daniel Santos: precisava para ontem já até na verdade.
+Igor Auler: é, mas assim, voltamos pro mesmo pace, cara. Acabou o mês e vai ficar quatro criativos pro mês que vem. Aí vai começar a fazer, aí daqui a pouco tem 12. Isso porque já tem um monte atrasado pendente. Então assim, cara, voltamos a gente, o grande problema que cara sempre foi criativo, cara, sempre foi as outras áreas. Então assim, o gestor de tráfego pago, o gestor da conta sempre entregaram o que tinha que entregar. E mas assim, eu peguei a V4 exatamente por ter o negócio de ponto a ponto e nunca funcionou, cara. Nunca, nunca.
+Daniel Santos: Так. Eu vou
+Igor Auler: Aí quando acho que vai funcionar, volta ao normal. Então assim,
+Daniel Santos: passar.
+Igor Auler: voltamos ao normal, passou o mês inteiro, não teve nenhum criativo entregue no mês. Nenhum, nenhum. Os criativo teve dois, dois, o do cara lá e o da cantora. Ponto. Os outros só tirou o o banner da Copa e botou um outro letter.
+
+
+
+
+00:23:57
+
+
+Igor Auler: Não foi feito um criativo.
+Daniel Santos: Sim,
+Igor Auler: Passou um mês inteiro,
+Daniel Santos: sim.
+Igor Auler: teve dois criativos
+Daniel Santos: Eu eu preciso eu preciso alinhar isso também com com o meu coordenador, Igão,
+Igor Auler: entregues.
+Daniel Santos: por causa da da questão de fila de produção. Eh, só pra gente não enquadrar esses criativos que são de pouca alteração, como criativos contados, sabe? Eh, é, não é que é que o processo não é meu, Igão,
+Igor Auler: Ah, cara,
+Daniel Santos: você sabe como é que é,
+Igor Auler: não, não teve criativo nenhum. O criativo tava pronto,
+Daniel Santos: entendeu? Mas aí eu já eu já cobrei a equipe aqui,
+Igor Auler: cara.
+Daniel Santos: é bem provável que fique pronto hoje. Tem a segunda-feira que é o dia 31, tá? Mas eu vou garantir que fique pronto pelo menos para esse final de semana aqui para já te enviar, pra gente aprovar segunda-feira e já botar para rodar. Tem tracionamento das campanhas, tudo. Aí pega o dia 31 e no dia primeiro já no mês do cliente a gente já tá no pace, tá? Eh, tenho hoje ainda para correr atrás disso.
+
+
+
+
+00:24:46
+
+
+Daniel Santos: Eu tô tô apertando o pessoal aqui. Eh, a ideia é que fique tudo pronto hoje, beleza? Só para também deixar sinalizado, não deixar pendente nada. Preciso passar um feedback de como é que tá a produção. Mas já passei isso já faz um tempo,
+Igor Auler: Tá, mas não vai ficar tudo pronto hoje.
+Daniel Santos: tá?
+Igor Auler: São quantos criativos que a gente tinha combinado pro pro do consumidor?
+Daniel Santos: Quatro criativos.
+Igor Auler: Quatro. Quatro. Então não vai.
+Daniel Santos: Quatro.
+Igor Auler: Você falou que vai ficar ponto dois, não é
+Daniel Santos: É, eu eu pelo que ele me falou, tem dois pronto,
+Igor Auler: isso?
+Daniel Santos: tá? Mas aí ele não me respondeu, sumiu, não sei o que tá acontecendo. Eh, já liguei para ele também, não me atendeu, mas em breve ele aparece aí. Ele não é de dar assumiu não. O designer novo lá, não é para ele ter problema não.
+Igor Auler: É porque assim, há um mês atrás vocês falaram que tinham botado o pica da galáxias,
+Daniel Santos: Mas tinha tinha não é o cara,
+Igor Auler: que era o sei lá, o japonês e o maluco já sumiu.
+Daniel Santos: é o cara.
+
+
+
+
+00:25:28
+
+
+Igor Auler: Não,
+Daniel Santos: É.
+Igor Auler: o que vocês botaram vocês já trocaram.
+Daniel Santos: Ah, tá. Não é. Eh, no caso, já te passando esse feedback aí, Gão. Esse cara foi desligado,
+Igor Auler: É,
+Daniel Santos: mano. É só para te sinalizar também.
+Igor Auler: então
+Daniel Santos: Eh, nem querendo entrar nessa questão de problema frequente, mas tá estruturando o processo de designer. Não, não vou nem sinalizar que é só com você que tem um problema. Acumula a demanda, né, Igão? Orando para pensar, a gente tá com acho que 60 clientes na unidade.
+Igor Auler: a gente tem dois problemas, tá? Tá, mas aí assim, cara,
+Daniel Santos: Não,
+Igor Auler: desculpa,
+Daniel Santos: não que tem a ver.
+Igor Auler: é problema da unidade,
+Daniel Santos: Exatamente.
+Igor Auler: cara.
+Daniel Santos: Exatamente.
+Igor Auler: a unidade que contrate a quantidade de pessoas necessárias para tocar o negócio.
+Daniel Santos: Exato.
+Igor Auler: Mas assim, tem dois tipos de problema. Um problema é que assim, 60% dos design já me atendeu uns 10 design diferentes.
+Daniel Santos: Exato.
+Igor Auler: 60 a 70% é uma porcaria, cara, para não falar outra coisa.
+
+
+
+
+00:26:14
+
+
+Igor Auler: Porque assim, eh, entregam coisas que assim, eh, qualquer um aqui, acho que minha sogra consegue fazer, cara, botar no,
+Daniel Santos: M.
+Igor Auler: no Capcut e no Canva e botar um uma letra em amarelo, entendeu? No vídeo pronto e que cortou um pedaço do vídeo. Pra, isso não é um criativo. Não tem hul, não tem não tem e entendimento de venda, não tem nada. O cara pega um vídeo pronto, tira um pedaço e já era. Ah, aí os outros que entregavam bem, tiveram os dois, três que eram realmente bons. Inclusive, eu tinha gostado desse algo que tinha sido demitido, mas aí tem problema de que não entrega a tempo.
+Daniel Santos: Eh, eu vou Ô, vou passar o feedback, vou até sentar aqui meu coordenador e passar o feedback da gravação para ele desse começo, igão, e te trazer uma tratativa,
+Igor Auler: Ah, cara, e outra coisa,
+Daniel Santos: nem que seja um designer dedicado,
+Roger Tobace: Você
+Igor Auler: eu tenho pedido, eh,
+Daniel Santos: alguma coisa assim.
+Igor Auler: eu tenho pedido há um tempo já as transcrições da gravação. Não tá enviando.
+Daniel Santos: Vou vou puxar todas aqui agora e já te mando no grupo.
+
+
+
+
+00:27:15
+
+
+Daniel Santos: Pera aí,
+Igor Auler: Você quando transcreve,
+Daniel Santos: me dá 2 minutos.
+Igor Auler: joga numa pasta.
+Daniel Santos: Não, não sou eu que faço não. Igual é o próprio Google Meet.
+Roger Tobace: não você não usa o Google Agenda,
+Daniel Santos: Eu boto para gravar.
+Roger Tobace: Igor?
+Igor Auler: Oi.
+Roger Tobace: Você não usa o Google Agenda?
+Igor Auler: H, eu não eu não recebo invite das das chamadas.
+Daniel Santos: Pera aí, eu vou te colocar no invit,
+Igor Auler: Vocês me mandam um link no
+Daniel Santos: pode ser. Pera aí, tem mais assim.
+Igor Auler: WhatsApp.
+Daniel Santos: Eu te coloco no invite e aí Gão,
+Roger Tobace: Mas
+Daniel Santos: você consegue ter acesso a todas as reuniões que a gente teve.
+Igor Auler: Beleza?
+Daniel Santos: Fala para mim o e-mail aí.
+Igor Auler: É contato@baltbear.com.br. BR.
+Roger Tobace: na tua rotina assim você usa o ou o ajud
+Igor Auler: É porque eu eu uso Outlook, eu tenho outro trabalho, né? E eu no outro eu uso Outlook, então eu boto tudo ali,
+Daniel Santos: Aí, ó,
+Igor Auler: mas não dá para me enviar invite para lá porque é conta de outra
+Daniel Santos: pode abrir aí. Não, fica tranquilo, mas pode abrir a agenda nesse que eu te falei.
+
+
+
+
+00:28:02
+
+
+Igor Auler: empresa.
+Daniel Santos: Vai aparecer todos os chequins que a gente tem com gravação, transcrição. Ele fica linkado no chequin. É só clicar e aparece.
+Roger Tobace: returativo.
+Igor Auler: É isso que eu ia falar.
+Daniel Santos: O centroativo. Coloquei ele em todos.
+Igor Auler: Não deve aparecer não.
+Daniel Santos: Coloquei ele em todos.
+Igor Auler: Logou, cara. Tentando logar. Eu clique v.
+Daniel Santos: Eh, clica no convite.
+Igor Auler: Tô no convite sim.
+Daniel Santos: Você clicou nesse de hoje, aparece ali embaixo um anexo.
+Igor Auler: Esse de hoje dá sim todos.
+Daniel Santos: Chequin é da reunião passada já.
+Igor Auler: Chequinho semanal.
+Daniel Santos: Deixa eu ver.
+Igor Auler: Aham.
+Daniel Santos: Eu não sei se vai ser da reunião passada ou se vai ser dessa.
+Igor Auler: É, então apareceu
+Daniel Santos: Ah, não, isso segundos.
+Igor Auler: um Ah,
+Daniel Santos: É porque quando eu entro na reunião, Igão, ele já começa a gravar. Aí eu pauso,
+Igor Auler: tá.
+Daniel Santos: espero entrar e aí eu dou o start.
+Igor Auler: Isso
+Daniel Santos: Isso aí se você voltar na semana passada,
+Igor Auler: é.
+Daniel Santos: vai ter a reunião da semana passada lá na quarta-feira.
+
+
+
+
+00:29:09
+
+
+Daniel Santos: Aí lá tem o chequein, a anotações do Gemini,
+Igor Auler: Ah, tô vendo, tô vendo.
+Daniel Santos: entendeu?
+Igor Auler: Beleza, beleza,
+Daniel Santos: Aí aí se você for voltando,
+Igor Auler: beleza, beleza. Não, beleza, beleza,
+Daniel Santos: toda reunião tu consegue pegar já.
+Igor Auler: beleza, beleza. Foi, foi, foi, foi.
+Daniel Santos: É. Beleza.
+Igor Auler: Beleza.
+Daniel Santos: Mas deu certo, né?
+Igor Auler: Sim, sim,
+Daniel Santos: Perfeito. Beleza.
+Igor Auler: sim.
+Daniel Santos: Daí, Gão, eh, outro ponto que eu queria ver com você também para já me preparar, porque eu já vou antecipar produção, cara. Já vou subir o criativo agora. Eu já subi esse que tem pendentes. Eu vou abrir só aqui o bloco de notas que eu salvei. Eu quero ver com você uma coisa. Igual, como a gente não alinhou a questão de, a gente até falou que ia manter o ia aumentar R$ 25, né, na comunicação do cliente, seu cupom de 75.
+Igor Auler: Isso.
+Daniel Santos: Ah, beleza.
+Igor Auler: Eu preciso saber qual é o nome do cupom,
+Daniel Santos: Então, é,
+Igor Auler: essas coisas.
+
+
+
+
+00:29:51
+
+
+Daniel Santos: a gente tinha alinhado lá que ia ficar meu cliente. Deixa eu só só confirmar aqui.
+Igor Auler: Beijo. mês cliente, eu acho, ou mês do cliente,
+Daniel Santos: É meioente isso.
+Igor Auler: alguma coisa assim, cara. Só ver certo,
+Daniel Santos: Vou não,
+Igor Auler: porque vai est na propaganda que o cara tá fazendo.
+Daniel Santos: não vou olhar aqui. Vou olhar aqui certinho. Pode ficar tranquilo.
+Igor Auler: Eh, aí eu vou criar o banner, você me ajuda no desktop que ele sempre que tu fez para diminuir,
+Daniel Santos: Ajuda,
+Igor Auler: como é que tu fez? Se quiser me explicar,
+Daniel Santos: cara.
+Igor Auler: eu faço.
+Daniel Santos: Eu falar a verdade, ajustei no GPTeco.
+Igor Auler: Então, eu não consigo o teu GPT plus. Ah,
+Daniel Santos: É.
+Igor Auler: então pode ser isso. Eu mando, eu dou, ele não me manda, ele só me manda grande, grande, grande. Não consigo de jeito nenhum. Eu não pago, eu pago o Cláudio e o Jaminai. Não tenho GPT. Sim, a senhora queria saber onde estava. Beleza. Dá um refres aí que eu acho que até bateu uma venda aí, mas eu acho que tá certo.
+
+
+
+
+00:30:53
+
+
+Igor Auler: Tá, tá olhando
+Daniel Santos: Legal.
+Igor Auler: aqui.
+Daniel Santos: Beleza.
+Igor Auler: Cara, que engraçado. Foram três dias com quase o mesmo faturamento. Exatamente. 10582,
+Daniel Santos: Você viu 10.582.
+Igor Auler: 10 578, 10574.
+Daniel Santos: Quando eu vi esse eu falei:"Caraca, tipo, a primeira vez que eu vi o gráfico ficar tão estável assim de faturamento com diferença de de R$
+Igor Auler: Ага.
+Daniel Santos: 10. É aí, a estratégia que eu criei aqui, ó, só para te sinalizar, o direcionamento até que eu passei pro pro designerão para melhorar essa produção, cara, eu separei por segundo, tá? Então o designer só tem que entrar no vídeo, mano, e pegar os melhores cortes e acertar o lettering e colocar hook. Então eu já tô deixando tudo explícito como que ele tem que fazer. E aí, no caso, eu já separei aqui 20 vídeo, entendeu?
+Igor Auler: Uhum.
+Daniel Santos: E aí a gente pode utilizando esse documento como base, sabe,
+Igor Auler: de vídeo.
+Daniel Santos: para direcionamento dos vídeos.
+Igor Auler: Não entendi.
+Daniel Santos: Tipo, ó, cada cada tag dessa é um vídeo que a gente tem no drive,
+
+
+
+
+00:32:04
+
+
+Igor Auler: Uhum.
+Daniel Santos: entendeu?
+Igor Auler: Tá beleza.
+Daniel Santos: E aí eu pedi pro pra inteligência artificial analisar o vídeo e e descrever por segundos o que que acontece
+Igor Auler: Uhum.
+Daniel Santos: no vídeo.
+Igor Auler: Uhum.
+Daniel Santos: Então aí agora o designer vai conseguir pegar literalmente as melhores partes até as partes que eu quero que apareça, porque tem hul até os pontos que você falou para ver se a gente
+Igor Auler: É, tá até vendo ali, ó. Tá vendo? Então a ideia,
+Daniel Santos: consegue.
+Igor Auler: isso aí que ele achou que é muito alto, é botar no início do vídeo, mesmo que faça um corte e ele apareça de novo no final, entendeu?
+Daniel Santos: Aham.
+Igor Auler: Para dar para dar interesse no cara em querer ver o vídeo todo.
+Daniel Santos: Sim. Aí e essa é a ideia.
+Igor Auler: Ficou legal
+Daniel Santos: Eu pedi para ele separar todos os vídeos que a gente tem,
+Igor Auler: aí.
+Daniel Santos: até os principais, peguei o do da pasta de aleatório e fui pedindo para ele separando para mim uma sequência de conteúdos e separei os
+Igor Auler: Aham.
+Daniel Santos: respectivos drives aqui embaixo. Então, cara, pô, ele só tem que entrar,
+Igor Auler: Legal.
+Daniel Santos: cara, pegar o melhor corte e organizar baseado no briefing que eu passei para ele também.
+
+
+
+
+00:32:51
+
+
+Igor Auler: Uhum.
+Daniel Santos: Aí eu dei todo um direcionamento para ele na tarefa. Ficou, ficou legal.
+Igor Auler: Legal.
+Daniel Santos: Aí, só deixa eu pegar o cupom. O cupom Igão, ficou mês cliente.
+Igor Auler: Hum. Cliente tá criar aqui agora.
+Daniel Santos: Você vai colocar com com mês com com assente, Gão,
+Igor Auler: Não, não, não.
+Daniel Santos: tá? Não, só para eu pro para deixar evidente na tarefa aqui. Tô colocando de
+Igor Auler: بда
+Daniel Santos: novo. Já tá na mão do desider. Legal. Deve tá trampando em cima aí. Beleza, fica tranquilo.
+Igor Auler: Bora lá. Foi mal. Tem que escutar isso
+Daniel Santos: Nada, fica tranquilo. Vamos alinhar,
+Igor Auler: aqui.
+Daniel Santos: como que a gente vai fazer para rodar depois do dia 20 de setembro, tá?
+Igor Auler: Hum.
+Daniel Santos: Porque em tese vai entrar os vídeos genéricos. Aí que que eu tinha pensado? Eh, primeiro definir a oferta com você,
+Igor Auler: Isso.
+Daniel Santos: como é que a gente vai trabalhar, porque a gente sai do mês do cliente ali com R$ 75 e os brinds que a gente alinhou, né?
+
+
+
+
+00:35:27
+
+
+Daniel Santos: A caneca e o TEP handle. Eh, eu acredito que eventualmente a caneca e o TEP rendo dá para manter. A caneca não, a taça, perdão. Eh, em questão de valor de desconto, vai descer para 50, vai manter 75, vai
+Igor Auler: Não, cara, vamos,
+Daniel Santos: subir,
+Igor Auler: a gente sempre volta pra oferta normal para não ter que ficar criando criativo para isso, entendeu?
+Daniel Santos: tá? Aqui é o de R$
+Igor Auler: A gente volta pro que tá isso. Eu nem vou tirar esse cupom,
+Daniel Santos: 50.
+Igor Auler: vou deixar esse cupom válido aí. Vou até ver até quando ele tá aqui. Deixa eu ver. Qual é esse aí? É o shop, né?
+Daniel Santos: É cupom shop,
+Igor Auler: É período tá indeterminado.
+Daniel Santos: R$ 50.
+Igor Auler: Ele vai ficar ativo aqui.
+Daniel Santos: Ah, beleza. Já vou até usar ele na outra comunicação.
+Igor Auler: Não,
+Daniel Santos: E aí,
+Igor Auler: não precisa.
+Daniel Santos: Gan?
+Igor Auler: É só voltar tudo que já tá pronto. Não precisa fazer nova comunicação. Não vamos gastar dinheiro com isso.
+Daniel Santos: É isso que eu pensei.
+
+
+
+
+00:36:15
+
+
+Igor Auler: A ideia do genérico é todo gap que não tem alguma coisa, a gente volta com ele,
+Daniel Santos: Beleza. Beleza.
+Igor Auler: tá?
+Daniel Santos: Aí a gente, eu acredito que dá pra gente fazer alguns testes ou outro porque vai reutilizar o criativo e entra no escopo alguma comunicação nova. Eu tava pensando até em algum memigão, tipo aquele que o cara chuta o cooler,
+Igor Auler: Uhum.
+Daniel Santos: sabe? Tentar trazer uma perspectiva mais animada. Eh,
+Igor Auler: Cara, é porque assim,
+Daniel Santos: mas aí teria que ser banco de dados.
+Igor Auler: eu vi um vídeo bem maneiro, cara. Vou até ver se eu mando para vocês que, pô, eh, dá para fazer um meme com isso, cara.
+Daniel Santos: Legal.
+Igor Auler: Não sei se dá para usar esse vídeo porque tem a cara da de outras pessoas ali, né? Mas eu vou te mandar aí, vou mandar lá no grupo.
+Daniel Santos: Beleza, já até abre ele
+Igor Auler: Abre aí para tu ver.
+Daniel Santos: aqui.
+Igor Auler: Mandei. Abre aí pra gente
+Daniel Santos: Beleza.
+Igor Auler: ver.
+Daniel Santos: Carregando aqui. Aí,
+Daniel Santos's Presentation: Obrigado.
+Daniel Santos: ó.
+Igor Auler: Olha
+Daniel Santos's Presentation: Mas você pode colocar um pouquinho mais de teu shop.
+
+
+
+
+00:37:17
+
+
+Daniel Santos's Presentation: Obrigado. Mas você pode colocar um pouquinho mais de colarinho? É
+Igor Auler: isso.
+Daniel Santos's Presentation: claro.
+Igor Auler: Dá para fazer um negócio desse, tipo na praia, o na praia e o outro cara mostra enchendo,
+Daniel Santos's Presentation: Teu chope.
+Daniel Santos: Legal,
+Daniel Santos's Presentation: Obrigado.
+Igor Auler: entendeu?
+Daniel Santos's Presentation: Mas você pode colocar um pouquinho mais de colarinho?
+Daniel Santos: legal.
+Daniel Santos's Presentation: É claro.
+Daniel Santos: Aigão, para esses testes novos de vídeos novos, como você acha que dá pra gente fazer? Precisaria de um roteiro,
+Igor Auler: Hum.
+Daniel Santos: não sei, uma gravação. Precisa achar
+Igor Auler: Cara, não dá para depender de gravação.
+Daniel Santos: alguém.
+Igor Auler: Você pode fazer um roteiro, vai ficar em standby e assim que a gente conseguir a gente grava. Olha o tempo que tá demorando para gravar o do notebook lá.
+Daniel Santos: Beleza.
+Igor Auler: Tô enchendo o saco, mas assim,
+Daniel Santos: Sim.
+Igor Auler: a gente não tem braço para isso,
+Daniel Santos: O da prova social,
+Igor Auler: então acaba ficando como prioridade baixa.
+Daniel Santos: né?
+Igor Auler: Mas você pode deixar aí esses insites aí assim e se em algum momento a gente achar que vale a pena pagar alguém, a gente gravar vários vídeos de novo, que nem aquele cara lá que a gente
+
+
+
+
+00:38:13
+
+
+Daniel Santos: Tá beleza, beleza,
+Igor Auler: fez.
+Daniel Santos: porque a ideia, eu acredito que vai ser legal, irmão. Não, não para agora, né, mas pelo menos para Black Friday ou até pro final do ano, que é a época que a gente mais estora de vender, uma alteração de criativos novos, humanizados, entendeu? Mas aí eu vou bolar um planejamento tudo certinho,
+Igor Auler: Uhum.
+Daniel Santos: a gente traga uma visão do que eu pensei. Aí seria mais pro próximo mês ainda, para outubro.
+Igor Auler: Tá. Só um segundo, só um
+Daniel Santos: Fica tranquilo.
+Igor Auler: segundo. A tá marcada para onde? Ela vai lá.
+Roger Tobace: Oh.
+Daniel Santos: Vou dar uma revisadinha com ele nas campanhas e acho que é isso por hoje, mano. Beleza. Almoçar, né, pai? Aqui eu não comi
+Roger Tobace: Verdad, hein?
+Daniel Santos: ainda.
+Igor Auler: A você não voltei. Eu tinha uma
+Daniel Santos: Perfeito, meu querido. Vamos lá. Eh, no mais era isso, tá? Só queria definir com você a oferta e ver basicamente o que eu tenho que produzir pro pro mês que vem. Basicamente nada, só voltar para rodar os genéricos que a gente
+
+
+
+
+00:39:46
+
+
+Igor Auler: Não, não, não, não, não, não, não, não. Calma aí, calma aí,
+Daniel Santos: tá.
+Igor Auler: calma aí, calma aí. Que que a gente, você lembra aquela? Não. Vamos lá.
+Daniel Santos: Pera,
+Igor Auler: Eh, tá.
+Daniel Santos: vamos isso
+Igor Auler: mês que vem vai rodar o dia do consumidor até o final e aí roda depois os genéricos de
+Daniel Santos: é dia 20, né?
+Igor Auler: novo. Isso até dia 20 depois roda o genéricos de novo. Só que no mês que vem a gente precisa produzir o da Octoberfest é para outubro.
+Daniel Santos: Isso, isso, isso. É, não,
+Igor Auler: Então não dá para produzir em outubro,
+Daniel Santos: não é,
+Igor Auler: tem que ser no mês que vem,
+Daniel Santos: não é o que eu falo mesmo era a demanda de setembro que eu teria que produzir para agora,
+Igor Auler: né?
+Daniel Santos: entendeu?
+Igor Auler: Então mas é uma demanda de setembro,
+Daniel Santos: É só fazer a troca do Pode deixar,
+Igor Auler: não dá para deixar pro final que senão acontece que nem tá acontecendo todas as vezes, entendeu?
+Daniel Santos: pode deixar. Eu já vou pedir agora no começo.
+Igor Auler: Tem que tá pronto antes, não é?
+
+
+
+
+00:40:21
+
+
+Daniel Santos: Vou aproveitar que os genéricos a gente vai trocar,
+Igor Auler: Mas tá, mas a primeiro prioriza os produtos lá,
+Daniel Santos: tá? É, esses daí já estão na fila, eventualmente já vão ser feitos.
+Igor Auler: tá bom?
+Daniel Santos: Eu vou eu vou produzir os doctober Fash e vai entrar na na sequência de produção.
+Igor Auler: Tá.
+Daniel Santos: Aí já vamos alinhar também, Igor. O que que você tá pensando prober na balt? Se você pensou em alguma coisa,
+Igor Auler: Pode trazer aí sugestões aí.
+Daniel Santos: tá?
+Igor Auler: Não pense em nada.
+Daniel Santos: Beleza, perfeito. Então vamos fazer assim,
+Igor Auler: Acho que a caneca é maneira,
+Daniel Santos: no próximo chatinho.
+Igor Auler: né? Porque caneca, Octoberf,
+Daniel Santos: É,
+Igor Auler: ganha caneca e tal,
+Daniel Santos: eu acredito que vai entrar.
+Igor Auler: né?
+Daniel Santos: quer fazer algum type randle exclusivo para pro October
+Igor Auler: Não dá, cara.
+Daniel Santos: Fash?
+Igor Auler: Até tudo que é tem que fazer exclusivo, tem que pagar um cara, o cara é um design 3D, entendeu? É,
+Daniel Santos: Entendi.
+Igor Auler: não é fácil fazer e aí o cara demora, não vai dar tempo não.
+Daniel Santos: Você até comentou comigo se desse para achar alguém que fizesse
+
+
+
+
+00:41:13
+
+
+Igor Auler: Isso. E aí assim, a gente já fez o step renda que a gente fez,
+Daniel Santos: o
+Igor Auler: por exemplo, deram um problema para caramba, porque assim, tem que testar, aí ele quebra,
+Daniel Santos: Hum.
+Igor Auler: aí tem algum problema na hora de botar porca. Então assim, aí eu faço um negócio, mando 20, tá tudo quebrado, depois eu tenho que mandar tudo novo. Então cara, isso tem que ser produzido com bastante antecedência e
+Daniel Santos: Tá n fica tranquilo, fica tranquilo.
+Igor Auler: testado.
+Daniel Santos: Então, proctober fest a gente mantém a caneca. Quer botar a taça junto já ou só caneca?
+Igor Auler: Que taça. Ah, não, só caneca.
+Daniel Santos: Só caneca.
+Igor Auler: Só caneca.
+Daniel Santos: Beleza.
+Igor Auler: Pode botar o tap handle e os 10 CO2.
+Daniel Santos: Beleza. Tep handle.
+Igor Auler: Os 10 CO2. Você pode botar R$ 75 também.
+Daniel Santos: Beleza. E aí eu vou trazer uma estratégia pra gente
+Igor Auler: Isso aí, outubro aí depois novembro,
+Daniel Santos: mais
+Igor Auler: né? Em novembro a gente vem na Black Friday com talvez 100 150 e mais
+
+
+
+
+00:42:03
+
+
+Daniel Santos: black. Isso é daí aqui,
+Igor Auler: brind,
+Daniel Santos: Rigão, eu anotei e e acabou ficando um gap de 15 dias. Eh,
+Igor Auler: tá?
+Daniel Santos: porque a gente vai fest o mês todo. A Black geralmente ela começa a partir do dia 15 ali, ela fecha no dia 30. Antes do dia 15, vamos rodar genérico padrão ou quer fazer o
+Igor Auler: Ah, sim, sim. Vamos rodar genérico padrão. Não,
+Daniel Santos: mês?
+Igor Auler: mês não. Não faz sentido, cara. Aí não vende, cara. Tem que ser um curto espaço de período pro cara ficar esperando e querer
+Daniel Santos: Beleza, beleza. Eh,
+Igor Auler: comprar.
+Daniel Santos: eu posso ver com o Roger também e pra gente preparar um criativinho bônus assim que seja um estático mesmo, ão, só pra gente impulsionar no nas campanhas de engajamento para avisar que vai ter Black Friday a partir do dia 16, entendeu? E aí já fica na sede, já já fica na boca do povo.
+Igor Auler: Beleza.
+Daniel Santos: Legal. Então caneca até perenda, mas 10 CO2, R$ 75 de desconto e criativo para engajamento.
+
+
+
+
+00:42:54
+
+
+Igor Auler: Beleza.
+Daniel Santos: Legal. Aí novembro dia 01 até o dia 15 eéricos. Tá, entra black aí, Gão. Depois que eu preparar essa estratégia doctober Fest, a gente já pensa como é que vai fazer na Black Friday. Beleza? Acho que tá mutado, mestre.
+Igor Auler: Tá bom, beleza. Eh, então vamos lá.
+Daniel Santos: Oito criativos, né, Igão? October Fest.
+Igor Auler: Não, muita coisa, cara. Não é, ô Roger? Muita coisa para rodar, não é?
+Roger Tobace: Muito, muito três.
+Igor Auler: É quatro.
+Daniel Santos: Tá,
+Igor Auler: Três.
+Daniel Santos: vou colocar quatro.
+Igor Auler: Quatro.
+Roger Tobace: Assim,
+Igor Auler: Pode botar quatro.
+Roger Tobace: é muito melhor fazer dois bem feito do que oito
+Daniel Santos: Colocar quatro.
+Igor Auler: Isso. É.
+Roger Tobace: igual.
+Igor Auler: É. Não,
+Daniel Santos: Beleza.
+Igor Auler: pode botar três ou quatro aí.
+Daniel Santos: Beleza.
+Igor Auler: Eh,
+Daniel Santos: Tá.
+Igor Auler: e tá aí tem desse mês ainda que vai depois vai vir dois de cada produto,
+Daniel Santos: É dois de cada
+Igor Auler: né?
+
+
+
+
+00:44:10
+
+
+Igor Auler: Tá bom?
+Daniel Santos: produto.
+Igor Auler: E aí, o que que eu acho que pode fazer, né? né? Aí vão ter quatro lá do do de setembro sobrando. Faz um mix entre os influencers e os
+Daniel Santos: Tá,
+Igor Auler: review,
+Daniel Santos: tá,
+Igor Auler: entendeu? Fica aparecendo eles,
+Daniel Santos: tá.
+Igor Auler: pode aparecer a fala de um, aí o outro fala. Vai tentando fazer um corte de montagem assim onde todo mundo fale e até deixar a fala em algum momento que fica
+Daniel Santos: É,
+Igor Auler: aparecendo cortes de de review. A gente até tem de review, não sei se você já viu aí.
+Daniel Santos: vi na pasta,
+Igor Auler: A gente tinha feito uns,
+Daniel Santos: vi na pasta de avaliação.
+Igor Auler: é, na pasta tem dois lá.
+Daniel Santos: Aham. Beleza. É,
+Igor Auler: Legal.
+Daniel Santos: eu vou casar essa estratégia de juntar, Igão, eu tô fazendo por conta para não deixar na mão do design, sabe? Eu tô separando os vídeos, tô separando os cortes. A gente já vem falando isso para deixar um dos influencers.
+Igor Auler: Uhum.
+Daniel Santos: Eh, eu quero fazer um legal para que fique de base.
+Igor Auler: Ja.
+
+
+
+
+00:44:57
+
+
+Daniel Santos: para depois o designer só saber onde é que ele vai seguir.
+Igor Auler: Tá, não.
+Daniel Santos: E aí eu vou e aí é o
+Igor Auler: Beleza. Inclusive na IA, como não sei se você conseguiu subir os vídeos na IA ou áudio,
+Daniel Santos: caso
+Igor Auler: eles talvez consiga criar um texto de 30
+Daniel Santos: o vídeo já vou fazer
+Igor Auler: segundos cortando um pouco de cada um falando, né? Tipo, olha isso aqui.
+Daniel Santos: isso.
+Igor Auler: E aí o outro fala:"Bom demais", entendeu? Sei lá, alguma coisa do tipo assim, entendeu?
+Daniel Santos: É.
+Igor Auler: Porque eles falam mais ou menos a mesma coisa,
+Daniel Santos: Aí entra alguém falando que a cerveja é boa.
+Igor Auler: entendeu? Tipo,
+Daniel Santos: Sim.
+Igor Auler: um fala mantém gelado, aí o outro eh com cremosidade, entendeu?
+Daniel Santos: É, aí chega outro e fala saúde no final. Entendi.
+Igor Auler: É, entendeu?
+Daniel Santos: Legal,
+Igor Auler: Dá para fazer uns cortes assim,
+Daniel Santos: legal. Beleza, beleza. Deixa eu anar
+Igor Auler: espero e dá para não fazer voz
+Daniel Santos: isso.
+Igor Auler: com, dá para talvez usar também eles falando enquanto passa cena de de clientes que tem lá mais de 300 vídeos de clientes lá tomando,
+
+
+
+
+00:45:50
+
+
+Daniel Santos: Sim.
+Igor Auler: entendeu?
+Daniel Santos: Tá, não utilizou voz de A. Beleza, vai ser o criativo humanizado. Beleza, perfeito. Daí na quarta-feira eu já trago certinho. Vou trazer os quatro criativos de escrito, comunicação que eu quero usar, que eu acho que faz sentido. Eu vou dar até uma pesquisada, irmão, eh, no ano passado, para ver como é que a galera tem usado para vender a cerveja, se tem alguma, se algum meme viralizou, se tem alguma, algum conteúdo, engajamento, alguma fala, se tem alguma palavra-chave assim para Berfash que viraliza. e vou trazer um criativo diferente também pra gente.
+Igor Auler: Tá? Eh,
+Daniel Santos: Legal.
+Igor Auler: repete o cupom que eu tô pegando aqui agora. Mês cliente.
+Daniel Santos: É mês cliente. Isso até
+Igor Auler: Até que dia mesmo? Do dia um.
+Daniel Santos: do vai rodar do dia 1 até o dia 20 de
+Igor Auler: Não,
+Daniel Santos: setembro.
+Igor Auler: 75, né?
+Daniel Santos: É.
+Igor Auler: Vai ser para R$ 800 também, acima de R$ 800.
+Daniel Santos: É,
+Igor Auler: Ser,
+Daniel Santos: eu eu não não coloquei a especificação,
+
+
+
+
+00:46:58
+
+
+Igor Auler: pode ser,
+Daniel Santos: mas pode
+Igor Auler: pode ser.
+Daniel Santos: ser.
+Igor Auler: É, tem que colocar
+Daniel Santos: Beleza. É questão comprar só o CO2 ali, né, dá o quê? R$ 100, R$ 200, R$ 300 ali e quer 75 de desconto,
+Igor Auler: não tem como.
+Daniel Santos: quebra,
+Igor Auler: É,
+Daniel Santos: quebra as pernas. Legal.
+Igor Auler: é, é o que que tem, não é mês do cliente,
+Daniel Santos: Beleza.
+Igor Auler: é o que que tem hoje que por que que a gente vai fazer isso no no mês de setembro? O que, qual é a data que tem?
+Daniel Santos: É o dia do cliente. Só que como a gente vai rodaramente o mês todo para ficar dia do cliente o cupom,
+Igor Auler: Dá. Aham.
+Daniel Santos: a pessoa pode usar mês cliente. Aí a comunicação fica para todos os
+Igor Auler: Tá bom.
+Daniel Santos: dias.
+Igor Auler: Beleza. Já Opa, ele me susto. Já tá criado já.
+Daniel Santos: Beleza, perfeito. Já vai chegar carinho com isso,
+Igor Auler: Угу.
+Daniel Santos: tá legal? Tá bom. Estategicamente est uma alinhada aqui.
+
+
+
+
+00:47:57
+
+
+Daniel Santos: Aí agora, ão, o Roger vai abrir as campanhas com você pra gente dar aquela paginada.
+Igor Auler: Só três, só três usaram cupom shop,
+Daniel Santos: Só três,
+Igor Auler: né?
+Daniel Santos: cara.
+Igor Auler: O do dia dos pais usaram 26. Para mim era R$ 100,
+Daniel Santos: Nossa.
+Igor Auler: né? Talvez esse de 50 a galera esteja usando o primeira compra que é 50 também,
+Daniel Santos: Ah,
+Igor Auler: entendeu?
+Daniel Santos: pode ser.
+Igor Auler: Ih, será? Eu tô mandando a parada até hoje errada, né? Um desfiz. Esse primeira compra já usaram 37 já, mas não dá para saber quando, eu acho. Deixa eu ver, tem um olhinho aqui. Não, olhinho é só para Ah, não dá sim. Dá para ver todos os pedidos aqui. Ele não que ótimo. Não, aqui no mês 8 só teve um uso no dia 26/08. Um no dia 6/08. primeira compra.
+Daniel Santos: Bom, se a galera quiser comprar sem desconto também, Igão,
+Igor Auler: Não, beleza. Sim.
+
+
+
+
+00:49:16
+
+
+Daniel Santos: não tem problema nenhum.
+Igor Auler: Não, mas aí assim não tem problema nenhum. Mas o que que, por exemplo, olha o do dia dos pais. Então assim, talvez o cupom tenha incentivado aqui,
+Daniel Santos: Eh,
+Igor Auler: não tenha incentivado tanto.
+Daniel Santos: sim.
+Igor Auler: Então eu não lembro como é que ficou ali.
+Daniel Santos: É,
+Igor Auler: Então eu acho que é até pra gente reavaliar o genérico. E aí eu acho que não é reavaliar os vídeos,
+Daniel Santos: tá
+Igor Auler: eu acho que é reavaliar o lettering, né? Então eu não sei como é que tá só falando de 50 ou porque no dia dos pais a gente falava mais de
+Daniel Santos: legal.
+Igor Auler: 300 em desconto e bônus. Isso é muito melhor do que 50 off, né?
+Daniel Santos: Sim.
+Igor Auler: Então eu acho que tem que somar os brindes ali e continuar com mais de 200 entre Eu não sei se tá assim. Acho que vale valear
+Daniel Santos: É justo, é justo.
+Igor Auler: ali,
+Daniel Santos: Legal. Dá até para fazer um teste AB. Vamos ter is no PC.
+Igor Auler: tá? Então vamos lá,
+Daniel Santos: ficando pronto já ter comunicação dois de cada
+
+
+
+
+00:50:10
+
+
+Igor Auler: cara. Então tem que fazer os seis lá, dois de cada produto. Tem que terminar os quatro do dia do consumidor,
+Daniel Santos: produto.
+Igor Auler: vai ter que fazer os quatro pro para pro October Fest e aí vão sobrar quatro do mês que vem lá. Eu falei para você fazer aqueles mesclando os influencers e não precisa todos mesclar os
+Daniel Santos: Os influencers para
+Igor Auler: influencers e os os review. Pode ser dois só com influencer e dois com review influencer.
+Daniel Santos: Tá legal,
+Igor Auler: A gente faz teste AB,
+Daniel Santos: legal.
+Igor Auler: entendeu?
+Daniel Santos: Beleza. Beleza. Fica isso então. Do criativos aí de demanda. Perfeito. Aí o Roger vai abrir contigo as campanhas, ão para dar uma
+Igor Auler: Tá beleza.
+Daniel Santos: paginadinha.
+Roger Tobace: Yeah.
+Igor Auler: Bora lá. Tá. Então me explica aquele post do Instagram ali, então ele tá terminado pelo Instagram, mas ele aparece aqui. É aquele ali em cima, né, Roger?
+Roger Tobace: Pera aí, pera aí, pera aí, pera aí. Então você ligou um turbinamento,
+Igor Auler: Eu não,
+Roger Tobace: né?
+Igor Auler: então eu não liguei, eu reclame, eu falei, cara, tem uma coisa ligada no turbinado
+
+
+
+
+00:51:14
+
+
+Roger Tobace: Ah,
+Igor Auler: aqui,
+Roger Tobace: esse aqui eu achei que você tava falando do TI. No ti a gente tem, mano.
+Igor Auler: então. Mas você tá no ti, é do ti que eu tô falando.
+Roger Tobace: Não, tá. Então, calma aí.
+Igor Auler: Você tá no TI,
+Roger Tobace: Eita.
+Daniel Santos: É,
+Igor Auler: cara.
+Daniel Santos: tá no
+Roger Tobace: que eu tô vendo uma tela aqui.
+Igor Auler: Pode deixar aí no TI. Fala do TI primeiro.
+Roger Tobace: Vamos falar do TI, então não do TI foi foui eu que fiz.
+Igor Auler: Tá bom. Mas tá turbinado direto lá na página,
+Roger Tobace: A gente usa essa essa estratégia é a melhor para ganhar seguidor.
+Igor Auler: né?
+Roger Tobace: A gente já testou, validou, tá? Que ligar uma campanha de tráfego aqui. Então meta quando é para ganhar seguidor funciona melhor turbinar direto pelo
+Igor Auler: Tá, tá bom.
+Roger Tobace: gerenciador.
+Igor Auler: E por que que na B about beir a gente não tá fazendo isso também?
+Roger Tobace: A gente já fez, né? Inclusive, quando eu tava com o Luan lá na mão dele, ele fazia esses turbinamentos ali e a gente verifica que eh porque o turbinamento
+
+
+
+
+00:51:57
+
+
+Igor Auler: Isso,
+Roger Tobace: ele precisa ser com conteúdo que tá lá no seu
+Igor Auler: isso. Mas aí é só a gente postar,
+Roger Tobace: Instagram.
+Igor Auler: é só alinhar.
+Roger Tobace: Sim.
+Igor Auler: Me manda os vídeos que tá turbinado, eu
+Roger Tobace: Aí como a gente tava fazendo com os conteúdos do Lame ali,
+Igor Auler: posto.
+Roger Tobace: então a gente não tinha esse conteúdo lá. E era um conteúdo muito bom também, né?
+Igor Auler: Tá bom. Eu até turbinei um para testar lá na Balt Bear,
+Roger Tobace: Campela com expansão um pouco mais cara.
+Igor Auler: só que eu acho que eu turbinei de um jeito que eu não fui
+Roger Tobace: É, aí você esse que eu tô falando, esse aqui não fui eu que cliquei da
+Igor Auler: eu que turbinei da About,
+Roger Tobace: bal
+Igor Auler: fui eu que turbinei um. Eu quis fazer um teste. Eu deixei turbinado s ou 10 dias, eu acho, alguma coisa
+Roger Tobace: quando aí pelo celular, velho.
+Igor Auler: assim.
+Roger Tobace: Isso aí eu não sei. Você consegue ver se esse post ele e se esse turbinamento ele gerou seguidores, tem essa métrica no
+Igor Auler: Sim, sim, sim, sim.
+
+
+
+
+00:52:42
+
+
+Igor Auler: Tem, tem.
+Roger Tobace: celular.
+Igor Auler: Quer que eu olhe do qual da teia? Deixa eu olhar.
+Roger Tobace: Me pega esse aí que você fez recente. Você consegue mandar um print? Mandar lá no
+Igor Auler: Deixa eu olhar o datí
+Roger Tobace: grupo.
+Igor Auler: primeiro.
+Roger Tobace: Ô mano, eu sempre peço isso pros clientes, os cara não sabe pegar.
+Igor Auler: Perci isso aqui. Então, mas eu tô achando que tá dando pouca visualização, mano. Porque assim, tá quanto? R$ 10 por dia. Isso aí.
+Roger Tobace: Mas que interessa é seguidor, velho. Custo por seguidor.
+Igor Auler: Tá.
+Roger Tobace: Essa é a métrica principal aí.
+Igor Auler: Tá bom. Eh, seguidores 122 nos
+Roger Tobace: Tá sent aí tem ele tem o curso por seguidor nós fazer na unha
+Igor Auler: últimos,
+Roger Tobace: aqui.
+Igor Auler: deixa eu ver. Custo por visita ao perfil 33 centavos.
+Roger Tobace: É visita ao perfil tem, mas ele teve essa tá
+Igor Auler: Eu vou gravar a tela e vou te mandar.
+Roger Tobace: pegando.
+Igor Auler: Pera aí.
+
+
+
+
+00:53:39
+
+
+Roger Tobace: Quantos seguidores falou que teve?
+Igor Auler: Teve 852 visitas ao perfil. Aí tá dando 858, né? Tá dando uma diferença bem pequena. Visualizações 14.000 e poucas. Eh, reprodução de 3 segundos 5.000 1000 curtidas eções 445 salvamentos
+Daniel Santos: Yeah.
+Igor Auler: tal visitas seguidores 122 e conversas por mensagem iniciada
+Roger Tobace: Vamos dividir aqui,
+Igor Auler: duas
+Roger Tobace: ó. 122
+Igor Auler: 284 que tem de gasto aqui.
+Roger Tobace: é 2,30 por seguidor. Tá, tá bom. Tá ruim não. E aí lá na bal aí você pode ver da About se compensa a gente ter o turbinamento
+Igor Auler: Até gravei aqui. Eu vou olhar. Eu turbinei, mas eu turbinei de um jeito.
+Roger Tobace: ou
+Igor Auler: Vou até gravar a tela para tu ver que eu acho que ele tá ele tá algumas ele tá híbrido. Tu já viu que tem um negócio híbrido agora?
+Roger Tobace: não.
+Igor Auler: Ele tem um híbrido, tem um modo híbrido que ele faz tanto propaganda quanto para seguidor.
+
+
+
+
+00:54:50
+
+
+Igor Auler: E aí tem algumas que estão mandando mensagem. Tô recebendo mensagem para c******.
+Roger Tobace: No.
+Igor Auler: Nem consigo responder. Cadê? Acho que é esse aqui. Esse aqui tá dando a mesma coisa. 14.000 visualizações. Eh, cliques no link 504, curtidas e reações salvamentos. seguidores 130, mas eu gastei R$ 66 para 130 seguidores. Esse aqui.
+Roger Tobace: Nesse que você fez agora. É, tá vendo?
+Igor Auler: Aham.
+Roger Tobace: Tá custando o quê? 50 centavos cada seguidor.
+Igor Auler: É isso aí. Até menos,
+Roger Tobace: Por isso, por isso que é o ideal,
+Igor Auler: não
+Roger Tobace: porque aí você tem a métrica, né?
+Igor Auler: é?
+Roger Tobace: No outro a gente não tem essa métrica. O ideal fazer porcionamento, tá?
+Igor Auler: Tá. Eh, tá bom.
+Roger Tobace: Aí que que eu recomendo até vou te mandar o estudo que eu fiz aqui, tava até discutindo com a aqui qual as melhores ações pra gente tomar do jeito que tá configurada a nossa campanha aqui.
+
+
+
+
+00:56:00
+
+
+Roger Tobace: Falando da About, tá? Dá dá dá ti você tem mais alguma dúvida?
+Igor Auler: Ah, como é que tá esses outros aí dos cliques? Como é que Qual é a métrica desse outro
+Roger Tobace: Então que que aqui a gente ficou de fazer,
+Igor Auler: aí?
+Roger Tobace: né? A gente tem métrica aqui, por exemplo, lead site, que é o clique no botão do Mercado Livre, tá?
+Igor Auler: Uhum.
+Roger Tobace: Um clique muito barato, só que a gente não sabe o resultado efetivo. Você chegou a saber se por meio do cupom os caras converteram por
+Igor Auler: Ai,
+Roger Tobace: aqui?
+Igor Auler: eu vi naquele dia. Preciso achar onde que veio isso aqui de
+Daniel Santos: Ja.
+Roger Tobace: E aí que que eu fiquei de fazer, né? O traqueamento pelos botões ali,
+Igor Auler: novo.
+Roger Tobace: saber onde que a galera tá tá clicando tudo mais. Aí usar GTM Geform. Eu é a configuração bem avançada, tá Igor? Não conseguiria fazer isso sem i. Aí chegou uma hora que eu até pedi para IA pegar o controle ali do gerenciador fazer isso aí.
+Igor Auler: Угу.
+Roger Tobace: Então tô trabalhando nessa automação ali.
+
+
+
+
+00:56:51
+
+
+Roger Tobace: Só preciso ver como é que o Gefor vai gerar uma planilha pra gente identificar esses cliques, tá? M. eh, ele fez ali a configuração inicial de traqueamento. Aí vai gerar dados e a gente precisa ver como é que a gente vai analisar os dados.
+Igor Auler: Tá
+Roger Tobace: E aí você você dá uma olhada se o cupom tá funcionando.
+Igor Auler: bom.
+Roger Tobace: Qualquer você joga ali no grupo pra
+Igor Auler: Tá, vou dar uma olhada.
+Roger Tobace: gente.
+Igor Auler: O que que você fez com com IAI que eu não entendi.
+Roger Tobace: Você pediu, lembra que você falou assim, a gente precisa saber quais botões estão performando melhor até pra gente desativar e ativar.
+Igor Auler: Sim, sim, sim, sim, sim. Aham.
+Roger Tobace: E aí ele fez todo o mapeamento dos botões ali pelo Gefor, pelo tag manager, criando lá o que ele precisava criar.
+Igor Auler: Tá.
+Roger Tobace: E aí eu preciso validar isso aí. Ele vai coletar os dados agora e vai jogar para uma planilha. Aí eu vou trazer os dados ali para ver se deu tudo certo,
+Igor Auler: Tá bom.
+Roger Tobace: tá bom? Aqui é isso, tá? As métricas assim estão muito boas, não tem nem o que falar, né?
+
+
+
+
+00:57:50
+
+
+Roger Tobace: 62 por clique aqui. Os dois vídeos performam, né? Ctr absurdo, ó. acima da média, o criativo, isso aqui é muito difícil de dar os três acima da média, tá? Então, tá performando super bem, só precisa entender os resultados aí por meio da metrificação. Acho que o cupom é o melhor caminho.
+Igor Auler: Bom,
+Roger Tobace: E vamos para About agora.
+Igor Auler: Cara, eu acho que que vendeu bem assim, porque assim, mês passado a gente vendeu 60K, mas foi muito por conta do Apple, né? Que era 5 e pouco o valor do negócio. Esse e esse mês já vai ter 60 de novo, mas 100 é, entendeu?
+Roger Tobace: É, verifica lá se a galera compra pelo cupom, né? Precisa correr atrás dessa metrificação aí.
+Igor Auler: Então, quando eu tinha olhado, ninguém tinha comprado,
+Roger Tobace: Mas é um é um bom sinal,
+Igor Auler: mas eu vou olhar aqui.
+Roger Tobace: né?
+Igor Auler: Sim, sim.
+Roger Tobace: Fechou. É que que eu sobre a About agora, tá? Que que eu tava conversando com a para definir o melhor caminho aqui.
+
+
+
+
+00:59:05
+
+
+Roger Tobace: A gente já usa a estrutura que ela recomenda, que é usar esse público de comprador como sinal mais forte aqui na nossa campanha validada de core business. Ele também pede para fazer um remarket, inclusive ele sugere até os mesmos orçamentos. E aí uma curiosidade que eu vou trazer ali no estudo para você, ele fala que não faz sentido assim a gente ter campanha topo de funil. E aí por que que ele explica que não faz sentido? Porque as próprias campanhas que a gente faz de conversão, elas já são uma campanha para público frio. Então elas já fazem esse papel de topo de funil, né? Embora o CPM fica um pouco mais alto do que a a topo de funil aqui. Deixa eu só ver, ó. A topo de funil é oito, uma campanha validada é 30.
+Igor Auler: Que que você p custo? Ah, custo por 1000. Quanto menor melhor,
+Roger Tobace: É,
+Igor Auler: né?
+Roger Tobace: fica mais barato, por exemplo, para pessoas. Então, né, quanto que a gente eh gasta, atinge muito menos pessoas numa campanha de compra,
+Igor Auler: Sim, sim. Mas é um a de venda mais assertivo.
+Roger Tobace: só que você dá o sinal certo pra campanha, você fala que você quer compradores,
+
+
+
+
+01:00:09
+
+
+Igor Auler: Sim.
+Roger Tobace: então ela vai buscar compradores, como na topa de funil,
+Igor Auler: Uhum.
+Roger Tobace: a gente não tá dando sinal certo, então ela vai trazer todo tipo de pessoa ali,
+Igor Auler: Sim.
+Roger Tobace: ão por visita tudo mais, a gente não sabe se esse público é qualificado de fato.
+Igor Auler: Ó, vamos dar uma olhada aqui na na nessa que eu turbinei.
+Roger Tobace: Então ela faz aí,
+Igor Auler: Ã, deixa eu ver se tem visitas.
+Roger Tobace: qual que é a minha sugestão? Tá, vamos manter o o nosso turbinamento agora que você identificou aí pra gente ter e a gente vai focar em
+Igor Auler: Tá. Ah, então aqui, ó, eu tive 466 visitas nessa aqui com R$
+Roger Tobace: seguidor.
+Igor Auler: 66.
+Roger Tobace: Não, mas vamos esquecer visita, a gente quer
+Igor Auler: Não, mas é o que eu consigo comparar aí,
+Roger Tobace: seguidor.
+Igor Auler: entendeu? Porque aí tá 10 centavos o custo por visita.
+Roger Tobace: Uhum.
+Igor Auler: Então é o que eu é o que eu não tudo bem,
+Roger Tobace: Mas não tem não tem métrica de seguidor. Como é que a gente vai saber se ela é melhor ou
+Igor Auler: mas eu tudo bem, mas eu consigo comparar pelo menos a visita,
+
+
+
+
+01:00:53
+
+
+Roger Tobace: pior?
+Igor Auler: porque se a visita for melhor e o seguidor melhor, melhor ainda, né? Porque dá para comparar alguma coisa, dá para comparar a visita. É
+Roger Tobace: Não,
+Igor Auler: 466.
+Roger Tobace: mas qual é qual que é a minha sugestão? Então, só para concluir, a gente desativa o topo de funil, tenta utilizar até esses conteúdos do lame ali, que sempre publica que a gente faz por impulsionamento. A nossa métrica chave para entender se tá funcionando ou não é seguidor,
+Igor Auler: É, é. Então aqui tá dando 14 centavos por visita.
+Roger Tobace: tá?
+Igor Auler: Tá dando mais caro que aí. Mas o criativo é outro.
+Roger Tobace: A gente foca é sim,
+Igor Auler: A gente não tá comparando pera com banana, né? Pode ser o problema do criativo.
+Roger Tobace: sim,
+Igor Auler: Abre essa daí do topo de funil.
+Roger Tobace: sim.
+Igor Auler: Eu entendi. Deixa eu ver quais são os vídeos para ver se eu consigo postar aqui e fazer por aqui que é a tua ideia.
+Roger Tobace: Cara, é os vídeos do L. Só pega o melhor. Então, ó, vai ser esse último aqui.
+
+
+
+
+01:01:46
+
+
+Roger Tobace: Coca-Cola.
+Igor Auler: Então, eh, eu não consigo. Deixa eu ver se eu consigo turbinar. Eu tenho eles. Ah, não, só repostado.
+Roger Tobace: É,
+Igor Auler: Não,
+Roger Tobace: então eles estão no no marcado ali.
+Igor Auler: ele não fez coleg comigo.
+Roger Tobace: É, você tem que postar no seu perfil,
+Igor Auler: É.
+Roger Tobace: entendeu? Mas cuidado às vezes se tiver música, não, às vezes ele não valida para fazer o turbinar ali.
+Igor Auler: Me manda os vídeos lá. Calma aí. Clica, clica lá de novo. Deixa eu ver como é que tá as métricas ali. Cada Não, não, não. Volta no conjunto de anúncios. Cada conjunto de anúncios só tem um rodando. É isso?
+Roger Tobace: É até pra gente testar.
+Igor Auler: Seleciona todos ali na esquerda. Aí vai para o anúncio. Deixa eu ver qual que tem. Tem esse de 4 centavos e um de sete, né,
+Roger Tobace: Vamos pegar.
+Igor Auler: cara? Eu vou até postar esse esse que eu turbinei, eu já postei duas vezes.
+
+
+
+
+01:02:56
+
+
+Igor Auler: A primeira bateu 5 milhões. A segunda agora bateu. A segunda bateu 3 milhões. Cara, esse vídeo eu posso até postar de novo, tem maior tempão que eu não posta. Talvez vamos de novo.
+Roger Tobace: Ó, quando a gente tava campanha do dia dos pais, ó a diferença que dá até tipo um vídeo dia dos pais aqui, ó, 27 centavos,
+Igor Auler: Aham.
+Roger Tobace: 59 centavos.
+Igor Auler: Tem,
+Roger Tobace: Olha o vídeo do lamb,
+Igor Auler: tem,
+Roger Tobace: 3 centavos.
+Igor Auler: sim, sim,
+Roger Tobace: Que é uma métrica cega, né? Então, tipo, tá visitando, mas a gente precisa saber se se virou alguma coisa.
+Igor Auler: sim.
+Roger Tobace: Um ativo mais importante é o
+Igor Auler: Uhum. Sim.
+Roger Tobace: seguidor.
+Igor Auler: Beleza. Me manda esses dois vídeos, o de três e o de sete. Vou postar os dois.
+Roger Tobace: Eu ver se eu tenho, Igor. Você não tá. É o do ISK. Qual que é o outro?
+Igor Auler: Deixa eu te perguntar, dá para baixar o vídeo daí?
+Roger Tobace: Да.
+
+
+
+
+01:03:45
+
+
+Igor Auler: Tô te perguntando por os vídeos do notebook, o Júlio tá com dificuldade de achar uns que ele que ele tinha, mas ele tem lá no na BM dele da outra empresa. Dá para baixar daí o vídeo?
+Roger Tobace: Mano, eu não sei fazer isso. Nunca tentei baixado meta.
+Igor Auler: Tá.
+Roger Tobace: Não,
+Igor Auler: Você sabe onde são esses dois vídeos aí? Ô, ô, Daniel,
+Daniel Santos: Perdão. Fala aí,
+Igor Auler: preciso desses dois vídeos aí,
+Daniel Santos: Gon.
+Igor Auler: ó. O Coca-Cola e o de baixo ali, ó.
+Roger Tobace: eu tô tendo meu PC, mano. Deixa eu baixei isso aqui,
+Daniel Santos: Ah, pera aí.
+Roger Tobace: velho. Tá aqui, ó. aqui, ó.
+Daniel Santos: São os do Lame,
+Roger Tobace: Tá. Vou mandar para você no WhatsApp.
+Daniel Santos: né?
+Roger Tobace: Vou mandar todos, tá? Deixa salvo
+Daniel Santos: Manda. Eu tenho aqui também do lame todos, pô. Aqui, ó.
+Roger Tobace: aí.
+Daniel Santos: Tá na tá no drive dele aqui, ó. Esse daqui, né? Coca-Cola.
+Igor Auler: É só é ver qual é exatamente como.
+
+
+
+
+01:04:36
+
+
+Daniel Santos: Qual que é o outro?
+Igor Auler: Confirma aí, ô Roger, para não mandar o
+Daniel Santos: É Coca-Cola.
+Igor Auler: errado.
+Daniel Santos: E
+Roger Tobace: Esses aí,
+Daniel Santos: qual?
+Roger Tobace: Igor, é o Coca-Cola.
+Igor Auler: Então, não, beleza. Mas tem dois ali que estão performando melhor.
+Roger Tobace: Eu da spat não,
+Daniel Santos: Tem esse daqui,
+Igor Auler: Não,
+Daniel Santos: ó.
+Igor Auler: mas é o da Não é o da Espatem com a preta.
+Roger Tobace: não é da spat não. Não, não é
+Igor Auler: Não é esse.
+Daniel Santos: Não, esse é o da R.
+Roger Tobace: da
+Igor Auler: É um com a com a é com a chopeira branca.
+Daniel Santos's Presentation: Ei, rapaziada,
+Igor Auler: Não é esse.
+Daniel Santos: branca
+Roger Tobace: então é da original.
+Igor Auler: É esse aí.
+Daniel Santos's Presentation: Não tô มา
+Daniel Santos: original.
+Igor Auler: É isso, né? Olha ali no Tá.
+Roger Tobace: É isso.
+Igor Auler: Me manda esse. Pode me mandar o link,
+Daniel Santos: É para mandar o link desse daqui aqui,
+Igor Auler: eu tenho acesso. Só manda,
+Daniel Santos: ó. Vou mandar da pasta toda.
+
+
+
+
+01:05:12
+
+
+Igor Auler: só manda o link aí.
+Daniel Santos: Aí você pega já o que tu quer. Já mandou já.
+Igor Auler: Não, manda o link do vídeo para eu não errar o vídeo,
+Daniel Santos: About.
+Igor Auler: cara,
+Daniel Santos: Ah,
+Igor Auler: por favor.
+Daniel Santos: tá. Foi mal, foi mal. Pera aí,
+Igor Auler: Senão vou entrar na pasta,
+Daniel Santos: pera aí,
+Igor Auler: vou errar o vídeo.
+Daniel Santos: pera aí, pera aí. Compartilhar. Copiar link.
+Igor Auler: Isso. E qual é o outro? Abre ali aquele da Coca-Cola para ter certeza que é aquele.
+Daniel Santos: original. Tá. Esse daqui, ó, vai
+Igor Auler: Qual que tá performando melhor?
+Daniel Santos: ser
+Igor Auler: O da Coca ou é o da original?
+Daniel Santos's Presentation: Dançar mexe não faz esse biquinho.
+Igor Auler: Ô Roger aí,
+Roger Tobace: da co é bem melhor.
+Daniel Santos's Presentation: Ne.
+Igor Auler: então,
+Daniel Santos: tipo quando ele faz
+Igor Auler: mas esse tem a música do do Marcinho, vai dar para
+Daniel Santos: isso,
+Roger Tobace: É,
+Igor Auler: turbinar,
+Roger Tobace: sobe. Se não der, a gente tem que tirar essa música.
+
+
+
+
+01:05:49
+
+
+Igor Auler: tá bom?
+Daniel Santos: cara. Me impressiona não ter ficado cheio de espuma lá dentro,
+Daniel Santos's Presentation: Não faz assim com seu neinho.
+Igor Auler: Mas talvez a a música fazém,
+Daniel Santos: velho.
+Daniel Santos's Presentation: Dança agitar as mãos para o ar.
+Igor Auler: faz a galera ver,
+Daniel Santos: Eu
+Igor Auler: né?
+Roger Tobace: Eh,
+Igor Auler: Yeah.
+Roger Tobace: tá.
+Daniel Santos's Presentation: Yeah. Sacode balança que hoje tu é festa.
+Roger Tobace: Amém.
+Igor Auler: É porque já tá em dentro do vídeo. Então assim,
+Daniel Santos: acho que quando tá dentro do vídeo passa.
+Igor Auler: talvez a eh às vezes passa.
+Daniel Santos: Eu acho.
+Igor Auler: O problema é quando você bota a música pelo
+Daniel Santos: É,
+Igor Auler: Instagram.
+Daniel Santos: mostrei pro pro designer ligão, esse vídeo aqui, né? Quando ele foi fazer,
+Daniel Santos's Presentation: para você é para
+Daniel Santos: aí cai, né?
+Igor Auler: Ah, ele sempre joga,
+Daniel Santos: Primeira coisa que ele me fala foi,
+Daniel Santos's Presentation: qualquer
+Igor Auler: não? Ele sempre joga.
+Daniel Santos: pô, mano, tá deixando cair tudo, cara. Dá para fazer um
+Igor Auler: Ele sempre faz
+
+
+
+
+01:06:26
+
+
+Daniel Santos: copo um
+Daniel Santos's Presentation: pessoa Tak.
+Roger Tobace: É, é red label,
+Igor Auler: isso.
+Roger Tobace: né, mano?
+Daniel Santos: rzinho. Eu particularmente não sou muito fã, tá? Mas é um bom. Beleza. Esse é o da Coca que vai mandar, né, Igão? Beleza.
+Igor Auler: Aham.
+Roger Tobace: Ô Igor, é isso. Vamos, vamos fazer esse teste aí com agora com com essa métrica de seguidor,
+Igor Auler: Eu
+Roger Tobace: que é uma métrica mais acertada.
+Igor Auler: vou postar eles, sei lá, um hoje e outro no domingo e na quarta-feira a gente faz essa alteração para deixar o orgânico rodar um pouco também dos vídeos
+Roger Tobace: Tá, pode
+Igor Auler: ou na ou na terça,
+Roger Tobace: ser.
+Igor Auler: que a terça é dia primeiro, aí a gente fecha o mês e aí eu abro por ali. Só me fala quanto que eu tenho que botar dinheiro no turbinar ali. Quanto que tá aí
+Roger Tobace: A gente tava investindo R$ 50 no topo de funil.
+Igor Auler: nas
+Roger Tobace: Deixa eu ver. 10 30 50. Então ou você faz três postes dividido por 50 ou você faz dois de 25.
+
+
+
+
+01:07:38
+
+
+Igor Auler: vou fazer dois de 20 que eu já botei 10 naquele outro lá.
+Roger Tobace: Isso. 2 de 20. Tá. Bom, essa alteração que eu que eu seguiria, tá, nesse momento aí depois a gente não tem um criativo muito bem validado ali na embora a nossa campanha tá escrito validado para business aqui, nem criativo,
+Igor Auler: Aí para de compartilhar,
+Roger Tobace: nem público,
+Igor Auler: Daniel, para poder ver a dele.
+Daniel Santos: Ô, perdão.
+Roger Tobace: tá?
+Daniel Santos: Tá lá.
+Igor Auler: Tô
+Daniel Santos: Deixa eu fixar a sua, Roger. Aí,
+Igor Auler: conseguindo
+Roger Tobace: Então, a gente tem um remarket, né? A gente tá testando também os outros produtos ali de forma separada.
+Igor Auler: então. remarket.
+Daniel Santos: beleza.
+Igor Auler: Você ficou de colocar vídeo ou foto no remarket? Você botou?
+Roger Tobace: E eu acho que não, hein.
+Igor Auler: É, então é
+Roger Tobace: Vou vou já colocar
+Igor Auler: isso.
+Roger Tobace: aqui, deixar só o rasco criado. Depois eu coloco.
+Igor Auler: Eu vou pegar exatamente as transcrições pra gente não esquecer nada para ver o que que a gente falou nas outras.
+
+
+
+
+01:08:52
+
+
+Roger Tobace: Boa. E aí? E aí, eu fiquei de fazer um teste aqui, mas é o que eu tô te passando a visão, a gente não tem nem muito bem o público validado ainda, porque o público ele tá oscilando entre os três públicos. Ele converte aqui no um, converte aqui no dois, converte aqui no três, tá?
+Igor Auler: E qual é a diferença desses
+Roger Tobace: E também não tem nem esse é um sinal de engajamento com Instagram,
+Igor Auler: públicos?
+Roger Tobace: o de baixo é o sinal de compradores e o terceiro tá aberto.
+Igor Auler: Так.
+Roger Tobace: E o criativo também, né? A gente sempre teve o criativo campeão, mas como que a gente tá produzindo bastante material, ele embora ele não gaste dinheiro em vários criativos, ele também oscila entre um melhor criativo e outro. A ideia é assim,
+Igor Auler: Uhum.
+Roger Tobace: assim que ele começar a a gente quiser validar novos criativos, né, criar uma campanha com orçamento separado para
+Igor Auler: Então é isso que eu falei,
+Roger Tobace: teste.
+Igor Auler: cara. Então isso já tinha, a gente já tinha falado há um tempo,
+Roger Tobace: É, mas é
+Igor Auler: deixa uma rodando com 90,
+Roger Tobace: que
+
+
+
+
+01:09:50
+
+
+Igor Auler: 80% do dinheiro e a outra deixa com 10, 20% e vai testando os
+Roger Tobace: mas é o que eu tô te falando,
+Igor Auler: criativos.
+Roger Tobace: é, tipo, a nossa principal, ela não tá validada, ela testa criativos
+Igor Auler: Então aquele bebê cerveja quente é f***,
+Roger Tobace: ainda.
+Igor Auler: é validado, com certeza
+Roger Tobace: Tá,
+Igor Auler: absoluta.
+Roger Tobace: mas nesse momento não é ela que esse criativo que é o campeão, entendeu? Que tô te falando?
+Igor Auler: Cadê? Mas é porque você tá votando do dia 13 só.
+Roger Tobace: A gente não tá deixando um criativo só.
+Igor Auler: Acho que é um período, eu não, eu não tenho uma quantidade de venda expressiva para botar um período tão curto para, para validar, entendeu? Eh, bota do dia primeiro, bota o mês inteiro ou bota os últimos 60 dias,
+Roger Tobace: É, vai pegar dia dos pais,
+Igor Auler: sei lá. Não, mas tudo
+Roger Tobace: né?
+Igor Auler: bem. É, tem alguma coisa errada aí. É porque ela não deve estar nem ativa, então, cara. Ah, tá. A Copa do Mundo.
+
+
+
+
+01:10:47
+
+
+Igor Auler: Deixa eu cerveja quente ali, ó. Coisa.
+Roger Tobace: Então aí nossos criativos eles eles oscilam porque aí tem um sazional,
+Igor Auler: Sim,
+Roger Tobace: vai entrar outro.
+Igor Auler: sim,
+Roger Tobace: Eu não tenho um validado validado,
+Igor Auler: sim,
+Roger Tobace: entendeu? Por isso que eu acho que não compensa fazer teste. Se a gente validar um mesmo e ele começar só a focar naquele,
+Igor Auler: sim.
+Roger Tobace: aí eu acho que compensa abrir para um teste, porque nesse momento o a gente tá testando, a gente segue testando.
+Igor Auler: Beleza, pessoal. Preciso entrar em outra aqui.
+Daniel Santos: Tranquilo,
+Roger Tobace: Ô Igor,
+Daniel Santos: meu querido.
+Roger Tobace: vai lá então.
+Igor Auler: Fechou.
+Roger Tobace: Vamos lá também.
+Igor Auler: Valeu.
+Daniel Santos: Precisar também só dar um toque na gente.
+Igor Auler: Na quarta-feira a gente fala, tá bom?
+Daniel Santos: Manda lá no grupo qual coisa.
+Igor Auler: Valeu, um abraço.
+Daniel Santos: Valeu, abraço.
+Roger Tobace: Valeu,
+Daniel Santos: Foi que foi, mano. Foi que foi.
+Roger Tobace: é isso.
+Daniel Santos: É isso.
+Roger Tobace: Otério, vamos almoçar então,
+Daniel Santos: É comer, né?
+Roger Tobace: né?
+Daniel Santos: Eu já pedi a comida, já deve tá chegando.
+Roger Tobace: Boa. Deixa nós tromba mais tarde ali no review.
+Daniel Santos: Fechou, irmão. É nice.
+Roger Tobace: Valeu, M.
+
+
+
+
+A transcrição foi encerrada após 01:12:03
+
+
+Esta transcrição editável foi gerada por computador e pode conter erros. As pessoas também podem alterar o texto depois que ele for criado.

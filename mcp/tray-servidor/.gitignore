@@ -1,0 +1,4 @@
+dist/
+site.tar.gz
+*.tar.gz
+.env*

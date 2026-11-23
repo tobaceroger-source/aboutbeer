@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-11-23",
+  "ga4": {
+    "status": "metadata_query_succeeded",
+    "accounts": [
+      {
+        "name": "accountSummaries/301281966",
+        "account": "accounts/301281966",
+        "display_name": "About Beer",
+        "property_summaries": [
+          {
+            "property": "properties/426045164",
+            "display_name": "About Beer - Tray",
+            "property_type": "PROPERTY_TYPE_ORDINARY",
+            "parent": "accounts/301281966",
+            "can_edit": true
+          },
+          {
+            "property": "properties/466524713",
+            "display_name": "About Beer - Landing Page",
+            "property_type": "PROPERTY_TYPE_ORDINARY",
+            "parent": "accounts/301281966",
+            "can_edit": true
+          },
+          {
+            "property": "properties/541872478",
+            "display_name": "About Group TI",
+            "property_type": "PROPERTY_TYPE_ORDINARY",
+            "parent": "accounts/301281966",
+            "can_edit": true
+          }
+        ]
+      }
+    ]
+  },
+  "tray_plugin": {
+    "status": "requires_reauthentication",
+    "error_code": "UNAUTHORIZED",
+    "configured_store": "1501140",
+    "environment": "test_only",
+    "note": "Descrição das ferramentas e fonte local indicam loja de testes; a consulta não retornou dados de pedidos."
+  },
+  "google_ads_canovas": {
+    "local_config_present": true,
+    "tools_in_this_chat": false,
+    "target_customer_id_from_history": "9185273300",
+    "live_account_validation": false
+  },
+  "bling": {
+    "local_config_present": true,
+    "tools_in_this_chat": false,
+    "live_account_validation": false
+  },
+  "meta_ads": {
+    "tools_in_this_chat": true,
+    "live_account_validation": false
+  },
+  "chatgpt_ads_manager": {
+    "tools_in_this_chat": true,
+    "live_account_validation": false
+  },
+  "openai_ads_readonly": {
+    "tools_in_this_chat": true,
+    "live_account_validation": false
+  },
+  "jarvis": {
+    "kind": "REST API",
+    "base_url": "https://jarvis.aboutbeer.com.br",
+    "contract_source": "Informação fornecida pelo usuário na conversa de 11/11/2026",
+    "current_authenticated_request": false
+  },
+  "archive_checks": {
+    "tray_unit_tests_passed": 9,
+    "tray_build": "passed",
+    "tray_artifact_validation": "passed"
+  }
+}

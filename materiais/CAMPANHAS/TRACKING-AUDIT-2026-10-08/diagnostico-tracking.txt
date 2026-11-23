@@ -1,0 +1,67 @@
+AUDITORIA DE TRACKING — ABOUT BEER
+Data: 08/10/2026
+Site: https://www.aboutbeer.com.br/
+
+RESULTADO
+Testados: home, categoria Chopeiras, busca por chopeira, produto Chopeira 5L preta, adição ao carrinho, aumento de quantidade para 2, redução para 1, entrada no checkout de identificação e remoção do produto. Carrinho restaurado vazio; nenhum cadastro, pedido ou pagamento realizado.
+
+LIMITE DA EVIDÊNCIA
+Foram lidos os scripts inline presentes no DOM e observadas as mudanças na interface. A ferramenta de inspeção opera em escopo somente de leitura do DOM e não expõe as filas JavaScript reais window.dataLayer/window.dataLayerGa4. Portanto, declaração de evento NÃO significa disparo, envio de rede ou recebimento validado. É necessário Preview do GTM/Tag Assistant para confirmar eventos dinâmicos e tags.
+
+ESTRUTURA ENCONTRADA
+GTM: GTM-NJNPZWZ5, camada dataLayer.
+GA4 nativo: G-KEHQ5TY0KN, camada dataLayerGa4 (carregador gtag usa l=dataLayerGa4).
+Checkout: Tray EasyCheckout no próprio domínio. O elemento gtmScript possui atributo data-hash no carrinho e identificação; valor não armazenado.
+
+SINAIS LIDOS EM dataLayer
+Home: pageCategory = Home.
+Categoria: pageCategory = catalogo; category = Chopeiras; idCategory = 7; listProducts[].
+Busca: pageCategory = Busca; siteSearchTerm = chopeira; siteSearchResults = 26; listProducts[].
+Produto: pageCategory = Produto; idProduct = 7; nameProduct; category; brand; reference; price; priceSell; listSku[].
+Carrinho: pageCategory = Carrinho. A declaração inicial lida não contém itens/total do carrinho.
+Identificação: pageCategory = EasyCheckout_Identification. É uma categoria de página, não um nome de evento confirmado.
+O campo event da declaração inicial de home/categoria/busca/produto é vazio. Não configurar um Evento personalizado chamado Produto ou Carrinho por causa de pageCategory.
+
+EVENTOS GA4 DECLARADOS EM dataLayerGa4
+Categoria: view_item_list (item_list_id = produtos_catalog).
+Busca: search (search_term = chopeira) e view_item_list (produtos_search).
+Produto: view_item (currency = BRL, value = 1999.99, items[0].item_id = 7, price = 1999.99).
+Produto: view_promotion (price = 1599, discount = 400.99).
+Estes comandos são declarações gtag. Não são eventos personalizados comprovados na camada dataLayer monitorada pelo GTM. Não assumir que um trigger view_item nesse container os recebe.
+
+VALORES E IDENTIFICADORES
+Produto: idProduct 7; SKU preto 7-40; referência KITCHP01; SKU branco 7-38.
+price = 1999.99 (preço anterior).
+priceSell = 1599.00 (preço promocional antes do desconto Pix).
+Interface: Pix 1439.10; carrinho subtotal 1599.00. Com quantidade 2, subtotal 3198.00.
+O preço de view_item/listagem usa o valor anterior. Para o novo tracking, mapear o preço vigente e, na compra, o total efetivo do pedido. Não aplicar desconto Pix antecipadamente sem confirmação do meio de pagamento.
+A compra da chopeira inclui 2 brindes de valor zero. Não tratar o contador de 3 itens como 3 chopeiras vendidas; manter quantidade por item e valor zero dos brindes.
+
+GATILHOS PROPOSTOS A PARTIR DOS SINAIS CONFIRMADOS
+Página: gatilho de página/DOM pronto, com variável de camada pageCategory e igualdade exata ao valor acima; validar uma execução por navegação no Preview.
+Produto: condição pageCategory = Produto; ler idProduct/nameProduct/priceSell. Variante selecionada precisa ser validada separadamente em evento dinâmico; listSku é lista de opções, não prova seleção.
+Carrinho: condição pageCategory = Carrinho identifica a tela, sem comprovar sucesso de adição ou remoção.
+Checkout: condição pageCategory = EasyCheckout_Identification identifica entrada na etapa de identificação. Payload de itens/valor e atualização por navegação da aplicação precisam ser validados.
+Adição/remoção: usar evento após sucesso, ainda não identificado em runtime. Clique em COMPRAR mede intenção e pode falhar; não basta para medir item adicionado.
+Frete/pagamento/pedido: não validados porque o fluxo pede identificação. Não criar gatilhos de compra por URL genérica ou nome presumido.
+Pedido criado e pagamento aprovado precisam de distinção. Uma confirmação de pedido Pix/boleto não comprova receita paga.
+
+DIAGNÓSTICOS DO CONSOLE
+Meta Pixel: aviso Invalid parameter format for currency.
+Script PMax (images.tcdn.com.br/pmax/static/main.js): erro Cannot read properties of undefined (reading 'checkout') no carrinho.
+Clarity: bloqueio por CSP no checkout.
+São sintomas observados, sem causa raiz ou perda de conversões quantificada. Corrigir/investigar antes de considerar tracking validado. Novo script de pixel também precisa passar pelo teste da política CSP do checkout.
+
+VALIDAÇÃO RESTANTE NO GTM
+1. Abrir o container GTM-NJNPZWZ5 e iniciar Preview para https://www.aboutbeer.com.br/.
+2. Repetir produto, seleção de cor, adição, carrinho, quantidade, remoção e checkout.
+3. Em cada evento do Tag Assistant, ler Data Layer e Variables: nome exato de event, itens, SKU, quantidade, moeda, total e tags disparadas.
+4. Comparar a camada do GA4 nativo com a camada do GTM; escolher uma única origem para cada evento, evitando duplicação. Não sobrescrever gtag/dataLayer nem reenviar eventos nativos sem desenho de deduplicação.
+5. Para frete, pagamento e confirmação, usar um fluxo de teste controlado com o responsável da loja. Número do pedido, total e status devem ser verificados. Atualizar confirmação de pagamento pelo servidor se esse for o objetivo comercial.
+6. Só então gerar/importar o JSON de configuração no GTM e testar antes de publicar. O arquivo mapa-observado.json é um diagnóstico, não um container importável.
+
+ARQUIVOS
+mapa-observado.json: mapa estruturado e limites de validação.
+declaracoes-publicas.json: scripts públicos relevantes, com sessão do checkout ocultada.
+checkout-identificacao.jpg: etapa alcançada sem dados pessoais.
+carrinho-restaurado.jpg: carrinho vazio após remoção.

@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-04",
+  "spreadsheet_id": "15Ge9gJOhz9jxH-JR8stHg4Aj98anoh8s2gPbYc6RjgY",
+  "url": "https://docs.google.com/spreadsheets/d/15Ge9gJOhz9jxH-JR8stHg4Aj98anoh8s2gPbYc6RjgY/edit?gid=90112026#gid=90112026",
+  "sheet": "NOVEMBRO 2026",
+  "sheet_id": 90112026,
+  "period": {
+    "start": "2026-11-01",
+    "end": "2026-11-30",
+    "days": 30
+  },
+  "campaigns": [
+    {
+      "channel": "Meta",
+      "stage": "Topo",
+      "goal": "Engajamento",
+      "name": "Post do Instagram: Veja como é fácil aproveitar a...",
+      "daily": 10,
+      "note": "Orçamento da campanha Meta 120251312399970742; classificação de funil usada para planejamento."
+    },
+    {
+      "channel": "Meta",
+      "stage": "Topo",
+      "goal": "Engajamento",
+      "name": "Post do Instagram: Vocês pensavam que era só pra...",
+      "daily": 40,
+      "note": "Orçamento da campanha Meta 120251276716930742; classificação de funil usada para planejamento."
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [OUTROS PRODUTOS][TESTES]",
+      "daily": 60,
+      "note": "Campanha 120240817930310742 sem orçamento próprio: soma de 3 conjuntos ativos de R$20/dia. Sem duplicar verba de campanha e conjuntos."
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [RMK][CATALOGO]",
+      "daily": 20,
+      "note": "Orçamento da campanha Meta 120236399329300742; não somar novamente os conjuntos."
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "🟢 MONETIZAÇAO - [VALIDADA][CORE BUSSINESS]",
+      "daily": 130,
+      "note": "Orçamento da campanha Meta 120233737414010742."
+    },
+    {
+      "channel": "Meta",
+      "stage": "Fundo",
+      "goal": "Engajamento",
+      "name": "🟢 MONETIZAÇAO - [RMK][WHATSAPP]",
+      "daily": 20,
+      "note": "Orçamento da campanha Meta 120251899426440742; finalidade planejada: contato por WhatsApp."
+    },
+    {
+      "channel": "Google",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "[PMAX] About Beer",
+      "daily": 40,
+      "note": "Campanha Google Ads 22794274983; orçamento diário R$40 consultado em 04/11/2026."
+    },
+    {
+      "channel": "Google",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "[PESQUISA] About Beer",
+      "daily": 30,
+      "note": "Campanha Google Ads 23451212769; orçamento diário R$30 consultado em 04/11/2026."
+    },
+    {
+      "channel": "GPT Ads",
+      "stage": "Meio",
+      "goal": "Tráfego",
+      "name": "[CHATGPT ADS] About Beer | Chopeiras | 10 dias",
+      "daily": 40,
+      "note": "Cenário solicitado: R$40/dia por TODOS os 30 dias de novembro. A campanha existente tem término em 01/11; nenhuma alteração ou reativação foi executada."
+    },
+    {
+      "channel": "TRAY",
+      "stage": "Fundo",
+      "goal": "Vendas",
+      "name": "FACEBOOK SHOPPING — reserva do planejamento",
+      "daily": 29,
+      "note": "Reserva herdada de PLANO DE MÍDIA!H24 (outubro), sem confirmação do orçamento atual na Tray. Mantida separada da Meta e sem imposto adicional para evitar tributar uma composição não verificada."
+    }
+  ],
+  "media_total": 12570,
+  "daily_total": 419,
+  "meta_media": 8400,
+  "meta_tax_rate_inside_total": 0.1215,
+  "meta_tax": 1161.75,
+  "total_with_meta_tax": 13731.75,
+  "assumptions": [
+    "GPT R$40/dia por 30 dias e sem alteração de veiculação.",
+    "Tray R$29/dia herdado de outubro; orçamento atual não verificado; sem imposto adicional.",
+    "Google e Meta com orçamentos atuais consultados em 04/11/2026.",
+    "Modelo tributário preservado de outubro: mídia Meta/(1-0.1215)."
+  ],
+  "verification": {
+    "formula_errors": [],
+    "historical_changes": [],
+    "readback": true
+  }
+}

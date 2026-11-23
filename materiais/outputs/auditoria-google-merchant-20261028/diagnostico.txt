@@ -1,0 +1,93 @@
+ABOUT BEER — Auditoria Google Ads e Merchant Center
+Consulta: 28/10/2026. Google Ads 9185273300, moeda BRL, America/Sao_Paulo.
+Período de desempenho: 01–27/10/2026; semana recente: 21–27/10; comparação: 14–20/10 e 01–27/09.
+Fontes: MCP Google Ads Canovas Mendes; interface Merchant 5329306689; loja pública; consolidação local de CSVs Tray até 27/10.
+Nenhuma campanha, orçamento, produto, feed ou configuração alterada.
+
+RESULTADOS GOOGLE ADS
+PMax: custo R$1.848,30; compras atribuídas 13,986259; valor atribuído R$13.369,39; CPA R$132,15; ROAS 7,23 x.
+Pesquisa: custo R$1.035,69; compras atribuídas 11; valor atribuído R$19.970,62; CPA R$94,15; ROAS 19,28 x.
+Total: custo R$2.884,00; compras atribuídas 24,986259; valor R$33.340,01; ROAS 11,56 x.
+As conversões fracionárias decorrem da atribuição. Valores não representam vendas pagas conciliadas.
+
+ÚLTIMOS SETE DIAS
+PMax: R$298,49; média R$42,64/dia; 3 compras; R$4.282,12; ROAS 14,35 x.
+Pesquisa: R$234,70; média R$33,53/dia; 0 compras/receita registradas até a consulta.
+Total médio realizado R$76,17/dia. Orçamentos atuais: PMax R$40/dia, Pesquisa R$30/dia.
+PMax sem ROAS alvo; Pesquisa ROAS alvo 6 x. Pesquisa marcada como limitada pelo orçamento.
+Perdas de impressões Pesquisa em 21–27/10: orçamento 50,89%; classificação 37,96%; participação 11,15%.
+Isso não demonstra rentabilidade de aumentar orçamento.
+Em 14–20/10, PMax teve 3 compras e ROAS 6,93 x; Pesquisa 1 compra e ROAS 1,39 x.
+Períodos recentes podem receber conversões adicionais por atraso de atribuição.
+
+ALTERAÇÕES DE ORÇAMENTO CONFIRMADAS
+01/10 15:48: PMax 80→160 reais/dia.
+07/10 12:00: PMax 160→50.
+07/10 12:27: PMax 50→40; Pesquisa 40→30.
+A análise atual não sustenta subentrega em relação aos orçamentos atuais.
+
+PESQUISA
+O dia 01/10 concentra 8 das 11 compras atribuídas eR$16.791,00 (84,08% da receita).
+Em 02–27/10: R$956,58; 3 compras; R$3.179,62; ROAS 3,32 x.
+Exemplos para revisão de intenção: chopeira elétrica/eletrica, chopeira elétrica Philco, beer, cerveja, pack cerveja.
+Termos não vinculados à marca disponíveis no relatório: R$522,79 sem conversão atribuída; termos de marca disponíveis R$40,68,1 compra, R$324,69.
+Relatório de termos não cobre todo o gasto e conversões da campanha; não extrapolar para todos os termos.
+Rede: somente Pesquisa Google gerou custo na campanha; redes parceiras/display estão desligadas.
+Não negativar genericamente chopeira ou todos os concorrentes sem avaliar compatibilidade e intenção.
+
+PMAX
+Contra 01–27/09: gasto+71,48%; cliques+39,73%; valor atribuído-69,99%.
+ROAS 41,34 x→7,23 x; valor médio por conversão R$3.713,00→R$955,89.
+A mudança não prova causalidade do orçamento nem queda de mercado.
+Consultas de marca identificadas na PMax: R$6.884,76, equivalentes a 51,50% da receita atribuída total.
+Isso limita interpretar o ROAS como aquisição incremental; não implica excluir marca automaticamente.
+Rede SEARCH concentra R$1.663,35 do gasto e todas as conversões; os demais ambientes somam cerca deR$184,95 sem conversão atribuída.
+Apenas grupo 02-QUENTE ativo, elegível, qualidade de recursos AVERAGE; 01-FRIO e 02-NATAL pausados.
+Nome QUENTE não comprova restrição a remarketing.
+Sinal de campanha HAS_ASSET_GROUPS_LIMITED_BY_POLICY permanece; grupo pausado 01-FRIO temASSET_GROUP_LIMITED, ativo não tem motivo de restrição.
+134 vínculos de recursos consultados nos grupos frio/quente retornaram aprovação APPROVED. Não atribuir o problema atual a álcool sem detalhe atual.
+
+PRODUTOS — DESEMPENHO ASSOCIADO AO PRODUTO ANUNCIADO
+Kit Essencial 2 L, ID 103: R$200,00; 1 compra; R$1.371,60; ROAS 6,86 x.
+Nitro Cold Brew Keg 2 L, ID 117: R$132,23; 2 compras; R$1.582,98; ROAS 11,97 x.
+Barril 2 L, ID 99-17: R$102,73; 1 compra; R$1.573,20; ROAS 15,31 x.
+Kit Essencial 5 L, ID 49: R$24,86; 1 compra; R$1.709,10; ROAS 68,76 x.
+As amostras são pequenas. O produto clicado pode gerar compra de outro produto; estas métricas não são vendas de SKU conciliadas.
+As chopeiras isoladas IDs 7 e 115 somam apenasR$10,95 e nenhuma conversão no recorte de produtos.
+Não somar o relatório de produtos ao total da PMax.
+
+MERCHANT CENTER
+Interface mostrou 51 produtos:40 fornecidos e 11 encontrados pelo Google; 37 em Não aparecem noGoogle.
+O status visualizado foi atualizado em 27/10 05:11.
+Chopeira 5 L SKU 7-40: Em análise; em estoque; origem PMax API (Não remover); atualização 27/10 05:11:39.
+Também vistos Em análise: IDs 99,99-19,101,23,17,159 e 117; vários foram atualizados 26–27/10.
+Isso é um bloqueio de visibilidade atual dos itens, não comprovação de que ficaram bloqueados durante todo o mês.
+A página de políticas da conta informou Não há problemas para corrigir.
+Erro explícito: Brinde Caneca 700 ml ID 160 reprovado por preço ausente; estimativa Merchant abaixo de 5 cliques. Não é explicação suficiente para a queda mensal.
+Consulta shopping_product retornou 15 itens, não todo o catálogo:11 elegíveis, 3 nãoelegíveis por estoque e 1 por preço ausente.
+Sem estoque: Kit Supremo 2 Lbranco 91, Kit 4 Porta-Copos 153, KitUpgradeHomeBar 121.
+Fontes visíveis: API Content, PMax API (Não remover), rastreamento do domínio. Múltiplas fontes não provam duplicação; comparar IDs/variantes antes de remover fontes.
+Preço promocional Merchant 5 L 7-40 R$1.439,10 coincide com preço PIX da vitrine; preço parcelado público R$1.599,00. Não foi comprovada divergência nessa amostra.
+Detalhe de revisão, descrição, GTIN/imagem, data de início da análise e comparação completa entre feed e checkout ficaram pendentes: nova aba exigiu confirmação de identidade e detalhes não carregaram. Exportação do Merchant retornou Erro interno.
+SKU 115-23 não foi revalidado individualmente nesta auditoria.
+
+TRAY — PEDIDOS PAGOS COM UTM GOOGLE
+Outubro 1–27:16 pedidos criados, 14 pagos, 2 cancelados.
+Total dos pedidos pagos R$13.992,90; valor de pagamentos no campo específico R$13.219,96.
+ROAS sobre total dos pedidos pagos R$13.992,90 / gasto R$2.884,00 =4,85 x; CPA pago R$206,00.
+Definição: data e valor de pagamento presentes, valor positivo e exclusão de cancelados; receita usa Total.
+UTMs sem campanha impedem dividir com segurança esse ROAS entre PMax e Pesquisa.
+Diferença para Google Ads não é toda cancelamento: modelos/janelas/datas/UTMs diferentes e pedidos sem origem também afetam.
+Exportação não contém itens para excluir informática pedido a pedido.
+
+PRIORIDADES RECOMENDADAS
+1. Merchant: concluir detalhamento dos 37 itens que não aparecem, priorizando 7-40, variantes 2 L e produtos 103/117 com vendas atribuídas; confirmar início/motivo da revisão e identidade estável dos envios; abrir suporte com evidências se revisão persistente. Corrigir na fonte responsável; não excluir/recriar feeds ou inventar preços para brindes.
+2. Pesquisa: revisar consultas inadequadas com negativas específicas, distinguir marca e genéricos na análise/estrutura, validar as 8 conversões de 01/10 contra transações; manter controle de verba antes de expandir.
+3. PMax: manter referência atual R$40/dia até recuperar elegibilidade evalidar pagamentos; priorizar produtos elegíveis, com estoque e margem; após validação considerar teste pequeno de escala e avaliar ROAS pago/margem e efeito incremental. Não escalar peloROAS isolado de 1 venda nem presumir que QUENTE é remarketing.
+
+Referências:
+https://merchants.google.com/mc/items?a=5329306689&hl=pt-br
+https://merchants.google.com/mc/products/diagnostics/accountissues?a=5329306689&hl=pt-br
+https://www.aboutbeer.com.br/
+https://support.google.com/google-ads/answer/1704424
+

@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.mcp.json
+config.toml
+*.local.toml
+*.local.json
+*.pem
+*.key
+credentials*.json
+token*.json
+.codex/
+work/
+node_modules/
+__pycache__/
+dist/
+.wrangler/

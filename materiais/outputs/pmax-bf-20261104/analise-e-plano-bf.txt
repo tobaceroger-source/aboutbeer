@@ -1,0 +1,160 @@
+ABOUT BEER — Análise da PMax e plano para a Black Friday 2026
+Consulta concluída em 04/11/2026
+Conta 9185273300 | Campanha 22794274983 | Moeda BRL | Fuso America/Sao_Paulo
+Fontes Google Ads Canovas Mendes, GA4 426045164 e exportações locais da Tray coletadas em 28/10/2026.
+Margem informada pelo usuário de 35%, interpretada como contribuição antes da mídia, após os custos listados na pergunta.
+Auditoria de leitura. Ações descritas como propostas.
+
+A campanha deve preparar a BF com foco nos kits, aprovação dos produtos e vendas pagas. O Kit Essencial 5L é o principal candidato comercial pelo histórico. Há sinais de recuperação recente, mas o indicador atribuído inclui pedidos cancelados. O teto de investimento de novembro não foi informado.
+
+DESEMPENHO ATUALIZADO
+Agosto/2026 | R$ 1.095,25 | 19,79 compras atribuídas | R$ 27.115,20 atribuídos | CPA R$ 55,34 | ROAS 24,76x
+Setembro/2026 | R$ 1.486,62 | 12 compras | R$ 44.555,99 | CPA R$ 123,88 | ROAS 29,97x
+Outubro/2026 | R$ 1.989,24 | 16,99 compras | R$ 15.919,58 | CPA R$ 117,11 | ROAS 8,00x
+01–03/11/2026 | R$ 123,35 | 1 compra | R$ 1.051,39 | CPA R$ 123,35 | ROAS 8,52x
+25–31/10/2026 | R$ 282,73 | 5 compras | R$ 5.460,71 | CPA R$ 56,55 | ROAS 19,31x
+28/10–03/11/2026 | R$ 264,33 | 4 compras | R$ 3.601,58 | CPA R$ 66,08 | ROAS 13,63x
+As linhas semanais se sobrepõem aos meses. Conversões fracionárias representam crédito de atribuição. Os períodos mais recentes podem receber conversões adicionais.
+
+Em outubro, CPC R$ 1,42, CTR 1,69% e valor médio por conversão de R$ 937,20. Setembro teve CPC R$ 1,30, CTR 2,16% e valor médio atribuído de R$ 3.713,00.
+A base de setembro exige cuidado. Os pedidos T_3830 e T_3832, de R$ 11.990,00 cada, aparecem associados à sessão da PMax no GA4 e constam cancelados, sem pagamento, na exportação Tray. Isso compromete o uso do ROAS de setembro como referência comercial. O terceiro evento de R$ 11.990,00 visto no GA4 possui outra origem de sessão. Não foi feita subtração automática desses pedidos do relatório de atribuição do Google Ads.
+
+MENSURAÇÃO E VENDAS PAGAS
+Hoje a ação primária é Compras, importada do evento purchase do GA4. A conversão automática Tray permanece secundária. A meta biddable consultada é compra.
+Cruzei os transactionIds das sessões PMax do GA4, entre 01 e 27/10, com a Tray.
+9 pedidos identificados, dos quais 7 pagos e 2 cancelados.
+Pedidos pagos somam R$ 8.620,83 no campo Total da Tray.
+Pagamentos somam R$ 8.340,77 no campo Valor pagamento.
+Os mesmos 7 pedidos somam R$ 8.547,24 no GA4. A diferença entre campos foi preservada, sem atribuir automaticamente a frete ou taxa.
+Os cancelados T_4040 e T_4042 somam R$ 2.910,52 e 25,4% do valor GA4 da amostra.
+O custo da PMax no mesmo intervalo foi R$ 1.848,25. O quociente da receita de pedidos pagos identificados pelo custo é 4,66x. CPA de pedidos pagos identificados de R$ 264,04.
+Esse é um indicador do subconjunto conciliado via campanha da sessão, sujeito às diferenças de atribuição e cobertura. A exportação não permite confirmar o pagamento dos pedidos posteriores a 28/10. Não representa conciliação integral do mês ou o modelo DDA da plataforma.
+
+Ação prioritária de mensuração
+Preparar um sinal de compra aprovada a partir de Tray/Vindi com transaction_id estável, valor e deduplicação.
+Validá-lo como secundário e reconciliar pagamento, cancelamento e devolução antes de torná-lo a meta de lances.
+Avaliar a compatibilidade de ajustes de conversão com a ação importada atual antes de qualquer retração ou reenvio.
+Enquanto a integração de produção não estiver validada, utilizar a planilha de pedidos pagos e a conciliação como controle comercial da escala.
+Responsáveis de mídia, integração e financeiro.
+
+ECONOMIA COM MARGEM DE 35%
+ROAS pago de equilíbrio de 2,86x, pela conta 1/0,35.
+Piso de controle proposto de 4,00x em receita paga, equivalente a 25% da receita em mídia e 10% de contribuição após mídia.
+No ticket médio de R$ 1.231,55 da amostra, CPA de controle de aproximadamente R$ 307,89.
+O CPA de R$ 431,04 consumiria toda a contribuição de 35% e é apenas equilíbrio econômico.
+O ROAS alvo do Google deve ser calibrado com a ação otimizada. O piso comercial de 4x não deve ser tratado como equivalente ao ROAS de purchase gerado antes da aprovação.
+Se os 35% forem anteriores a um novo desconto de BF, recalcular. Com custo constante equivalente a 65% do preço original, desconto adicional de 10% leva a margem a 27,78% e ROAS de equilíbrio a 3,60x.
+O piso comercial proposto é uma decisão de controle, não previsão de resultado.
+
+PRODUTOS E BLACK FRIDAY DE 2025
+Em novembro/2025 a PMax gastou R$ 780,77, registrou 47,10 compras e R$ 66.181,67 atribuídos, ROAS 84,76x.
+Naquele período havia duas ações de compra com volume. A ação Compras somou 17,03 e R$ 23.213,45. A conversão automática Tray somou 30,06 e R$ 42.968,22.
+Apenas a ação GA4 Compras equivale a ROAS 29,73x sobre o custo total. Não há confirmação de duplicidade entre as ações nem de pagamento integral.
+O Kit Essencial 5L, ID 49, concentrou R$ 41.261,01 no relatório de produtos com R$ 338,02 de investimento e 25,08 créditos de compra. Isso representa 95,0% do valor atribuído no recorte de produtos da campanha.
+Na semana de 24 a 30/11/2025, a PMax gastou apenas R$ 2,96 e não registrou conversões. O desempenho de novembro foi concentrado antes da semana da BF.
+O relatório mensal de 2025 deve orientar produto e mensagem, sem pressupor que a PMax capturou a demanda do fim de semana principal.
+
+Outubro/2026, relatório dos produtos anunciados
+Kit Essencial 5L ID 49 | R$ 36,62 | 2,17 créditos de compra | R$ 3.065,50 | ROAS 83,70x
+Barril 2L ID 99-17 | R$ 118,24 | 1,17 | R$ 1.782,07 | ROAS 15,07x
+Nitro Cold Brew 2L ID 117 | R$ 132,23 | 2 | R$ 1.582,98 | ROAS 11,97x
+Kit Essencial 2L ID 103 | R$ 200,00 | 1 | R$ 1.371,60 | ROAS 6,86x
+Kit Supremo ID 59 | R$ 85,30 | 0,17 | R$ 208,87 | ROAS 2,45x
+Kit Refil ID 51 | R$ 29,37 | 0 | zero receita atribuída
+O produto do anúncio pode levar à compra de outro item. Créditos fracionados e pequenos volumes pedem validação do SKU comprado e pagamento.
+O desempenho do 5L sustenta priorizá-lo em teste controlado. O ROAS alto sobre R$ 36,62 não pode ser extrapolado para aumento grande de verba.
+
+ESTRUTURA E CATÁLOGO
+Orçamento atual R$ 40/dia, não compartilhado.
+Lances Maximizar valor da conversão, sem ROAS alvo.
+A campanha consta LIMITADA com HAS_ASSET_GROUPS_LIMITED_BY_POLICY e UNKNOWN.
+01-FRIO está pausado e tem motivo de limitação. 02-NATAL está pausado. Apenas 02-QUENTE está ativo e elegível, com Ad Strength AVERAGE.
+Os 68 vínculos ativos de recursos consultados foram retornados como aprovados. O motivo agregado da campanha não identifica sozinho a causa atual.
+O grupo ativo contém uma única inclusão raiz de produtos, com caminho vazio, correspondente a todo o catálogo.
+O destino final informado é a página inicial.
+O público sinal combina listas de usuários, interesse, público personalizado, faixa etária e outros dados. Esses sinais orientam a PMax e não a restringem exclusivamente a remarketing.
+
+A consulta shopping_product retornou 21 itens. Dezoito elegíveis, dois sem estoque e um sem preço. Ela não foi tratada como inventário completo do Merchant.
+Sem estoque, IDs 121 e 153. Brinde ID 160 sem preço.
+Kit Essencial 5L ID 49, Kit Essencial 2L ID 103 e variantes 7-40 e 115-23 não apareceram nessa resposta. A ausência não comprova reprovação ou desativação.
+O detalhe no Merchant exige confirmação de identidade no navegador, ficando pendente a aprovação por SKU, país e destino.
+Priorizar confirmação de elegibilidade, estoque real e preço dos kits. Conferir consistência entre fonte Tray, IDs estáveis, variantes e URLs. Corrigir a fonte responsável para preservar atualizações.
+
+Proposta de organização
+Manter a campanha existente como base e iniciar com um grupo BF-Kits contendo os kits selecionados e seus próprios anúncios e destinos.
+Se houver estoque, margem e volume que justifiquem, organizar em até dois grupos de produtos sem sobreposição, Kits 5L e Kits/Chopeiras 2L.
+Os grupos compartilham orçamento. Caso seja necessária reserva obrigatória de verba para acessórios, avaliar campanha separada apenas quando houver volume e orçamento suficientes.
+Acessórios de baixo ticket devem ter controle de retorno, custo e margem. O lote principal da BF deve priorizar os kits e produtos com contribuição e estoque adequados.
+Não é necessário ativar FRIO e NATAL apenas pelos nomes.
+
+ANÚNCIOS, PÁGINAS E OFERTA
+O grupo ativo tem 15 títulos, 4 títulos longos, 6 descrições, 20 imagens entre os formatos de marketing, 8 vídeos, 14 vínculos AD_IMAGE e uma chamada de ação. As contagens da API não devem ser interpretadas como limites de criação ou quantidade única de criativos.
+Os textos consultados não incluem menção a Black Friday, desconto, promoção ou novembro.
+Há mensagens de portabilidade, bebida gelada e marca. A melhoria proposta é coerência de oferta e produto.
+Criar materiais de BF por kit, com produto montado, itens incluídos, condição de pagamento, prazo e preço aprovados.
+Preparar vídeo demonstrativo, prova social e apresentação do kit com oferta real, com versões verticais e horizontais.
+Exibir preço PIX e parcelado com condições claras. Conferir margem se houver nova promoção.
+Direcionar os anúncios específicos do kit à página correspondente, com preço, estoque, frete, prazo e itens inclusos consistentes.
+Preparar os materiais até 12/11, para permitir revisão antes de 27/11.
+
+De 01/10 a 03/11, as duas versões da URL da home somam R$ 511,74, 4 conversões e ROAS 9,25x no relatório de páginas.
+A URL do Kit Essencial 5L somou R$ 57,16, 2 conversões, R$ 2.856,63 e ROAS 49,97x.
+Isso sustenta um teste com página específica. O relatório de páginas cobre cerca de 98% do custo do período e não deve ser somado ao relatório de produtos ou termos.
+Revisar a expansão de URL e as exclusões de páginas institucionais, conteúdo e páginas sem oferta antes da BF.
+
+CONSULTAS E CANAIS
+As buscas de marca identificadas em outubro somam R$ 8.181,74 e representam 51,4% de todo o valor atribuído da campanha. O recorte de consultas disponibilizadas cobre aproximadamente 58,4% do gasto.
+Medir marca e aquisição para avaliar alcance incremental e evitar basear toda a escala no retorno das buscas pela própria About Beer.
+As 34 negativas exatas recomendadas em 28/10 constam agora na lista global da conta, que tem 96 negativas. A aplicação foi constatada, não executada nesta auditoria.
+Permanecem negativas globais refil, peças, torneira, manometro, tap handle e barril vazio. Revisar os bloqueios conforme a estratégia de acessórios, pois a loja vende produtos correspondentes.
+Em 01–03/11 surgiram bebida gin, chopeira sem cilindro de gas, recarga co2 alimentício e chopeira britânia 5 litros. Revisar intenção e oferta antes de excluir. Usar negativas específicas, preservando gin em consultas por taças e CO2 compatível com o catálogo.
+Search somou R$ 1.797,16 do gasto de outubro. Display, Gmail e Discover somam R$ 177,47 sem compras atribuídas, aproximadamente 8,9% do custo. YouTube registrou 1 conversão atribuída. Esses dados não sustentam responsabilizar isoladamente o vídeo pelo resultado.
+Configuração geográfica Presença ou interesse. O recorte de interesse somou R$ 44,19 e uma conversão em outubro. Validar a localização real e área atendida antes de mudar para Presença.
+
+EXPERIÊNCIA MOBILE
+Google Ads de outubro
+Mobile R$ 1.409,36 e ROAS 6,78x.
+Desktop R$ 573,13 e ROAS 11,11x.
+GA4 por sessão associada à PMax
+Mobile 1.089 sessões, 29 adições ao carrinho, 18 checkouts e 6 compras, taxa compras/sessões de 0,55%.
+Desktop 291 sessões, 38 adições, 15 checkouts e 5 compras, taxa de 1,72%.
+As etapas são contagens de eventos e não um funil sequencial de pessoas únicas.
+Priorizar teste de escolha de variante, CTA, frete, prazo, pagamento e carregamento no celular. A diferença é um sinal de investigação. O checkout não foi testado ponta a ponta nesta auditoria.
+
+ORÇAMENTO PROPOSTO E GATILHOS
+Referência atual de R$ 40/dia. A média realizada entre 01 e 03/11 foi R$ 41,12/dia.
+Cenário ilustrativo condicionado ao teto de novembro, aos produtos elegíveis e ao ROAS pago de controle.
+04–12/11 | R$ 40/dia | Resolver mensuração, diagnóstico do Merchant, oferta e grupo BF.
+13–22/11 | R$ 50/dia | Primeiro teste após as condições acima.
+23–26/11 | R$ 60/dia | Avançar se receita paga, margem e estoque sustentarem.
+27–30/11 | R$ 80/dia | Escala no período principal apenas se o teste anterior sustentar o piso.
+Com R$ 123,35 já gastos, esse desenho soma aproximadamente R$ 1.543,35 na PMax no mês. Manter R$ 40/dia desde 04/11 soma aproximadamente R$ 1.203,35.
+São contas de planejamento por média diária. O gasto efetivo pode variar. Os valores cobrem apenas a PMax e não incluem Pesquisa, Meta, Tray ou tributos.
+O cenário não é uma reserva de verba aprovada. A verba total de novembro permanece pendente.
+Aprovar o avanço por contribuição pós-mídia, ROAS de pedidos pagos igual ou superior a 4x, disponibilidade e experiência de compra.
+As conversões de outubro observadas ocorreram em até 3 dias do clique. Aguardar essa maturação mínima e analisar a tendência móvel de 7 dias. A amostra de um ou dois dias não deve determinar cortes ou grandes aumentos.
+Se o retorno pago ficar abaixo do piso com dados maduros, retornar à etapa anterior e identificar se a causa é oferta, estoque, pagamento ou tráfego.
+Ajustes de sazonalidade ficam restritos a um salto de conversão esperado e justificado para 27–30/11. O Google já considera sazonalidade e recomenda a ferramenta para eventos curtos. Não usar uma previsão percentual inventada para todo novembro.
+Criar meta de lucro e compra aprovada antes de calibrar um ROAS alvo permanente.
+
+TRÊS PRIORIDADES PARA EXECUÇÃO
+1. Mídia + integração + financeiro devem conciliar pagamentos e preparar o sinal aprovado. Sucesso medido pela cobertura dos transactionIds, ausência de duplicidade e contribuição pós-mídia.
+2. Ecommerce + Merchant devem garantir kits elegíveis, estoque e preços consistentes, com atenção ao ID 49 e variantes. Sucesso medido por elegibilidade confirmada e entrega dos produtos selecionados.
+3. Mídia + criativo + ecommerce devem preparar grupo BF por produto e página, validar experiência mobile e executar escala por etapas. Sucesso medido por ROAS pago acima do piso, ticket, taxa de pagamento e margem após mídia.
+
+LIMITAÇÕES
+Status de revisão detalhado no Merchant depende de confirmação de identidade.
+Os pagamentos e cancelamentos refletem a exportação Tray de 28/10/2026.
+O período 01–03/11 contém apenas três dias e pode receber atribuição tardia.
+A conciliação por sessão GA4 é parcial e difere da atribuição baseada em dados do Google Ads.
+O conteúdo visual completo dos criativos não foi inspecionado, e os eventos de checkout não foram testados em compra real.
+A margem foi informada como 35%. O teto mensal de investimento não foi informado.
+As ações comerciais e de campanha permanecem propostas.
+
+Referências
+https://support.google.com/google-ads/answer/11546049
+https://support.google.com/google-ads/answer/9352512
+https://support.google.com/google-ads/answer/7686447
+https://www.aboutbeer.com.br/kits/kit-about-essencial
+https://www.aboutbeer.com.br/kits/kit-about-essencial-2-litros
+

@@ -1,0 +1,28 @@
+# EXEMPLO: todos desativados até o novo gestor configurar e autorizar cada serviço.
+# Não substituir todo o config.toml pessoal por este arquivo. Mesclar somente as entradas necessárias.
+
+[mcp_servers."google_ads_-_canovas_mendes"]
+url = "https://google-ads-mcp-866821228285.us-central1.run.app/mcp"
+enabled = false
+# Acesso depende do responsável por este MCP privado e de autorização à conta Google Ads 9185273300.
+
+[mcp_servers.bling]
+url = "https://mcp.bling.com.br/mcp"
+enabled = false
+# Autenticar com o próprio usuário autorizado da About Beer, via OAuth.
+
+[mcp_servers.ga4]
+command = "analytics-mcp"
+enabled = false
+enabled_tools = ["get_account_summaries","get_custom_dimensions_and_metrics","get_property_details","list_google_ads_links","list_property_annotations","run_conversions_report","run_funnel_report","run_realtime_report","run_report"]
+[mcp_servers.ga4.env]
+GOOGLE_APPLICATION_CREDENTIALS = "CAMINHO_LOCAL/credencial-do-novo-gestor.json"
+GOOGLE_PROJECT_ID = "PROJETO_GOOGLE_DO_NOVO_GESTOR"
+# Instalar analytics-mcp e preparar autorização conforme a documentação do projeto oficial.
+
+[mcp_servers."aboutbeer-tray-testes"]
+url = "https://aboutbeer-tray-analytics.rogertobace.chatgpt.site/mcp"
+enabled = false
+# Somente loja de TESTES 1501140. A URL privada exige acesso ao app/plugin e hospedagem compatível.
+# Jarvis é uma API REST diferente; sua URL base não deve ser adicionada como se fosse um endpoint MCP.
+
